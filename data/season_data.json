@@ -1,0 +1,302 @@
+	[
+		{
+			"Division": "Atlantic",
+			"Team": "BOS",
+			"Points": 114.733,
+			"x": 1,
+			"y": 0,
+			"rank": 1,
+			"playoff": 1,
+			"Delta": "Even"
+		},
+		{
+			"Division": "Atlantic",
+			"Team": "TBL",
+			"Points": 106.3258,
+			"x": 1,
+			"y": 0,
+			"rank": 2,
+			"playoff": 1,
+			"Delta": "Even"
+		},
+		{
+			"Division": "Atlantic",
+			"Team": "DET",
+			"Points": 99.3386,
+			"x": 1,
+			"y": 0,
+			"rank": 3,
+			"playoff": 1,
+			"Delta": "Even"
+		},
+		{
+			"Division": "Atlantic",
+			"Team": "TOR",
+			"Points": 90.8494,
+			"x": 1,
+			"y": 0,
+			"rank": 4,
+			"playoff": 1,
+			"Delta": "Even"
+		},
+		{
+			"Division": "Atlantic",
+			"Team": "OTT",
+			"Points": 88.9796,
+			"x": 1,
+			"y": 0,
+			"rank": 5,
+			"playoff": 0,
+			"Delta": "Even"
+		},
+		{
+			"Division": "Atlantic",
+			"Team": "FLA",
+			"Points": 86.2322,
+			"x": 1,
+			"y": 0,
+			"rank": 6,
+			"playoff": 0,
+			"Delta": "Even"
+		},
+		{
+			"Division": "Atlantic",
+			"Team": "MTL",
+			"Points": 84.9238,
+			"x": 1,
+			"y": 0,
+			"rank": 7,
+			"playoff": 0,
+			"Delta": "Even"
+		},
+		{
+			"Division": "Atlantic",
+			"Team": "BUF",
+			"Points": 52.7746,
+			"x": 1,
+			"y": 0,
+			"rank": 8,
+			"playoff": 0,
+			"Delta": "Even"
+		},
+		{
+			"Division": "Central",
+			"Team": "STL",
+			"Points": 103.8148,
+			"x": 0,
+			"y": 0,
+			"rank": 1,
+			"playoff": 1,
+			"Delta": "Even"
+		},
+		{
+			"Division": "Central",
+			"Team": "MIN",
+			"Points": 101.3722,
+			"x": 0,
+			"y": 0,
+			"rank": 2,
+			"playoff": 1,
+			"Delta": "Up"
+		},
+		{
+			"Division": "Central",
+			"Team": "CHI",
+			"Points": 96.0436,
+			"x": 0,
+			"y": 0,
+			"rank": 3,
+			"playoff": 1,
+			"Delta": "Down"
+		},
+		{
+			"Division": "Central",
+			"Team": "DAL",
+			"Points": 90.5512,
+			"x": 0,
+			"y": 0,
+			"rank": 4,
+			"playoff": 1,
+			"Delta": "Even"
+		},
+		{
+			"Division": "Central",
+			"Team": "NSH",
+			"Points": 81.4354,
+			"x": 0,
+			"y": 0,
+			"rank": 5,
+			"playoff": 0,
+			"Delta": "Even"
+		},
+		{
+			"Division": "Central",
+			"Team": "COL",
+			"Points": 78.0336,
+			"x": 0,
+			"y": 0,
+			"rank": 6,
+			"playoff": 0,
+			"Delta": "Even"
+		},
+		{
+			"Division": "Central",
+			"Team": "WPG",
+			"Points": 75.5088,
+			"x": 0,
+			"y": 0,
+			"rank": 7,
+			"playoff": 0,
+			"Delta": "Up"
+		},
+		{
+			"Division": "Metro",
+			"Team": "PIT",
+			"Points": 113.6404,
+			"x": 1,
+			"y": 1,
+			"rank": 1,
+			"playoff": 1,
+			"Delta": "Even"
+		},
+		{
+			"Division": "Metro",
+			"Team": "NJD",
+			"Points": 108.6964,
+			"x": 1,
+			"y": 1,
+			"rank": 2,
+			"playoff": 1,
+			"Delta": "Even"
+		},
+		{
+			"Division": "Metro",
+			"Team": "WSH",
+			"Points": 91.3172,
+			"x": 1,
+			"y": 1,
+			"rank": 3,
+			"playoff": 1,
+			"Delta": "Down"
+		},
+		{
+			"Division": "Metro",
+			"Team": "NYI",
+			"Points": 89.8264,
+			"x": 1,
+			"y": 1,
+			"rank": 4,
+			"playoff": 1,
+			"Delta": "Even"
+		},
+		{
+			"Division": "Metro",
+			"Team": "CBJ",
+			"Points": 87.3762,
+			"x": 1,
+			"y": 1,
+			"rank": 5,
+			"playoff": 0,
+			"Delta": "Down"
+		},
+		{
+			"Division": "Metro",
+			"Team": "NYR",
+			"Points": 83.6994,
+			"x": 1,
+			"y": 1,
+			"rank": 6,
+			"playoff": 0,
+			"Delta": "Even"
+		},
+		{
+			"Division": "Metro",
+			"Team": "PHI",
+			"Points": 76.0124,
+			"x": 1,
+			"y": 1,
+			"rank": 7,
+			"playoff": 0,
+			"Delta": "Up"
+		},
+		{
+			"Division": "Metro",
+			"Team": "CAR",
+			"Points": 67.0034,
+			"x": 1,
+			"y": 1,
+			"rank": 8,
+			"playoff": 0,
+			"Delta": "Even"
+		},
+		{
+			"Division": "Pacific",
+			"Team": "ANA",
+			"Points": 107.1814,
+			"x": 0,
+			"y": 1,
+			"rank": 1,
+			"playoff": 1,
+			"Delta": "Even"
+		},
+		{
+			"Division": "Pacific",
+			"Team": "LAK",
+			"Points": 104.5356,
+			"x": 0,
+			"y": 1,
+			"rank": 2,
+			"playoff": 1,
+			"Delta": "Down"
+		},
+		{
+			"Division": "Pacific",
+			"Team": "VAN",
+			"Points": 91.4716,
+			"x": 0,
+			"y": 1,
+			"rank": 3,
+			"playoff": 1,
+			"Delta": "Up"
+		},
+		{
+			"Division": "Pacific",
+			"Team": "SJS",
+			"Points": 89.5098,
+			"x": 0,
+			"y": 1,
+			"rank": 4,
+			"playoff": 1,
+			"Delta": "Even"
+		},
+		{
+			"Division": "Pacific",
+			"Team": "CGY",
+			"Points": 83.6802,
+			"x": 0,
+			"y": 1,
+			"rank": 5,
+			"playoff": 0,
+			"Delta": "Even"
+		},
+		{
+			"Division": "Pacific",
+			"Team": "PHX",
+			"Points": 71.8494,
+			"x": 0,
+			"y": 1,
+			"rank": 6,
+			"playoff": 0,
+			"Delta": "Even"
+		},
+		{
+			"Division": "Pacific",
+			"Team": "EDM",
+			"Points": 70.5934,
+			"x": 0,
+			"y": 1,
+			"rank": 7,
+			"playoff": 0,
+			"Delta": "Even"
+		}
+	]

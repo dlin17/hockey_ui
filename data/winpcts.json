@@ -1,0 +1,4357 @@
+	[
+		{
+			"home_team": "Home",
+			"away_team": "Away",
+			"WINPCT": "Home Win %"
+		},
+		{
+			"home_team": "ANA",
+			"away_team": "BOS",
+			"WINPCT": "40.6%"
+		},
+		{
+			"home_team": "ANA",
+			"away_team": "BUF",
+			"WINPCT": "73.6%"
+		},
+		{
+			"home_team": "ANA",
+			"away_team": "CAR",
+			"WINPCT": "68.4%"
+		},
+		{
+			"home_team": "ANA",
+			"away_team": "CBJ",
+			"WINPCT": "61.7%"
+		},
+		{
+			"home_team": "ANA",
+			"away_team": "CGY",
+			"WINPCT": "69.3%"
+		},
+		{
+			"home_team": "ANA",
+			"away_team": "CHI",
+			"WINPCT": "53.6%"
+		},
+		{
+			"home_team": "ANA",
+			"away_team": "COL",
+			"WINPCT": "61.8%"
+		},
+		{
+			"home_team": "ANA",
+			"away_team": "DAL",
+			"WINPCT": "64.1%"
+		},
+		{
+			"home_team": "ANA",
+			"away_team": "DET",
+			"WINPCT": "57.6%"
+		},
+		{
+			"home_team": "ANA",
+			"away_team": "EDM",
+			"WINPCT": "68.3%"
+		},
+		{
+			"home_team": "ANA",
+			"away_team": "FLA",
+			"WINPCT": "66.8%"
+		},
+		{
+			"home_team": "ANA",
+			"away_team": "LAK",
+			"WINPCT": "49.9%"
+		},
+		{
+			"home_team": "ANA",
+			"away_team": "MIN",
+			"WINPCT": "60.5%"
+		},
+		{
+			"home_team": "ANA",
+			"away_team": "MTL",
+			"WINPCT": "65.0%"
+		},
+		{
+			"home_team": "ANA",
+			"away_team": "NJD",
+			"WINPCT": "59.6%"
+		},
+		{
+			"home_team": "ANA",
+			"away_team": "NSH",
+			"WINPCT": "67.3%"
+		},
+		{
+			"home_team": "ANA",
+			"away_team": "NYI",
+			"WINPCT": "68.4%"
+		},
+		{
+			"home_team": "ANA",
+			"away_team": "NYR",
+			"WINPCT": "55.0%"
+		},
+		{
+			"home_team": "ANA",
+			"away_team": "OTT",
+			"WINPCT": "59.7%"
+		},
+		{
+			"home_team": "ANA",
+			"away_team": "PHI",
+			"WINPCT": "63.2%"
+		},
+		{
+			"home_team": "ANA",
+			"away_team": "PHX",
+			"WINPCT": "70.3%"
+		},
+		{
+			"home_team": "ANA",
+			"away_team": "PIT",
+			"WINPCT": "62.0%"
+		},
+		{
+			"home_team": "ANA",
+			"away_team": "SJS",
+			"WINPCT": "58.0%"
+		},
+		{
+			"home_team": "ANA",
+			"away_team": "STL",
+			"WINPCT": "61.3%"
+		},
+		{
+			"home_team": "ANA",
+			"away_team": "TBL",
+			"WINPCT": "55.3%"
+		},
+		{
+			"home_team": "ANA",
+			"away_team": "TOR",
+			"WINPCT": "63.6%"
+		},
+		{
+			"home_team": "ANA",
+			"away_team": "VAN",
+			"WINPCT": "64.9%"
+		},
+		{
+			"home_team": "ANA",
+			"away_team": "WPG",
+			"WINPCT": "61.4%"
+		},
+		{
+			"home_team": "ANA",
+			"away_team": "WSH",
+			"WINPCT": "62.4%"
+		},
+		{
+			"home_team": "BOS",
+			"away_team": "ANA",
+			"WINPCT": "65.9%"
+		},
+		{
+			"home_team": "BOS",
+			"away_team": "BUF",
+			"WINPCT": "80.9%"
+		},
+		{
+			"home_team": "BOS",
+			"away_team": "CAR",
+			"WINPCT": "75.4%"
+		},
+		{
+			"home_team": "BOS",
+			"away_team": "CBJ",
+			"WINPCT": "71.5%"
+		},
+		{
+			"home_team": "BOS",
+			"away_team": "CGY",
+			"WINPCT": "78.3%"
+		},
+		{
+			"home_team": "BOS",
+			"away_team": "CHI",
+			"WINPCT": "66.1%"
+		},
+		{
+			"home_team": "BOS",
+			"away_team": "COL",
+			"WINPCT": "72.7%"
+		},
+		{
+			"home_team": "BOS",
+			"away_team": "DAL",
+			"WINPCT": "75.2%"
+		},
+		{
+			"home_team": "BOS",
+			"away_team": "DET",
+			"WINPCT": "66.8%"
+		},
+		{
+			"home_team": "BOS",
+			"away_team": "EDM",
+			"WINPCT": "77.5%"
+		},
+		{
+			"home_team": "BOS",
+			"away_team": "FLA",
+			"WINPCT": "75.9%"
+		},
+		{
+			"home_team": "BOS",
+			"away_team": "LAK",
+			"WINPCT": "62.5%"
+		},
+		{
+			"home_team": "BOS",
+			"away_team": "MIN",
+			"WINPCT": "72.4%"
+		},
+		{
+			"home_team": "BOS",
+			"away_team": "MTL",
+			"WINPCT": "74.1%"
+		},
+		{
+			"home_team": "BOS",
+			"away_team": "NJD",
+			"WINPCT": "71.8%"
+		},
+		{
+			"home_team": "BOS",
+			"away_team": "NSH",
+			"WINPCT": "75.5%"
+		},
+		{
+			"home_team": "BOS",
+			"away_team": "NYI",
+			"WINPCT": "75.6%"
+		},
+		{
+			"home_team": "BOS",
+			"away_team": "NYR",
+			"WINPCT": "67.9%"
+		},
+		{
+			"home_team": "BOS",
+			"away_team": "OTT",
+			"WINPCT": "70.1%"
+		},
+		{
+			"home_team": "BOS",
+			"away_team": "PHI",
+			"WINPCT": "72.6%"
+		},
+		{
+			"home_team": "BOS",
+			"away_team": "PHX",
+			"WINPCT": "79.1%"
+		},
+		{
+			"home_team": "BOS",
+			"away_team": "PIT",
+			"WINPCT": "71.7%"
+		},
+		{
+			"home_team": "BOS",
+			"away_team": "SJS",
+			"WINPCT": "68.7%"
+		},
+		{
+			"home_team": "BOS",
+			"away_team": "STL",
+			"WINPCT": "70.0%"
+		},
+		{
+			"home_team": "BOS",
+			"away_team": "TBL",
+			"WINPCT": "66.1%"
+		},
+		{
+			"home_team": "BOS",
+			"away_team": "TOR",
+			"WINPCT": "73.2%"
+		},
+		{
+			"home_team": "BOS",
+			"away_team": "VAN",
+			"WINPCT": "75.6%"
+		},
+		{
+			"home_team": "BOS",
+			"away_team": "WPG",
+			"WINPCT": "73.8%"
+		},
+		{
+			"home_team": "BOS",
+			"away_team": "WSH",
+			"WINPCT": "72.2%"
+		},
+		{
+			"home_team": "BUF",
+			"away_team": "ANA",
+			"WINPCT": "33.6%"
+		},
+		{
+			"home_team": "BUF",
+			"away_team": "BOS",
+			"WINPCT": "25.2%"
+		},
+		{
+			"home_team": "BUF",
+			"away_team": "CAR",
+			"WINPCT": "47.6%"
+		},
+		{
+			"home_team": "BUF",
+			"away_team": "CBJ",
+			"WINPCT": "40.0%"
+		},
+		{
+			"home_team": "BUF",
+			"away_team": "CGY",
+			"WINPCT": "51.2%"
+		},
+		{
+			"home_team": "BUF",
+			"away_team": "CHI",
+			"WINPCT": "33.6%"
+		},
+		{
+			"home_team": "BUF",
+			"away_team": "COL",
+			"WINPCT": "41.2%"
+		},
+		{
+			"home_team": "BUF",
+			"away_team": "DAL",
+			"WINPCT": "41.5%"
+		},
+		{
+			"home_team": "BUF",
+			"away_team": "DET",
+			"WINPCT": "37.4%"
+		},
+		{
+			"home_team": "BUF",
+			"away_team": "EDM",
+			"WINPCT": "48.2%"
+		},
+		{
+			"home_team": "BUF",
+			"away_team": "FLA",
+			"WINPCT": "45.9%"
+		},
+		{
+			"home_team": "BUF",
+			"away_team": "LAK",
+			"WINPCT": "31.3%"
+		},
+		{
+			"home_team": "BUF",
+			"away_team": "MIN",
+			"WINPCT": "41.8%"
+		},
+		{
+			"home_team": "BUF",
+			"away_team": "MTL",
+			"WINPCT": "43.6%"
+		},
+		{
+			"home_team": "BUF",
+			"away_team": "NJD",
+			"WINPCT": "42.4%"
+		},
+		{
+			"home_team": "BUF",
+			"away_team": "NSH",
+			"WINPCT": "45.9%"
+		},
+		{
+			"home_team": "BUF",
+			"away_team": "NYI",
+			"WINPCT": "46.7%"
+		},
+		{
+			"home_team": "BUF",
+			"away_team": "NYR",
+			"WINPCT": "37.0%"
+		},
+		{
+			"home_team": "BUF",
+			"away_team": "OTT",
+			"WINPCT": "38.2%"
+		},
+		{
+			"home_team": "BUF",
+			"away_team": "PHI",
+			"WINPCT": "42.6%"
+		},
+		{
+			"home_team": "BUF",
+			"away_team": "PHX",
+			"WINPCT": "51.5%"
+		},
+		{
+			"home_team": "BUF",
+			"away_team": "PIT",
+			"WINPCT": "40.9%"
+		},
+		{
+			"home_team": "BUF",
+			"away_team": "SJS",
+			"WINPCT": "37.8%"
+		},
+		{
+			"home_team": "BUF",
+			"away_team": "STL",
+			"WINPCT": "40.1%"
+		},
+		{
+			"home_team": "BUF",
+			"away_team": "TBL",
+			"WINPCT": "35.7%"
+		},
+		{
+			"home_team": "BUF",
+			"away_team": "TOR",
+			"WINPCT": "43.3%"
+		},
+		{
+			"home_team": "BUF",
+			"away_team": "VAN",
+			"WINPCT": "43.9%"
+		},
+		{
+			"home_team": "BUF",
+			"away_team": "WPG",
+			"WINPCT": "42.7%"
+		},
+		{
+			"home_team": "BUF",
+			"away_team": "WSH",
+			"WINPCT": "39.7%"
+		},
+		{
+			"home_team": "CAR",
+			"away_team": "ANA",
+			"WINPCT": "36.7%"
+		},
+		{
+			"home_team": "CAR",
+			"away_team": "BOS",
+			"WINPCT": "26.4%"
+		},
+		{
+			"home_team": "CAR",
+			"away_team": "BUF",
+			"WINPCT": "56.6%"
+		},
+		{
+			"home_team": "CAR",
+			"away_team": "CBJ",
+			"WINPCT": "43.8%"
+		},
+		{
+			"home_team": "CAR",
+			"away_team": "CGY",
+			"WINPCT": "52.0%"
+		},
+		{
+			"home_team": "CAR",
+			"away_team": "CHI",
+			"WINPCT": "35.6%"
+		},
+		{
+			"home_team": "CAR",
+			"away_team": "COL",
+			"WINPCT": "43.5%"
+		},
+		{
+			"home_team": "CAR",
+			"away_team": "DAL",
+			"WINPCT": "46.4%"
+		},
+		{
+			"home_team": "CAR",
+			"away_team": "DET",
+			"WINPCT": "40.0%"
+		},
+		{
+			"home_team": "CAR",
+			"away_team": "EDM",
+			"WINPCT": "52.4%"
+		},
+		{
+			"home_team": "CAR",
+			"away_team": "FLA",
+			"WINPCT": "52.0%"
+		},
+		{
+			"home_team": "CAR",
+			"away_team": "LAK",
+			"WINPCT": "35.5%"
+		},
+		{
+			"home_team": "CAR",
+			"away_team": "MIN",
+			"WINPCT": "44.9%"
+		},
+		{
+			"home_team": "CAR",
+			"away_team": "MTL",
+			"WINPCT": "47.7%"
+		},
+		{
+			"home_team": "CAR",
+			"away_team": "NJD",
+			"WINPCT": "44.2%"
+		},
+		{
+			"home_team": "CAR",
+			"away_team": "NSH",
+			"WINPCT": "50.0%"
+		},
+		{
+			"home_team": "CAR",
+			"away_team": "NYI",
+			"WINPCT": "49.4%"
+		},
+		{
+			"home_team": "CAR",
+			"away_team": "NYR",
+			"WINPCT": "39.5%"
+		},
+		{
+			"home_team": "CAR",
+			"away_team": "OTT",
+			"WINPCT": "43.5%"
+		},
+		{
+			"home_team": "CAR",
+			"away_team": "PHI",
+			"WINPCT": "44.8%"
+		},
+		{
+			"home_team": "CAR",
+			"away_team": "PHX",
+			"WINPCT": "52.5%"
+		},
+		{
+			"home_team": "CAR",
+			"away_team": "PIT",
+			"WINPCT": "44.1%"
+		},
+		{
+			"home_team": "CAR",
+			"away_team": "SJS",
+			"WINPCT": "38.9%"
+		},
+		{
+			"home_team": "CAR",
+			"away_team": "STL",
+			"WINPCT": "44.3%"
+		},
+		{
+			"home_team": "CAR",
+			"away_team": "TBL",
+			"WINPCT": "38.2%"
+		},
+		{
+			"home_team": "CAR",
+			"away_team": "TOR",
+			"WINPCT": "46.4%"
+		},
+		{
+			"home_team": "CAR",
+			"away_team": "VAN",
+			"WINPCT": "49.5%"
+		},
+		{
+			"home_team": "CAR",
+			"away_team": "WPG",
+			"WINPCT": "47.6%"
+		},
+		{
+			"home_team": "CAR",
+			"away_team": "WSH",
+			"WINPCT": "43.7%"
+		},
+		{
+			"home_team": "CBJ",
+			"away_team": "ANA",
+			"WINPCT": "46.8%"
+		},
+		{
+			"home_team": "CBJ",
+			"away_team": "BOS",
+			"WINPCT": "34.7%"
+		},
+		{
+			"home_team": "CBJ",
+			"away_team": "BUF",
+			"WINPCT": "64.5%"
+		},
+		{
+			"home_team": "CBJ",
+			"away_team": "CAR",
+			"WINPCT": "60.7%"
+		},
+		{
+			"home_team": "CBJ",
+			"away_team": "CGY",
+			"WINPCT": "61.7%"
+		},
+		{
+			"home_team": "CBJ",
+			"away_team": "CHI",
+			"WINPCT": "45.7%"
+		},
+		{
+			"home_team": "CBJ",
+			"away_team": "COL",
+			"WINPCT": "55.1%"
+		},
+		{
+			"home_team": "CBJ",
+			"away_team": "DAL",
+			"WINPCT": "57.3%"
+		},
+		{
+			"home_team": "CBJ",
+			"away_team": "DET",
+			"WINPCT": "49.0%"
+		},
+		{
+			"home_team": "CBJ",
+			"away_team": "EDM",
+			"WINPCT": "61.3%"
+		},
+		{
+			"home_team": "CBJ",
+			"away_team": "FLA",
+			"WINPCT": "60.3%"
+		},
+		{
+			"home_team": "CBJ",
+			"away_team": "LAK",
+			"WINPCT": "43.7%"
+		},
+		{
+			"home_team": "CBJ",
+			"away_team": "MIN",
+			"WINPCT": "53.5%"
+		},
+		{
+			"home_team": "CBJ",
+			"away_team": "MTL",
+			"WINPCT": "56.2%"
+		},
+		{
+			"home_team": "CBJ",
+			"away_team": "NJD",
+			"WINPCT": "50.9%"
+		},
+		{
+			"home_team": "CBJ",
+			"away_team": "NSH",
+			"WINPCT": "56.8%"
+		},
+		{
+			"home_team": "CBJ",
+			"away_team": "NYI",
+			"WINPCT": "58.8%"
+		},
+		{
+			"home_team": "CBJ",
+			"away_team": "NYR",
+			"WINPCT": "50.0%"
+		},
+		{
+			"home_team": "CBJ",
+			"away_team": "OTT",
+			"WINPCT": "54.8%"
+		},
+		{
+			"home_team": "CBJ",
+			"away_team": "PHI",
+			"WINPCT": "54.1%"
+		},
+		{
+			"home_team": "CBJ",
+			"away_team": "PHX",
+			"WINPCT": "63.6%"
+		},
+		{
+			"home_team": "CBJ",
+			"away_team": "PIT",
+			"WINPCT": "53.5%"
+		},
+		{
+			"home_team": "CBJ",
+			"away_team": "SJS",
+			"WINPCT": "49.1%"
+		},
+		{
+			"home_team": "CBJ",
+			"away_team": "STL",
+			"WINPCT": "53.2%"
+		},
+		{
+			"home_team": "CBJ",
+			"away_team": "TBL",
+			"WINPCT": "47.8%"
+		},
+		{
+			"home_team": "CBJ",
+			"away_team": "TOR",
+			"WINPCT": "55.3%"
+		},
+		{
+			"home_team": "CBJ",
+			"away_team": "VAN",
+			"WINPCT": "57.5%"
+		},
+		{
+			"home_team": "CBJ",
+			"away_team": "WPG",
+			"WINPCT": "54.2%"
+		},
+		{
+			"home_team": "CBJ",
+			"away_team": "WSH",
+			"WINPCT": "54.8%"
+		},
+		{
+			"home_team": "CGY",
+			"away_team": "ANA",
+			"WINPCT": "40.1%"
+		},
+		{
+			"home_team": "CGY",
+			"away_team": "BOS",
+			"WINPCT": "27.3%"
+		},
+		{
+			"home_team": "CGY",
+			"away_team": "BUF",
+			"WINPCT": "57.8%"
+		},
+		{
+			"home_team": "CGY",
+			"away_team": "CAR",
+			"WINPCT": "53.4%"
+		},
+		{
+			"home_team": "CGY",
+			"away_team": "CBJ",
+			"WINPCT": "47.1%"
+		},
+		{
+			"home_team": "CGY",
+			"away_team": "CHI",
+			"WINPCT": "40.6%"
+		},
+		{
+			"home_team": "CGY",
+			"away_team": "COL",
+			"WINPCT": "48.7%"
+		},
+		{
+			"home_team": "CGY",
+			"away_team": "DAL",
+			"WINPCT": "48.5%"
+		},
+		{
+			"home_team": "CGY",
+			"away_team": "DET",
+			"WINPCT": "44.0%"
+		},
+		{
+			"home_team": "CGY",
+			"away_team": "EDM",
+			"WINPCT": "53.4%"
+		},
+		{
+			"home_team": "CGY",
+			"away_team": "FLA",
+			"WINPCT": "53.5%"
+		},
+		{
+			"home_team": "CGY",
+			"away_team": "LAK",
+			"WINPCT": "37.8%"
+		},
+		{
+			"home_team": "CGY",
+			"away_team": "MIN",
+			"WINPCT": "46.3%"
+		},
+		{
+			"home_team": "CGY",
+			"away_team": "MTL",
+			"WINPCT": "49.0%"
+		},
+		{
+			"home_team": "CGY",
+			"away_team": "NJD",
+			"WINPCT": "47.8%"
+		},
+		{
+			"home_team": "CGY",
+			"away_team": "NSH",
+			"WINPCT": "52.6%"
+		},
+		{
+			"home_team": "CGY",
+			"away_team": "NYI",
+			"WINPCT": "52.4%"
+		},
+		{
+			"home_team": "CGY",
+			"away_team": "NYR",
+			"WINPCT": "43.3%"
+		},
+		{
+			"home_team": "CGY",
+			"away_team": "OTT",
+			"WINPCT": "48.7%"
+		},
+		{
+			"home_team": "CGY",
+			"away_team": "PHI",
+			"WINPCT": "46.9%"
+		},
+		{
+			"home_team": "CGY",
+			"away_team": "PHX",
+			"WINPCT": "56.7%"
+		},
+		{
+			"home_team": "CGY",
+			"away_team": "PIT",
+			"WINPCT": "47.6%"
+		},
+		{
+			"home_team": "CGY",
+			"away_team": "SJS",
+			"WINPCT": "43.2%"
+		},
+		{
+			"home_team": "CGY",
+			"away_team": "STL",
+			"WINPCT": "44.9%"
+		},
+		{
+			"home_team": "CGY",
+			"away_team": "TBL",
+			"WINPCT": "40.6%"
+		},
+		{
+			"home_team": "CGY",
+			"away_team": "TOR",
+			"WINPCT": "51.1%"
+		},
+		{
+			"home_team": "CGY",
+			"away_team": "VAN",
+			"WINPCT": "50.8%"
+		},
+		{
+			"home_team": "CGY",
+			"away_team": "WPG",
+			"WINPCT": "49.0%"
+		},
+		{
+			"home_team": "CGY",
+			"away_team": "WSH",
+			"WINPCT": "47.9%"
+		},
+		{
+			"home_team": "CHI",
+			"away_team": "ANA",
+			"WINPCT": "52.3%"
+		},
+		{
+			"home_team": "CHI",
+			"away_team": "BOS",
+			"WINPCT": "40.7%"
+		},
+		{
+			"home_team": "CHI",
+			"away_team": "BUF",
+			"WINPCT": "70.8%"
+		},
+		{
+			"home_team": "CHI",
+			"away_team": "CAR",
+			"WINPCT": "69.1%"
+		},
+		{
+			"home_team": "CHI",
+			"away_team": "CBJ",
+			"WINPCT": "60.0%"
+		},
+		{
+			"home_team": "CHI",
+			"away_team": "CGY",
+			"WINPCT": "68.5%"
+		},
+		{
+			"home_team": "CHI",
+			"away_team": "COL",
+			"WINPCT": "61.1%"
+		},
+		{
+			"home_team": "CHI",
+			"away_team": "DAL",
+			"WINPCT": "63.2%"
+		},
+		{
+			"home_team": "CHI",
+			"away_team": "DET",
+			"WINPCT": "56.8%"
+		},
+		{
+			"home_team": "CHI",
+			"away_team": "EDM",
+			"WINPCT": "67.4%"
+		},
+		{
+			"home_team": "CHI",
+			"away_team": "FLA",
+			"WINPCT": "67.1%"
+		},
+		{
+			"home_team": "CHI",
+			"away_team": "LAK",
+			"WINPCT": "50.1%"
+		},
+		{
+			"home_team": "CHI",
+			"away_team": "MIN",
+			"WINPCT": "58.6%"
+		},
+		{
+			"home_team": "CHI",
+			"away_team": "MTL",
+			"WINPCT": "62.4%"
+		},
+		{
+			"home_team": "CHI",
+			"away_team": "NJD",
+			"WINPCT": "59.7%"
+		},
+		{
+			"home_team": "CHI",
+			"away_team": "NSH",
+			"WINPCT": "65.9%"
+		},
+		{
+			"home_team": "CHI",
+			"away_team": "NYI",
+			"WINPCT": "66.3%"
+		},
+		{
+			"home_team": "CHI",
+			"away_team": "NYR",
+			"WINPCT": "57.2%"
+		},
+		{
+			"home_team": "CHI",
+			"away_team": "OTT",
+			"WINPCT": "63.3%"
+		},
+		{
+			"home_team": "CHI",
+			"away_team": "PHI",
+			"WINPCT": "61.7%"
+		},
+		{
+			"home_team": "CHI",
+			"away_team": "PHX",
+			"WINPCT": "70.2%"
+		},
+		{
+			"home_team": "CHI",
+			"away_team": "PIT",
+			"WINPCT": "60.6%"
+		},
+		{
+			"home_team": "CHI",
+			"away_team": "SJS",
+			"WINPCT": "57.6%"
+		},
+		{
+			"home_team": "CHI",
+			"away_team": "STL",
+			"WINPCT": "60.4%"
+		},
+		{
+			"home_team": "CHI",
+			"away_team": "TBL",
+			"WINPCT": "55.8%"
+		},
+		{
+			"home_team": "CHI",
+			"away_team": "TOR",
+			"WINPCT": "63.4%"
+		},
+		{
+			"home_team": "CHI",
+			"away_team": "VAN",
+			"WINPCT": "65.8%"
+		},
+		{
+			"home_team": "CHI",
+			"away_team": "WPG",
+			"WINPCT": "63.5%"
+		},
+		{
+			"home_team": "CHI",
+			"away_team": "WSH",
+			"WINPCT": "62.4%"
+		},
+		{
+			"home_team": "COL",
+			"away_team": "ANA",
+			"WINPCT": "45.4%"
+		},
+		{
+			"home_team": "COL",
+			"away_team": "BOS",
+			"WINPCT": "31.4%"
+		},
+		{
+			"home_team": "COL",
+			"away_team": "BUF",
+			"WINPCT": "65.8%"
+		},
+		{
+			"home_team": "COL",
+			"away_team": "CAR",
+			"WINPCT": "59.0%"
+		},
+		{
+			"home_team": "COL",
+			"away_team": "CBJ",
+			"WINPCT": "51.5%"
+		},
+		{
+			"home_team": "COL",
+			"away_team": "CGY",
+			"WINPCT": "60.5%"
+		},
+		{
+			"home_team": "COL",
+			"away_team": "CHI",
+			"WINPCT": "45.2%"
+		},
+		{
+			"home_team": "COL",
+			"away_team": "DAL",
+			"WINPCT": "57.0%"
+		},
+		{
+			"home_team": "COL",
+			"away_team": "DET",
+			"WINPCT": "46.0%"
+		},
+		{
+			"home_team": "COL",
+			"away_team": "EDM",
+			"WINPCT": "61.2%"
+		},
+		{
+			"home_team": "COL",
+			"away_team": "FLA",
+			"WINPCT": "60.3%"
+		},
+		{
+			"home_team": "COL",
+			"away_team": "LAK",
+			"WINPCT": "42.0%"
+		},
+		{
+			"home_team": "COL",
+			"away_team": "MIN",
+			"WINPCT": "52.5%"
+		},
+		{
+			"home_team": "COL",
+			"away_team": "MTL",
+			"WINPCT": "54.8%"
+		},
+		{
+			"home_team": "COL",
+			"away_team": "NJD",
+			"WINPCT": "51.4%"
+		},
+		{
+			"home_team": "COL",
+			"away_team": "NSH",
+			"WINPCT": "55.9%"
+		},
+		{
+			"home_team": "COL",
+			"away_team": "NYI",
+			"WINPCT": "58.8%"
+		},
+		{
+			"home_team": "COL",
+			"away_team": "NYR",
+			"WINPCT": "47.9%"
+		},
+		{
+			"home_team": "COL",
+			"away_team": "OTT",
+			"WINPCT": "52.4%"
+		},
+		{
+			"home_team": "COL",
+			"away_team": "PHI",
+			"WINPCT": "53.0%"
+		},
+		{
+			"home_team": "COL",
+			"away_team": "PHX",
+			"WINPCT": "63.2%"
+		},
+		{
+			"home_team": "COL",
+			"away_team": "PIT",
+			"WINPCT": "52.7%"
+		},
+		{
+			"home_team": "COL",
+			"away_team": "SJS",
+			"WINPCT": "47.3%"
+		},
+		{
+			"home_team": "COL",
+			"away_team": "STL",
+			"WINPCT": "50.2%"
+		},
+		{
+			"home_team": "COL",
+			"away_team": "TBL",
+			"WINPCT": "47.9%"
+		},
+		{
+			"home_team": "COL",
+			"away_team": "TOR",
+			"WINPCT": "55.4%"
+		},
+		{
+			"home_team": "COL",
+			"away_team": "VAN",
+			"WINPCT": "56.9%"
+		},
+		{
+			"home_team": "COL",
+			"away_team": "WPG",
+			"WINPCT": "52.4%"
+		},
+		{
+			"home_team": "COL",
+			"away_team": "WSH",
+			"WINPCT": "53.0%"
+		},
+		{
+			"home_team": "DAL",
+			"away_team": "ANA",
+			"WINPCT": "41.4%"
+		},
+		{
+			"home_team": "DAL",
+			"away_team": "BOS",
+			"WINPCT": "30.1%"
+		},
+		{
+			"home_team": "DAL",
+			"away_team": "BUF",
+			"WINPCT": "61.0%"
+		},
+		{
+			"home_team": "DAL",
+			"away_team": "CAR",
+			"WINPCT": "55.9%"
+		},
+		{
+			"home_team": "DAL",
+			"away_team": "CBJ",
+			"WINPCT": "49.4%"
+		},
+		{
+			"home_team": "DAL",
+			"away_team": "CGY",
+			"WINPCT": "57.9%"
+		},
+		{
+			"home_team": "DAL",
+			"away_team": "CHI",
+			"WINPCT": "42.5%"
+		},
+		{
+			"home_team": "DAL",
+			"away_team": "COL",
+			"WINPCT": "50.1%"
+		},
+		{
+			"home_team": "DAL",
+			"away_team": "DET",
+			"WINPCT": "43.0%"
+		},
+		{
+			"home_team": "DAL",
+			"away_team": "EDM",
+			"WINPCT": "58.4%"
+		},
+		{
+			"home_team": "DAL",
+			"away_team": "FLA",
+			"WINPCT": "56.5%"
+		},
+		{
+			"home_team": "DAL",
+			"away_team": "LAK",
+			"WINPCT": "39.2%"
+		},
+		{
+			"home_team": "DAL",
+			"away_team": "MIN",
+			"WINPCT": "47.7%"
+		},
+		{
+			"home_team": "DAL",
+			"away_team": "MTL",
+			"WINPCT": "52.4%"
+		},
+		{
+			"home_team": "DAL",
+			"away_team": "NJD",
+			"WINPCT": "50.2%"
+		},
+		{
+			"home_team": "DAL",
+			"away_team": "NSH",
+			"WINPCT": "53.9%"
+		},
+		{
+			"home_team": "DAL",
+			"away_team": "NYI",
+			"WINPCT": "55.4%"
+		},
+		{
+			"home_team": "DAL",
+			"away_team": "NYR",
+			"WINPCT": "44.4%"
+		},
+		{
+			"home_team": "DAL",
+			"away_team": "OTT",
+			"WINPCT": "50.8%"
+		},
+		{
+			"home_team": "DAL",
+			"away_team": "PHI",
+			"WINPCT": "48.5%"
+		},
+		{
+			"home_team": "DAL",
+			"away_team": "PHX",
+			"WINPCT": "59.2%"
+		},
+		{
+			"home_team": "DAL",
+			"away_team": "PIT",
+			"WINPCT": "47.3%"
+		},
+		{
+			"home_team": "DAL",
+			"away_team": "SJS",
+			"WINPCT": "44.1%"
+		},
+		{
+			"home_team": "DAL",
+			"away_team": "STL",
+			"WINPCT": "47.9%"
+		},
+		{
+			"home_team": "DAL",
+			"away_team": "TBL",
+			"WINPCT": "44.0%"
+		},
+		{
+			"home_team": "DAL",
+			"away_team": "TOR",
+			"WINPCT": "52.5%"
+		},
+		{
+			"home_team": "DAL",
+			"away_team": "VAN",
+			"WINPCT": "51.7%"
+		},
+		{
+			"home_team": "DAL",
+			"away_team": "WPG",
+			"WINPCT": "50.9%"
+		},
+		{
+			"home_team": "DAL",
+			"away_team": "WSH",
+			"WINPCT": "51.3%"
+		},
+		{
+			"home_team": "DET",
+			"away_team": "ANA",
+			"WINPCT": "48.9%"
+		},
+		{
+			"home_team": "DET",
+			"away_team": "BOS",
+			"WINPCT": "35.6%"
+		},
+		{
+			"home_team": "DET",
+			"away_team": "BUF",
+			"WINPCT": "68.8%"
+		},
+		{
+			"home_team": "DET",
+			"away_team": "CAR",
+			"WINPCT": "64.4%"
+		},
+		{
+			"home_team": "DET",
+			"away_team": "CBJ",
+			"WINPCT": "56.4%"
+		},
+		{
+			"home_team": "DET",
+			"away_team": "CGY",
+			"WINPCT": "66.1%"
+		},
+		{
+			"home_team": "DET",
+			"away_team": "CHI",
+			"WINPCT": "48.1%"
+		},
+		{
+			"home_team": "DET",
+			"away_team": "COL",
+			"WINPCT": "60.1%"
+		},
+		{
+			"home_team": "DET",
+			"away_team": "DAL",
+			"WINPCT": "59.1%"
+		},
+		{
+			"home_team": "DET",
+			"away_team": "EDM",
+			"WINPCT": "64.6%"
+		},
+		{
+			"home_team": "DET",
+			"away_team": "FLA",
+			"WINPCT": "63.1%"
+		},
+		{
+			"home_team": "DET",
+			"away_team": "LAK",
+			"WINPCT": "45.5%"
+		},
+		{
+			"home_team": "DET",
+			"away_team": "MIN",
+			"WINPCT": "57.3%"
+		},
+		{
+			"home_team": "DET",
+			"away_team": "MTL",
+			"WINPCT": "59.6%"
+		},
+		{
+			"home_team": "DET",
+			"away_team": "NJD",
+			"WINPCT": "58.0%"
+		},
+		{
+			"home_team": "DET",
+			"away_team": "NSH",
+			"WINPCT": "64.0%"
+		},
+		{
+			"home_team": "DET",
+			"away_team": "NYI",
+			"WINPCT": "61.2%"
+		},
+		{
+			"home_team": "DET",
+			"away_team": "NYR",
+			"WINPCT": "51.1%"
+		},
+		{
+			"home_team": "DET",
+			"away_team": "OTT",
+			"WINPCT": "56.0%"
+		},
+		{
+			"home_team": "DET",
+			"away_team": "PHI",
+			"WINPCT": "58.4%"
+		},
+		{
+			"home_team": "DET",
+			"away_team": "PHX",
+			"WINPCT": "67.0%"
+		},
+		{
+			"home_team": "DET",
+			"away_team": "PIT",
+			"WINPCT": "57.3%"
+		},
+		{
+			"home_team": "DET",
+			"away_team": "SJS",
+			"WINPCT": "51.5%"
+		},
+		{
+			"home_team": "DET",
+			"away_team": "STL",
+			"WINPCT": "53.9%"
+		},
+		{
+			"home_team": "DET",
+			"away_team": "TBL",
+			"WINPCT": "52.2%"
+		},
+		{
+			"home_team": "DET",
+			"away_team": "TOR",
+			"WINPCT": "58.5%"
+		},
+		{
+			"home_team": "DET",
+			"away_team": "VAN",
+			"WINPCT": "61.6%"
+		},
+		{
+			"home_team": "DET",
+			"away_team": "WPG",
+			"WINPCT": "59.7%"
+		},
+		{
+			"home_team": "DET",
+			"away_team": "WSH",
+			"WINPCT": "57.3%"
+		},
+		{
+			"home_team": "EDM",
+			"away_team": "ANA",
+			"WINPCT": "32.9%"
+		},
+		{
+			"home_team": "EDM",
+			"away_team": "BOS",
+			"WINPCT": "22.8%"
+		},
+		{
+			"home_team": "EDM",
+			"away_team": "BUF",
+			"WINPCT": "52.5%"
+		},
+		{
+			"home_team": "EDM",
+			"away_team": "CAR",
+			"WINPCT": "45.7%"
+		},
+		{
+			"home_team": "EDM",
+			"away_team": "CBJ",
+			"WINPCT": "43.7%"
+		},
+		{
+			"home_team": "EDM",
+			"away_team": "CGY",
+			"WINPCT": "49.4%"
+		},
+		{
+			"home_team": "EDM",
+			"away_team": "CHI",
+			"WINPCT": "33.0%"
+		},
+		{
+			"home_team": "EDM",
+			"away_team": "COL",
+			"WINPCT": "42.8%"
+		},
+		{
+			"home_team": "EDM",
+			"away_team": "DAL",
+			"WINPCT": "43.8%"
+		},
+		{
+			"home_team": "EDM",
+			"away_team": "DET",
+			"WINPCT": "34.6%"
+		},
+		{
+			"home_team": "EDM",
+			"away_team": "FLA",
+			"WINPCT": "46.6%"
+		},
+		{
+			"home_team": "EDM",
+			"away_team": "LAK",
+			"WINPCT": "30.9%"
+		},
+		{
+			"home_team": "EDM",
+			"away_team": "MIN",
+			"WINPCT": "40.4%"
+		},
+		{
+			"home_team": "EDM",
+			"away_team": "MTL",
+			"WINPCT": "43.7%"
+		},
+		{
+			"home_team": "EDM",
+			"away_team": "NJD",
+			"WINPCT": "39.5%"
+		},
+		{
+			"home_team": "EDM",
+			"away_team": "NSH",
+			"WINPCT": "45.2%"
+		},
+		{
+			"home_team": "EDM",
+			"away_team": "NYI",
+			"WINPCT": "46.9%"
+		},
+		{
+			"home_team": "EDM",
+			"away_team": "NYR",
+			"WINPCT": "36.3%"
+		},
+		{
+			"home_team": "EDM",
+			"away_team": "OTT",
+			"WINPCT": "40.6%"
+		},
+		{
+			"home_team": "EDM",
+			"away_team": "PHI",
+			"WINPCT": "42.4%"
+		},
+		{
+			"home_team": "EDM",
+			"away_team": "PHX",
+			"WINPCT": "51.2%"
+		},
+		{
+			"home_team": "EDM",
+			"away_team": "PIT",
+			"WINPCT": "38.6%"
+		},
+		{
+			"home_team": "EDM",
+			"away_team": "SJS",
+			"WINPCT": "35.5%"
+		},
+		{
+			"home_team": "EDM",
+			"away_team": "STL",
+			"WINPCT": "40.7%"
+		},
+		{
+			"home_team": "EDM",
+			"away_team": "TBL",
+			"WINPCT": "37.5%"
+		},
+		{
+			"home_team": "EDM",
+			"away_team": "TOR",
+			"WINPCT": "43.9%"
+		},
+		{
+			"home_team": "EDM",
+			"away_team": "VAN",
+			"WINPCT": "43.8%"
+		},
+		{
+			"home_team": "EDM",
+			"away_team": "WPG",
+			"WINPCT": "42.2%"
+		},
+		{
+			"home_team": "EDM",
+			"away_team": "WSH",
+			"WINPCT": "40.5%"
+		},
+		{
+			"home_team": "FLA",
+			"away_team": "ANA",
+			"WINPCT": "36.9%"
+		},
+		{
+			"home_team": "FLA",
+			"away_team": "BOS",
+			"WINPCT": "25.7%"
+		},
+		{
+			"home_team": "FLA",
+			"away_team": "BUF",
+			"WINPCT": "57.6%"
+		},
+		{
+			"home_team": "FLA",
+			"away_team": "CAR",
+			"WINPCT": "51.5%"
+		},
+		{
+			"home_team": "FLA",
+			"away_team": "CBJ",
+			"WINPCT": "44.7%"
+		},
+		{
+			"home_team": "FLA",
+			"away_team": "CGY",
+			"WINPCT": "53.0%"
+		},
+		{
+			"home_team": "FLA",
+			"away_team": "CHI",
+			"WINPCT": "36.5%"
+		},
+		{
+			"home_team": "FLA",
+			"away_team": "COL",
+			"WINPCT": "48.3%"
+		},
+		{
+			"home_team": "FLA",
+			"away_team": "DAL",
+			"WINPCT": "48.5%"
+		},
+		{
+			"home_team": "FLA",
+			"away_team": "DET",
+			"WINPCT": "40.2%"
+		},
+		{
+			"home_team": "FLA",
+			"away_team": "EDM",
+			"WINPCT": "52.7%"
+		},
+		{
+			"home_team": "FLA",
+			"away_team": "LAK",
+			"WINPCT": "34.7%"
+		},
+		{
+			"home_team": "FLA",
+			"away_team": "MIN",
+			"WINPCT": "46.4%"
+		},
+		{
+			"home_team": "FLA",
+			"away_team": "MTL",
+			"WINPCT": "47.1%"
+		},
+		{
+			"home_team": "FLA",
+			"away_team": "NJD",
+			"WINPCT": "46.7%"
+		},
+		{
+			"home_team": "FLA",
+			"away_team": "NSH",
+			"WINPCT": "50.0%"
+		},
+		{
+			"home_team": "FLA",
+			"away_team": "NYI",
+			"WINPCT": "51.4%"
+		},
+		{
+			"home_team": "FLA",
+			"away_team": "NYR",
+			"WINPCT": "42.5%"
+		},
+		{
+			"home_team": "FLA",
+			"away_team": "OTT",
+			"WINPCT": "46.1%"
+		},
+		{
+			"home_team": "FLA",
+			"away_team": "PHI",
+			"WINPCT": "47.6%"
+		},
+		{
+			"home_team": "FLA",
+			"away_team": "PHX",
+			"WINPCT": "54.0%"
+		},
+		{
+			"home_team": "FLA",
+			"away_team": "PIT",
+			"WINPCT": "44.4%"
+		},
+		{
+			"home_team": "FLA",
+			"away_team": "SJS",
+			"WINPCT": "39.8%"
+		},
+		{
+			"home_team": "FLA",
+			"away_team": "STL",
+			"WINPCT": "43.7%"
+		},
+		{
+			"home_team": "FLA",
+			"away_team": "TBL",
+			"WINPCT": "39.8%"
+		},
+		{
+			"home_team": "FLA",
+			"away_team": "TOR",
+			"WINPCT": "47.2%"
+		},
+		{
+			"home_team": "FLA",
+			"away_team": "VAN",
+			"WINPCT": "49.3%"
+		},
+		{
+			"home_team": "FLA",
+			"away_team": "WPG",
+			"WINPCT": "45.1%"
+		},
+		{
+			"home_team": "FLA",
+			"away_team": "WSH",
+			"WINPCT": "44.2%"
+		},
+		{
+			"home_team": "LAK",
+			"away_team": "ANA",
+			"WINPCT": "55.0%"
+		},
+		{
+			"home_team": "LAK",
+			"away_team": "BOS",
+			"WINPCT": "42.1%"
+		},
+		{
+			"home_team": "LAK",
+			"away_team": "BUF",
+			"WINPCT": "73.1%"
+		},
+		{
+			"home_team": "LAK",
+			"away_team": "CAR",
+			"WINPCT": "68.9%"
+		},
+		{
+			"home_team": "LAK",
+			"away_team": "CBJ",
+			"WINPCT": "60.2%"
+		},
+		{
+			"home_team": "LAK",
+			"away_team": "CGY",
+			"WINPCT": "69.5%"
+		},
+		{
+			"home_team": "LAK",
+			"away_team": "CHI",
+			"WINPCT": "54.1%"
+		},
+		{
+			"home_team": "LAK",
+			"away_team": "COL",
+			"WINPCT": "64.2%"
+		},
+		{
+			"home_team": "LAK",
+			"away_team": "DAL",
+			"WINPCT": "65.4%"
+		},
+		{
+			"home_team": "LAK",
+			"away_team": "DET",
+			"WINPCT": "58.8%"
+		},
+		{
+			"home_team": "LAK",
+			"away_team": "EDM",
+			"WINPCT": "70.4%"
+		},
+		{
+			"home_team": "LAK",
+			"away_team": "FLA",
+			"WINPCT": "67.2%"
+		},
+		{
+			"home_team": "LAK",
+			"away_team": "MIN",
+			"WINPCT": "61.4%"
+		},
+		{
+			"home_team": "LAK",
+			"away_team": "MTL",
+			"WINPCT": "62.9%"
+		},
+		{
+			"home_team": "LAK",
+			"away_team": "NJD",
+			"WINPCT": "62.3%"
+		},
+		{
+			"home_team": "LAK",
+			"away_team": "NSH",
+			"WINPCT": "67.1%"
+		},
+		{
+			"home_team": "LAK",
+			"away_team": "NYI",
+			"WINPCT": "67.6%"
+		},
+		{
+			"home_team": "LAK",
+			"away_team": "NYR",
+			"WINPCT": "57.6%"
+		},
+		{
+			"home_team": "LAK",
+			"away_team": "OTT",
+			"WINPCT": "61.9%"
+		},
+		{
+			"home_team": "LAK",
+			"away_team": "PHI",
+			"WINPCT": "63.8%"
+		},
+		{
+			"home_team": "LAK",
+			"away_team": "PHX",
+			"WINPCT": "71.0%"
+		},
+		{
+			"home_team": "LAK",
+			"away_team": "PIT",
+			"WINPCT": "64.0%"
+		},
+		{
+			"home_team": "LAK",
+			"away_team": "SJS",
+			"WINPCT": "57.3%"
+		},
+		{
+			"home_team": "LAK",
+			"away_team": "STL",
+			"WINPCT": "61.8%"
+		},
+		{
+			"home_team": "LAK",
+			"away_team": "TBL",
+			"WINPCT": "59.2%"
+		},
+		{
+			"home_team": "LAK",
+			"away_team": "TOR",
+			"WINPCT": "67.0%"
+		},
+		{
+			"home_team": "LAK",
+			"away_team": "VAN",
+			"WINPCT": "66.2%"
+		},
+		{
+			"home_team": "LAK",
+			"away_team": "WPG",
+			"WINPCT": "65.7%"
+		},
+		{
+			"home_team": "LAK",
+			"away_team": "WSH",
+			"WINPCT": "63.5%"
+		},
+		{
+			"home_team": "MIN",
+			"away_team": "ANA",
+			"WINPCT": "44.6%"
+		},
+		{
+			"home_team": "MIN",
+			"away_team": "BOS",
+			"WINPCT": "35.1%"
+		},
+		{
+			"home_team": "MIN",
+			"away_team": "BUF",
+			"WINPCT": "64.2%"
+		},
+		{
+			"home_team": "MIN",
+			"away_team": "CAR",
+			"WINPCT": "60.2%"
+		},
+		{
+			"home_team": "MIN",
+			"away_team": "CBJ",
+			"WINPCT": "53.6%"
+		},
+		{
+			"home_team": "MIN",
+			"away_team": "CGY",
+			"WINPCT": "61.0%"
+		},
+		{
+			"home_team": "MIN",
+			"away_team": "CHI",
+			"WINPCT": "46.2%"
+		},
+		{
+			"home_team": "MIN",
+			"away_team": "COL",
+			"WINPCT": "54.3%"
+		},
+		{
+			"home_team": "MIN",
+			"away_team": "DAL",
+			"WINPCT": "57.3%"
+		},
+		{
+			"home_team": "MIN",
+			"away_team": "DET",
+			"WINPCT": "48.6%"
+		},
+		{
+			"home_team": "MIN",
+			"away_team": "EDM",
+			"WINPCT": "59.3%"
+		},
+		{
+			"home_team": "MIN",
+			"away_team": "FLA",
+			"WINPCT": "59.5%"
+		},
+		{
+			"home_team": "MIN",
+			"away_team": "LAK",
+			"WINPCT": "40.5%"
+		},
+		{
+			"home_team": "MIN",
+			"away_team": "MTL",
+			"WINPCT": "56.4%"
+		},
+		{
+			"home_team": "MIN",
+			"away_team": "NJD",
+			"WINPCT": "54.8%"
+		},
+		{
+			"home_team": "MIN",
+			"away_team": "NSH",
+			"WINPCT": "59.2%"
+		},
+		{
+			"home_team": "MIN",
+			"away_team": "NYI",
+			"WINPCT": "58.9%"
+		},
+		{
+			"home_team": "MIN",
+			"away_team": "NYR",
+			"WINPCT": "47.6%"
+		},
+		{
+			"home_team": "MIN",
+			"away_team": "OTT",
+			"WINPCT": "55.0%"
+		},
+		{
+			"home_team": "MIN",
+			"away_team": "PHI",
+			"WINPCT": "53.3%"
+		},
+		{
+			"home_team": "MIN",
+			"away_team": "PHX",
+			"WINPCT": "60.9%"
+		},
+		{
+			"home_team": "MIN",
+			"away_team": "PIT",
+			"WINPCT": "51.9%"
+		},
+		{
+			"home_team": "MIN",
+			"away_team": "SJS",
+			"WINPCT": "50.5%"
+		},
+		{
+			"home_team": "MIN",
+			"away_team": "STL",
+			"WINPCT": "52.3%"
+		},
+		{
+			"home_team": "MIN",
+			"away_team": "TBL",
+			"WINPCT": "47.8%"
+		},
+		{
+			"home_team": "MIN",
+			"away_team": "TOR",
+			"WINPCT": "56.0%"
+		},
+		{
+			"home_team": "MIN",
+			"away_team": "VAN",
+			"WINPCT": "55.2%"
+		},
+		{
+			"home_team": "MIN",
+			"away_team": "WPG",
+			"WINPCT": "54.0%"
+		},
+		{
+			"home_team": "MIN",
+			"away_team": "WSH",
+			"WINPCT": "54.6%"
+		},
+		{
+			"home_team": "MTL",
+			"away_team": "ANA",
+			"WINPCT": "38.3%"
+		},
+		{
+			"home_team": "MTL",
+			"away_team": "BOS",
+			"WINPCT": "26.7%"
+		},
+		{
+			"home_team": "MTL",
+			"away_team": "BUF",
+			"WINPCT": "56.5%"
+		},
+		{
+			"home_team": "MTL",
+			"away_team": "CAR",
+			"WINPCT": "52.8%"
+		},
+		{
+			"home_team": "MTL",
+			"away_team": "CBJ",
+			"WINPCT": "44.4%"
+		},
+		{
+			"home_team": "MTL",
+			"away_team": "CGY",
+			"WINPCT": "54.0%"
+		},
+		{
+			"home_team": "MTL",
+			"away_team": "CHI",
+			"WINPCT": "39.4%"
+		},
+		{
+			"home_team": "MTL",
+			"away_team": "COL",
+			"WINPCT": "45.4%"
+		},
+		{
+			"home_team": "MTL",
+			"away_team": "DAL",
+			"WINPCT": "50.4%"
+		},
+		{
+			"home_team": "MTL",
+			"away_team": "DET",
+			"WINPCT": "40.8%"
+		},
+		{
+			"home_team": "MTL",
+			"away_team": "EDM",
+			"WINPCT": "54.7%"
+		},
+		{
+			"home_team": "MTL",
+			"away_team": "FLA",
+			"WINPCT": "52.0%"
+		},
+		{
+			"home_team": "MTL",
+			"away_team": "LAK",
+			"WINPCT": "35.5%"
+		},
+		{
+			"home_team": "MTL",
+			"away_team": "MIN",
+			"WINPCT": "44.5%"
+		},
+		{
+			"home_team": "MTL",
+			"away_team": "NJD",
+			"WINPCT": "44.0%"
+		},
+		{
+			"home_team": "MTL",
+			"away_team": "NSH",
+			"WINPCT": "52.3%"
+		},
+		{
+			"home_team": "MTL",
+			"away_team": "NYI",
+			"WINPCT": "54.3%"
+		},
+		{
+			"home_team": "MTL",
+			"away_team": "NYR",
+			"WINPCT": "40.3%"
+		},
+		{
+			"home_team": "MTL",
+			"away_team": "OTT",
+			"WINPCT": "46.0%"
+		},
+		{
+			"home_team": "MTL",
+			"away_team": "PHI",
+			"WINPCT": "46.4%"
+		},
+		{
+			"home_team": "MTL",
+			"away_team": "PHX",
+			"WINPCT": "56.6%"
+		},
+		{
+			"home_team": "MTL",
+			"away_team": "PIT",
+			"WINPCT": "46.5%"
+		},
+		{
+			"home_team": "MTL",
+			"away_team": "SJS",
+			"WINPCT": "41.4%"
+		},
+		{
+			"home_team": "MTL",
+			"away_team": "STL",
+			"WINPCT": "45.3%"
+		},
+		{
+			"home_team": "MTL",
+			"away_team": "TBL",
+			"WINPCT": "41.2%"
+		},
+		{
+			"home_team": "MTL",
+			"away_team": "TOR",
+			"WINPCT": "49.2%"
+		},
+		{
+			"home_team": "MTL",
+			"away_team": "VAN",
+			"WINPCT": "52.9%"
+		},
+		{
+			"home_team": "MTL",
+			"away_team": "WPG",
+			"WINPCT": "47.5%"
+		},
+		{
+			"home_team": "MTL",
+			"away_team": "WSH",
+			"WINPCT": "49.6%"
+		},
+		{
+			"home_team": "NJD",
+			"away_team": "ANA",
+			"WINPCT": "44.7%"
+		},
+		{
+			"home_team": "NJD",
+			"away_team": "BOS",
+			"WINPCT": "36.8%"
+		},
+		{
+			"home_team": "NJD",
+			"away_team": "BUF",
+			"WINPCT": "65.8%"
+		},
+		{
+			"home_team": "NJD",
+			"away_team": "CAR",
+			"WINPCT": "60.5%"
+		},
+		{
+			"home_team": "NJD",
+			"away_team": "CBJ",
+			"WINPCT": "53.4%"
+		},
+		{
+			"home_team": "NJD",
+			"away_team": "CGY",
+			"WINPCT": "59.6%"
+		},
+		{
+			"home_team": "NJD",
+			"away_team": "CHI",
+			"WINPCT": "45.9%"
+		},
+		{
+			"home_team": "NJD",
+			"away_team": "COL",
+			"WINPCT": "55.8%"
+		},
+		{
+			"home_team": "NJD",
+			"away_team": "DAL",
+			"WINPCT": "58.4%"
+		},
+		{
+			"home_team": "NJD",
+			"away_team": "DET",
+			"WINPCT": "51.2%"
+		},
+		{
+			"home_team": "NJD",
+			"away_team": "EDM",
+			"WINPCT": "61.1%"
+		},
+		{
+			"home_team": "NJD",
+			"away_team": "FLA",
+			"WINPCT": "62.1%"
+		},
+		{
+			"home_team": "NJD",
+			"away_team": "LAK",
+			"WINPCT": "44.3%"
+		},
+		{
+			"home_team": "NJD",
+			"away_team": "MIN",
+			"WINPCT": "56.3%"
+		},
+		{
+			"home_team": "NJD",
+			"away_team": "MTL",
+			"WINPCT": "55.5%"
+		},
+		{
+			"home_team": "NJD",
+			"away_team": "NSH",
+			"WINPCT": "57.0%"
+		},
+		{
+			"home_team": "NJD",
+			"away_team": "NYI",
+			"WINPCT": "58.2%"
+		},
+		{
+			"home_team": "NJD",
+			"away_team": "NYR",
+			"WINPCT": "49.6%"
+		},
+		{
+			"home_team": "NJD",
+			"away_team": "OTT",
+			"WINPCT": "54.7%"
+		},
+		{
+			"home_team": "NJD",
+			"away_team": "PHI",
+			"WINPCT": "55.3%"
+		},
+		{
+			"home_team": "NJD",
+			"away_team": "PHX",
+			"WINPCT": "64.3%"
+		},
+		{
+			"home_team": "NJD",
+			"away_team": "PIT",
+			"WINPCT": "53.9%"
+		},
+		{
+			"home_team": "NJD",
+			"away_team": "SJS",
+			"WINPCT": "49.6%"
+		},
+		{
+			"home_team": "NJD",
+			"away_team": "STL",
+			"WINPCT": "54.5%"
+		},
+		{
+			"home_team": "NJD",
+			"away_team": "TBL",
+			"WINPCT": "49.2%"
+		},
+		{
+			"home_team": "NJD",
+			"away_team": "TOR",
+			"WINPCT": "56.8%"
+		},
+		{
+			"home_team": "NJD",
+			"away_team": "VAN",
+			"WINPCT": "58.2%"
+		},
+		{
+			"home_team": "NJD",
+			"away_team": "WPG",
+			"WINPCT": "54.9%"
+		},
+		{
+			"home_team": "NJD",
+			"away_team": "WSH",
+			"WINPCT": "55.8%"
+		},
+		{
+			"home_team": "NSH",
+			"away_team": "ANA",
+			"WINPCT": "36.6%"
+		},
+		{
+			"home_team": "NSH",
+			"away_team": "BOS",
+			"WINPCT": "25.9%"
+		},
+		{
+			"home_team": "NSH",
+			"away_team": "BUF",
+			"WINPCT": "56.5%"
+		},
+		{
+			"home_team": "NSH",
+			"away_team": "CAR",
+			"WINPCT": "49.7%"
+		},
+		{
+			"home_team": "NSH",
+			"away_team": "CBJ",
+			"WINPCT": "42.5%"
+		},
+		{
+			"home_team": "NSH",
+			"away_team": "CGY",
+			"WINPCT": "52.4%"
+		},
+		{
+			"home_team": "NSH",
+			"away_team": "CHI",
+			"WINPCT": "37.6%"
+		},
+		{
+			"home_team": "NSH",
+			"away_team": "COL",
+			"WINPCT": "44.7%"
+		},
+		{
+			"home_team": "NSH",
+			"away_team": "DAL",
+			"WINPCT": "45.1%"
+		},
+		{
+			"home_team": "NSH",
+			"away_team": "DET",
+			"WINPCT": "41.1%"
+		},
+		{
+			"home_team": "NSH",
+			"away_team": "EDM",
+			"WINPCT": "53.2%"
+		},
+		{
+			"home_team": "NSH",
+			"away_team": "FLA",
+			"WINPCT": "51.4%"
+		},
+		{
+			"home_team": "NSH",
+			"away_team": "LAK",
+			"WINPCT": "33.9%"
+		},
+		{
+			"home_team": "NSH",
+			"away_team": "MIN",
+			"WINPCT": "44.8%"
+		},
+		{
+			"home_team": "NSH",
+			"away_team": "MTL",
+			"WINPCT": "48.2%"
+		},
+		{
+			"home_team": "NSH",
+			"away_team": "NJD",
+			"WINPCT": "45.5%"
+		},
+		{
+			"home_team": "NSH",
+			"away_team": "NYI",
+			"WINPCT": "52.5%"
+		},
+		{
+			"home_team": "NSH",
+			"away_team": "NYR",
+			"WINPCT": "40.2%"
+		},
+		{
+			"home_team": "NSH",
+			"away_team": "OTT",
+			"WINPCT": "43.7%"
+		},
+		{
+			"home_team": "NSH",
+			"away_team": "PHI",
+			"WINPCT": "44.9%"
+		},
+		{
+			"home_team": "NSH",
+			"away_team": "PHX",
+			"WINPCT": "53.7%"
+		},
+		{
+			"home_team": "NSH",
+			"away_team": "PIT",
+			"WINPCT": "44.0%"
+		},
+		{
+			"home_team": "NSH",
+			"away_team": "SJS",
+			"WINPCT": "39.1%"
+		},
+		{
+			"home_team": "NSH",
+			"away_team": "STL",
+			"WINPCT": "44.4%"
+		},
+		{
+			"home_team": "NSH",
+			"away_team": "TBL",
+			"WINPCT": "38.3%"
+		},
+		{
+			"home_team": "NSH",
+			"away_team": "TOR",
+			"WINPCT": "46.8%"
+		},
+		{
+			"home_team": "NSH",
+			"away_team": "VAN",
+			"WINPCT": "48.4%"
+		},
+		{
+			"home_team": "NSH",
+			"away_team": "WPG",
+			"WINPCT": "45.0%"
+		},
+		{
+			"home_team": "NSH",
+			"away_team": "WSH",
+			"WINPCT": "44.5%"
+		},
+		{
+			"home_team": "NYI",
+			"away_team": "ANA",
+			"WINPCT": "35.7%"
+		},
+		{
+			"home_team": "NYI",
+			"away_team": "BOS",
+			"WINPCT": "27.0%"
+		},
+		{
+			"home_team": "NYI",
+			"away_team": "BUF",
+			"WINPCT": "57.8%"
+		},
+		{
+			"home_team": "NYI",
+			"away_team": "CAR",
+			"WINPCT": "52.9%"
+		},
+		{
+			"home_team": "NYI",
+			"away_team": "CBJ",
+			"WINPCT": "44.9%"
+		},
+		{
+			"home_team": "NYI",
+			"away_team": "CGY",
+			"WINPCT": "52.8%"
+		},
+		{
+			"home_team": "NYI",
+			"away_team": "CHI",
+			"WINPCT": "36.1%"
+		},
+		{
+			"home_team": "NYI",
+			"away_team": "COL",
+			"WINPCT": "46.5%"
+		},
+		{
+			"home_team": "NYI",
+			"away_team": "DAL",
+			"WINPCT": "48.1%"
+		},
+		{
+			"home_team": "NYI",
+			"away_team": "DET",
+			"WINPCT": "39.8%"
+		},
+		{
+			"home_team": "NYI",
+			"away_team": "EDM",
+			"WINPCT": "53.9%"
+		},
+		{
+			"home_team": "NYI",
+			"away_team": "FLA",
+			"WINPCT": "51.3%"
+		},
+		{
+			"home_team": "NYI",
+			"away_team": "LAK",
+			"WINPCT": "34.4%"
+		},
+		{
+			"home_team": "NYI",
+			"away_team": "MIN",
+			"WINPCT": "46.3%"
+		},
+		{
+			"home_team": "NYI",
+			"away_team": "MTL",
+			"WINPCT": "47.5%"
+		},
+		{
+			"home_team": "NYI",
+			"away_team": "NJD",
+			"WINPCT": "46.4%"
+		},
+		{
+			"home_team": "NYI",
+			"away_team": "NSH",
+			"WINPCT": "49.9%"
+		},
+		{
+			"home_team": "NYI",
+			"away_team": "NYR",
+			"WINPCT": "40.1%"
+		},
+		{
+			"home_team": "NYI",
+			"away_team": "OTT",
+			"WINPCT": "45.6%"
+		},
+		{
+			"home_team": "NYI",
+			"away_team": "PHI",
+			"WINPCT": "43.5%"
+		},
+		{
+			"home_team": "NYI",
+			"away_team": "PHX",
+			"WINPCT": "53.8%"
+		},
+		{
+			"home_team": "NYI",
+			"away_team": "PIT",
+			"WINPCT": "46.7%"
+		},
+		{
+			"home_team": "NYI",
+			"away_team": "SJS",
+			"WINPCT": "37.1%"
+		},
+		{
+			"home_team": "NYI",
+			"away_team": "STL",
+			"WINPCT": "43.9%"
+		},
+		{
+			"home_team": "NYI",
+			"away_team": "TBL",
+			"WINPCT": "39.2%"
+		},
+		{
+			"home_team": "NYI",
+			"away_team": "TOR",
+			"WINPCT": "47.0%"
+		},
+		{
+			"home_team": "NYI",
+			"away_team": "VAN",
+			"WINPCT": "50.0%"
+		},
+		{
+			"home_team": "NYI",
+			"away_team": "WPG",
+			"WINPCT": "46.5%"
+		},
+		{
+			"home_team": "NYI",
+			"away_team": "WSH",
+			"WINPCT": "46.6%"
+		},
+		{
+			"home_team": "NYR",
+			"away_team": "ANA",
+			"WINPCT": "51.5%"
+		},
+		{
+			"home_team": "NYR",
+			"away_team": "BOS",
+			"WINPCT": "37.6%"
+		},
+		{
+			"home_team": "NYR",
+			"away_team": "BUF",
+			"WINPCT": "70.2%"
+		},
+		{
+			"home_team": "NYR",
+			"away_team": "CAR",
+			"WINPCT": "62.8%"
+		},
+		{
+			"home_team": "NYR",
+			"away_team": "CBJ",
+			"WINPCT": "57.1%"
+		},
+		{
+			"home_team": "NYR",
+			"away_team": "CGY",
+			"WINPCT": "65.0%"
+		},
+		{
+			"home_team": "NYR",
+			"away_team": "CHI",
+			"WINPCT": "49.0%"
+		},
+		{
+			"home_team": "NYR",
+			"away_team": "COL",
+			"WINPCT": "57.2%"
+		},
+		{
+			"home_team": "NYR",
+			"away_team": "DAL",
+			"WINPCT": "59.8%"
+		},
+		{
+			"home_team": "NYR",
+			"away_team": "DET",
+			"WINPCT": "55.2%"
+		},
+		{
+			"home_team": "NYR",
+			"away_team": "EDM",
+			"WINPCT": "64.3%"
+		},
+		{
+			"home_team": "NYR",
+			"away_team": "FLA",
+			"WINPCT": "63.6%"
+		},
+		{
+			"home_team": "NYR",
+			"away_team": "LAK",
+			"WINPCT": "46.1%"
+		},
+		{
+			"home_team": "NYR",
+			"away_team": "MIN",
+			"WINPCT": "59.3%"
+		},
+		{
+			"home_team": "NYR",
+			"away_team": "MTL",
+			"WINPCT": "60.7%"
+		},
+		{
+			"home_team": "NYR",
+			"away_team": "NJD",
+			"WINPCT": "57.3%"
+		},
+		{
+			"home_team": "NYR",
+			"away_team": "NSH",
+			"WINPCT": "61.8%"
+		},
+		{
+			"home_team": "NYR",
+			"away_team": "NYI",
+			"WINPCT": "62.2%"
+		},
+		{
+			"home_team": "NYR",
+			"away_team": "OTT",
+			"WINPCT": "57.8%"
+		},
+		{
+			"home_team": "NYR",
+			"away_team": "PHI",
+			"WINPCT": "58.0%"
+		},
+		{
+			"home_team": "NYR",
+			"away_team": "PHX",
+			"WINPCT": "67.4%"
+		},
+		{
+			"home_team": "NYR",
+			"away_team": "PIT",
+			"WINPCT": "56.3%"
+		},
+		{
+			"home_team": "NYR",
+			"away_team": "SJS",
+			"WINPCT": "52.3%"
+		},
+		{
+			"home_team": "NYR",
+			"away_team": "STL",
+			"WINPCT": "57.8%"
+		},
+		{
+			"home_team": "NYR",
+			"away_team": "TBL",
+			"WINPCT": "52.5%"
+		},
+		{
+			"home_team": "NYR",
+			"away_team": "TOR",
+			"WINPCT": "58.8%"
+		},
+		{
+			"home_team": "NYR",
+			"away_team": "VAN",
+			"WINPCT": "61.6%"
+		},
+		{
+			"home_team": "NYR",
+			"away_team": "WPG",
+			"WINPCT": "59.5%"
+		},
+		{
+			"home_team": "NYR",
+			"away_team": "WSH",
+			"WINPCT": "57.8%"
+		},
+		{
+			"home_team": "OTT",
+			"away_team": "ANA",
+			"WINPCT": "42.1%"
+		},
+		{
+			"home_team": "OTT",
+			"away_team": "BOS",
+			"WINPCT": "30.8%"
+		},
+		{
+			"home_team": "OTT",
+			"away_team": "BUF",
+			"WINPCT": "62.4%"
+		},
+		{
+			"home_team": "OTT",
+			"away_team": "CAR",
+			"WINPCT": "56.6%"
+		},
+		{
+			"home_team": "OTT",
+			"away_team": "CBJ",
+			"WINPCT": "51.2%"
+		},
+		{
+			"home_team": "OTT",
+			"away_team": "CGY",
+			"WINPCT": "57.7%"
+		},
+		{
+			"home_team": "OTT",
+			"away_team": "CHI",
+			"WINPCT": "43.1%"
+		},
+		{
+			"home_team": "OTT",
+			"away_team": "COL",
+			"WINPCT": "50.6%"
+		},
+		{
+			"home_team": "OTT",
+			"away_team": "DAL",
+			"WINPCT": "52.1%"
+		},
+		{
+			"home_team": "OTT",
+			"away_team": "DET",
+			"WINPCT": "44.5%"
+		},
+		{
+			"home_team": "OTT",
+			"away_team": "EDM",
+			"WINPCT": "57.4%"
+		},
+		{
+			"home_team": "OTT",
+			"away_team": "FLA",
+			"WINPCT": "55.6%"
+		},
+		{
+			"home_team": "OTT",
+			"away_team": "LAK",
+			"WINPCT": "38.2%"
+		},
+		{
+			"home_team": "OTT",
+			"away_team": "MIN",
+			"WINPCT": "48.0%"
+		},
+		{
+			"home_team": "OTT",
+			"away_team": "MTL",
+			"WINPCT": "53.0%"
+		},
+		{
+			"home_team": "OTT",
+			"away_team": "NJD",
+			"WINPCT": "51.1%"
+		},
+		{
+			"home_team": "OTT",
+			"away_team": "NSH",
+			"WINPCT": "54.0%"
+		},
+		{
+			"home_team": "OTT",
+			"away_team": "NYI",
+			"WINPCT": "54.0%"
+		},
+		{
+			"home_team": "OTT",
+			"away_team": "NYR",
+			"WINPCT": "44.7%"
+		},
+		{
+			"home_team": "OTT",
+			"away_team": "PHI",
+			"WINPCT": "49.7%"
+		},
+		{
+			"home_team": "OTT",
+			"away_team": "PHX",
+			"WINPCT": "58.5%"
+		},
+		{
+			"home_team": "OTT",
+			"away_team": "PIT",
+			"WINPCT": "49.8%"
+		},
+		{
+			"home_team": "OTT",
+			"away_team": "SJS",
+			"WINPCT": "44.6%"
+		},
+		{
+			"home_team": "OTT",
+			"away_team": "STL",
+			"WINPCT": "49.4%"
+		},
+		{
+			"home_team": "OTT",
+			"away_team": "TBL",
+			"WINPCT": "45.3%"
+		},
+		{
+			"home_team": "OTT",
+			"away_team": "TOR",
+			"WINPCT": "53.4%"
+		},
+		{
+			"home_team": "OTT",
+			"away_team": "VAN",
+			"WINPCT": "53.9%"
+		},
+		{
+			"home_team": "OTT",
+			"away_team": "WPG",
+			"WINPCT": "50.3%"
+		},
+		{
+			"home_team": "OTT",
+			"away_team": "WSH",
+			"WINPCT": "49.5%"
+		},
+		{
+			"home_team": "PHI",
+			"away_team": "ANA",
+			"WINPCT": "44.4%"
+		},
+		{
+			"home_team": "PHI",
+			"away_team": "BOS",
+			"WINPCT": "31.7%"
+		},
+		{
+			"home_team": "PHI",
+			"away_team": "BUF",
+			"WINPCT": "65.2%"
+		},
+		{
+			"home_team": "PHI",
+			"away_team": "CAR",
+			"WINPCT": "58.3%"
+		},
+		{
+			"home_team": "PHI",
+			"away_team": "CBJ",
+			"WINPCT": "49.9%"
+		},
+		{
+			"home_team": "PHI",
+			"away_team": "CGY",
+			"WINPCT": "61.9%"
+		},
+		{
+			"home_team": "PHI",
+			"away_team": "CHI",
+			"WINPCT": "43.3%"
+		},
+		{
+			"home_team": "PHI",
+			"away_team": "COL",
+			"WINPCT": "53.7%"
+		},
+		{
+			"home_team": "PHI",
+			"away_team": "DAL",
+			"WINPCT": "55.5%"
+		},
+		{
+			"home_team": "PHI",
+			"away_team": "DET",
+			"WINPCT": "48.5%"
+		},
+		{
+			"home_team": "PHI",
+			"away_team": "EDM",
+			"WINPCT": "60.8%"
+		},
+		{
+			"home_team": "PHI",
+			"away_team": "FLA",
+			"WINPCT": "57.9%"
+		},
+		{
+			"home_team": "PHI",
+			"away_team": "LAK",
+			"WINPCT": "42.3%"
+		},
+		{
+			"home_team": "PHI",
+			"away_team": "MIN",
+			"WINPCT": "51.3%"
+		},
+		{
+			"home_team": "PHI",
+			"away_team": "MTL",
+			"WINPCT": "54.5%"
+		},
+		{
+			"home_team": "PHI",
+			"away_team": "NJD",
+			"WINPCT": "52.1%"
+		},
+		{
+			"home_team": "PHI",
+			"away_team": "NSH",
+			"WINPCT": "58.2%"
+		},
+		{
+			"home_team": "PHI",
+			"away_team": "NYI",
+			"WINPCT": "58.3%"
+		},
+		{
+			"home_team": "PHI",
+			"away_team": "NYR",
+			"WINPCT": "46.6%"
+		},
+		{
+			"home_team": "PHI",
+			"away_team": "OTT",
+			"WINPCT": "51.4%"
+		},
+		{
+			"home_team": "PHI",
+			"away_team": "PHX",
+			"WINPCT": "62.9%"
+		},
+		{
+			"home_team": "PHI",
+			"away_team": "PIT",
+			"WINPCT": "51.5%"
+		},
+		{
+			"home_team": "PHI",
+			"away_team": "SJS",
+			"WINPCT": "48.8%"
+		},
+		{
+			"home_team": "PHI",
+			"away_team": "STL",
+			"WINPCT": "51.7%"
+		},
+		{
+			"home_team": "PHI",
+			"away_team": "TBL",
+			"WINPCT": "46.2%"
+		},
+		{
+			"home_team": "PHI",
+			"away_team": "TOR",
+			"WINPCT": "54.8%"
+		},
+		{
+			"home_team": "PHI",
+			"away_team": "VAN",
+			"WINPCT": "56.7%"
+		},
+		{
+			"home_team": "PHI",
+			"away_team": "WPG",
+			"WINPCT": "51.9%"
+		},
+		{
+			"home_team": "PHI",
+			"away_team": "WSH",
+			"WINPCT": "55.4%"
+		},
+		{
+			"home_team": "PHX",
+			"away_team": "ANA",
+			"WINPCT": "34.5%"
+		},
+		{
+			"home_team": "PHX",
+			"away_team": "BOS",
+			"WINPCT": "25.4%"
+		},
+		{
+			"home_team": "PHX",
+			"away_team": "BUF",
+			"WINPCT": "56.6%"
+		},
+		{
+			"home_team": "PHX",
+			"away_team": "CAR",
+			"WINPCT": "49.3%"
+		},
+		{
+			"home_team": "PHX",
+			"away_team": "CBJ",
+			"WINPCT": "43.6%"
+		},
+		{
+			"home_team": "PHX",
+			"away_team": "CGY",
+			"WINPCT": "51.4%"
+		},
+		{
+			"home_team": "PHX",
+			"away_team": "CHI",
+			"WINPCT": "36.4%"
+		},
+		{
+			"home_team": "PHX",
+			"away_team": "COL",
+			"WINPCT": "42.2%"
+		},
+		{
+			"home_team": "PHX",
+			"away_team": "DAL",
+			"WINPCT": "45.8%"
+		},
+		{
+			"home_team": "PHX",
+			"away_team": "DET",
+			"WINPCT": "38.7%"
+		},
+		{
+			"home_team": "PHX",
+			"away_team": "EDM",
+			"WINPCT": "50.6%"
+		},
+		{
+			"home_team": "PHX",
+			"away_team": "FLA",
+			"WINPCT": "47.1%"
+		},
+		{
+			"home_team": "PHX",
+			"away_team": "LAK",
+			"WINPCT": "34.9%"
+		},
+		{
+			"home_team": "PHX",
+			"away_team": "MIN",
+			"WINPCT": "41.7%"
+		},
+		{
+			"home_team": "PHX",
+			"away_team": "MTL",
+			"WINPCT": "44.9%"
+		},
+		{
+			"home_team": "PHX",
+			"away_team": "NJD",
+			"WINPCT": "42.0%"
+		},
+		{
+			"home_team": "PHX",
+			"away_team": "NSH",
+			"WINPCT": "47.2%"
+		},
+		{
+			"home_team": "PHX",
+			"away_team": "NYI",
+			"WINPCT": "48.1%"
+		},
+		{
+			"home_team": "PHX",
+			"away_team": "NYR",
+			"WINPCT": "39.2%"
+		},
+		{
+			"home_team": "PHX",
+			"away_team": "OTT",
+			"WINPCT": "44.7%"
+		},
+		{
+			"home_team": "PHX",
+			"away_team": "PHI",
+			"WINPCT": "44.7%"
+		},
+		{
+			"home_team": "PHX",
+			"away_team": "PIT",
+			"WINPCT": "43.0%"
+		},
+		{
+			"home_team": "PHX",
+			"away_team": "SJS",
+			"WINPCT": "38.4%"
+		},
+		{
+			"home_team": "PHX",
+			"away_team": "STL",
+			"WINPCT": "42.1%"
+		},
+		{
+			"home_team": "PHX",
+			"away_team": "TBL",
+			"WINPCT": "37.6%"
+		},
+		{
+			"home_team": "PHX",
+			"away_team": "TOR",
+			"WINPCT": "45.9%"
+		},
+		{
+			"home_team": "PHX",
+			"away_team": "VAN",
+			"WINPCT": "45.1%"
+		},
+		{
+			"home_team": "PHX",
+			"away_team": "WPG",
+			"WINPCT": "43.7%"
+		},
+		{
+			"home_team": "PHX",
+			"away_team": "WSH",
+			"WINPCT": "41.0%"
+		},
+		{
+			"home_team": "PIT",
+			"away_team": "ANA",
+			"WINPCT": "44.1%"
+		},
+		{
+			"home_team": "PIT",
+			"away_team": "BOS",
+			"WINPCT": "32.8%"
+		},
+		{
+			"home_team": "PIT",
+			"away_team": "BUF",
+			"WINPCT": "64.1%"
+		},
+		{
+			"home_team": "PIT",
+			"away_team": "CAR",
+			"WINPCT": "59.3%"
+		},
+		{
+			"home_team": "PIT",
+			"away_team": "CBJ",
+			"WINPCT": "50.2%"
+		},
+		{
+			"home_team": "PIT",
+			"away_team": "CGY",
+			"WINPCT": "60.9%"
+		},
+		{
+			"home_team": "PIT",
+			"away_team": "CHI",
+			"WINPCT": "47.1%"
+		},
+		{
+			"home_team": "PIT",
+			"away_team": "COL",
+			"WINPCT": "51.9%"
+		},
+		{
+			"home_team": "PIT",
+			"away_team": "DAL",
+			"WINPCT": "55.2%"
+		},
+		{
+			"home_team": "PIT",
+			"away_team": "DET",
+			"WINPCT": "47.3%"
+		},
+		{
+			"home_team": "PIT",
+			"away_team": "EDM",
+			"WINPCT": "59.0%"
+		},
+		{
+			"home_team": "PIT",
+			"away_team": "FLA",
+			"WINPCT": "58.9%"
+		},
+		{
+			"home_team": "PIT",
+			"away_team": "LAK",
+			"WINPCT": "42.2%"
+		},
+		{
+			"home_team": "PIT",
+			"away_team": "MIN",
+			"WINPCT": "53.3%"
+		},
+		{
+			"home_team": "PIT",
+			"away_team": "MTL",
+			"WINPCT": "54.3%"
+		},
+		{
+			"home_team": "PIT",
+			"away_team": "NJD",
+			"WINPCT": "54.9%"
+		},
+		{
+			"home_team": "PIT",
+			"away_team": "NSH",
+			"WINPCT": "57.1%"
+		},
+		{
+			"home_team": "PIT",
+			"away_team": "NYI",
+			"WINPCT": "59.1%"
+		},
+		{
+			"home_team": "PIT",
+			"away_team": "NYR",
+			"WINPCT": "47.1%"
+		},
+		{
+			"home_team": "PIT",
+			"away_team": "OTT",
+			"WINPCT": "54.5%"
+		},
+		{
+			"home_team": "PIT",
+			"away_team": "PHI",
+			"WINPCT": "53.6%"
+		},
+		{
+			"home_team": "PIT",
+			"away_team": "PHX",
+			"WINPCT": "60.7%"
+		},
+		{
+			"home_team": "PIT",
+			"away_team": "SJS",
+			"WINPCT": "50.1%"
+		},
+		{
+			"home_team": "PIT",
+			"away_team": "STL",
+			"WINPCT": "51.1%"
+		},
+		{
+			"home_team": "PIT",
+			"away_team": "TBL",
+			"WINPCT": "47.7%"
+		},
+		{
+			"home_team": "PIT",
+			"away_team": "TOR",
+			"WINPCT": "53.3%"
+		},
+		{
+			"home_team": "PIT",
+			"away_team": "VAN",
+			"WINPCT": "56.7%"
+		},
+		{
+			"home_team": "PIT",
+			"away_team": "WPG",
+			"WINPCT": "55.9%"
+		},
+		{
+			"home_team": "PIT",
+			"away_team": "WSH",
+			"WINPCT": "51.4%"
+		},
+		{
+			"home_team": "SJS",
+			"away_team": "ANA",
+			"WINPCT": "49.3%"
+		},
+		{
+			"home_team": "SJS",
+			"away_team": "BOS",
+			"WINPCT": "38.5%"
+		},
+		{
+			"home_team": "SJS",
+			"away_team": "BUF",
+			"WINPCT": "68.9%"
+		},
+		{
+			"home_team": "SJS",
+			"away_team": "CAR",
+			"WINPCT": "64.5%"
+		},
+		{
+			"home_team": "SJS",
+			"away_team": "CBJ",
+			"WINPCT": "57.0%"
+		},
+		{
+			"home_team": "SJS",
+			"away_team": "CGY",
+			"WINPCT": "66.0%"
+		},
+		{
+			"home_team": "SJS",
+			"away_team": "CHI",
+			"WINPCT": "50.1%"
+		},
+		{
+			"home_team": "SJS",
+			"away_team": "COL",
+			"WINPCT": "58.5%"
+		},
+		{
+			"home_team": "SJS",
+			"away_team": "DAL",
+			"WINPCT": "61.8%"
+		},
+		{
+			"home_team": "SJS",
+			"away_team": "DET",
+			"WINPCT": "53.4%"
+		},
+		{
+			"home_team": "SJS",
+			"away_team": "EDM",
+			"WINPCT": "65.7%"
+		},
+		{
+			"home_team": "SJS",
+			"away_team": "FLA",
+			"WINPCT": "64.5%"
+		},
+		{
+			"home_team": "SJS",
+			"away_team": "LAK",
+			"WINPCT": "47.8%"
+		},
+		{
+			"home_team": "SJS",
+			"away_team": "MIN",
+			"WINPCT": "58.7%"
+		},
+		{
+			"home_team": "SJS",
+			"away_team": "MTL",
+			"WINPCT": "60.8%"
+		},
+		{
+			"home_team": "SJS",
+			"away_team": "NJD",
+			"WINPCT": "58.4%"
+		},
+		{
+			"home_team": "SJS",
+			"away_team": "NSH",
+			"WINPCT": "64.9%"
+		},
+		{
+			"home_team": "SJS",
+			"away_team": "NYI",
+			"WINPCT": "63.3%"
+		},
+		{
+			"home_team": "SJS",
+			"away_team": "NYR",
+			"WINPCT": "54.4%"
+		},
+		{
+			"home_team": "SJS",
+			"away_team": "OTT",
+			"WINPCT": "61.0%"
+		},
+		{
+			"home_team": "SJS",
+			"away_team": "PHI",
+			"WINPCT": "58.8%"
+		},
+		{
+			"home_team": "SJS",
+			"away_team": "PHX",
+			"WINPCT": "69.7%"
+		},
+		{
+			"home_team": "SJS",
+			"away_team": "PIT",
+			"WINPCT": "59.4%"
+		},
+		{
+			"home_team": "SJS",
+			"away_team": "STL",
+			"WINPCT": "58.6%"
+		},
+		{
+			"home_team": "SJS",
+			"away_team": "TBL",
+			"WINPCT": "53.8%"
+		},
+		{
+			"home_team": "SJS",
+			"away_team": "TOR",
+			"WINPCT": "61.4%"
+		},
+		{
+			"home_team": "SJS",
+			"away_team": "VAN",
+			"WINPCT": "64.5%"
+		},
+		{
+			"home_team": "SJS",
+			"away_team": "WPG",
+			"WINPCT": "61.8%"
+		},
+		{
+			"home_team": "SJS",
+			"away_team": "WSH",
+			"WINPCT": "60.0%"
+		},
+		{
+			"home_team": "STL",
+			"away_team": "ANA",
+			"WINPCT": "47.7%"
+		},
+		{
+			"home_team": "STL",
+			"away_team": "BOS",
+			"WINPCT": "34.4%"
+		},
+		{
+			"home_team": "STL",
+			"away_team": "BUF",
+			"WINPCT": "65.0%"
+		},
+		{
+			"home_team": "STL",
+			"away_team": "CAR",
+			"WINPCT": "57.6%"
+		},
+		{
+			"home_team": "STL",
+			"away_team": "CBJ",
+			"WINPCT": "52.9%"
+		},
+		{
+			"home_team": "STL",
+			"away_team": "CGY",
+			"WINPCT": "61.7%"
+		},
+		{
+			"home_team": "STL",
+			"away_team": "CHI",
+			"WINPCT": "46.6%"
+		},
+		{
+			"home_team": "STL",
+			"away_team": "COL",
+			"WINPCT": "53.9%"
+		},
+		{
+			"home_team": "STL",
+			"away_team": "DAL",
+			"WINPCT": "56.4%"
+		},
+		{
+			"home_team": "STL",
+			"away_team": "DET",
+			"WINPCT": "48.8%"
+		},
+		{
+			"home_team": "STL",
+			"away_team": "EDM",
+			"WINPCT": "61.5%"
+		},
+		{
+			"home_team": "STL",
+			"away_team": "FLA",
+			"WINPCT": "59.6%"
+		},
+		{
+			"home_team": "STL",
+			"away_team": "LAK",
+			"WINPCT": "44.3%"
+		},
+		{
+			"home_team": "STL",
+			"away_team": "MIN",
+			"WINPCT": "55.0%"
+		},
+		{
+			"home_team": "STL",
+			"away_team": "MTL",
+			"WINPCT": "56.3%"
+		},
+		{
+			"home_team": "STL",
+			"away_team": "NJD",
+			"WINPCT": "53.4%"
+		},
+		{
+			"home_team": "STL",
+			"away_team": "NSH",
+			"WINPCT": "58.6%"
+		},
+		{
+			"home_team": "STL",
+			"away_team": "NYI",
+			"WINPCT": "58.9%"
+		},
+		{
+			"home_team": "STL",
+			"away_team": "NYR",
+			"WINPCT": "46.7%"
+		},
+		{
+			"home_team": "STL",
+			"away_team": "OTT",
+			"WINPCT": "55.3%"
+		},
+		{
+			"home_team": "STL",
+			"away_team": "PHI",
+			"WINPCT": "56.2%"
+		},
+		{
+			"home_team": "STL",
+			"away_team": "PHX",
+			"WINPCT": "61.5%"
+		},
+		{
+			"home_team": "STL",
+			"away_team": "PIT",
+			"WINPCT": "53.1%"
+		},
+		{
+			"home_team": "STL",
+			"away_team": "SJS",
+			"WINPCT": "49.8%"
+		},
+		{
+			"home_team": "STL",
+			"away_team": "TBL",
+			"WINPCT": "49.1%"
+		},
+		{
+			"home_team": "STL",
+			"away_team": "TOR",
+			"WINPCT": "56.3%"
+		},
+		{
+			"home_team": "STL",
+			"away_team": "VAN",
+			"WINPCT": "58.1%"
+		},
+		{
+			"home_team": "STL",
+			"away_team": "WPG",
+			"WINPCT": "56.5%"
+		},
+		{
+			"home_team": "STL",
+			"away_team": "WSH",
+			"WINPCT": "57.1%"
+		},
+		{
+			"home_team": "TBL",
+			"away_team": "ANA",
+			"WINPCT": "51.1%"
+		},
+		{
+			"home_team": "TBL",
+			"away_team": "BOS",
+			"WINPCT": "41.1%"
+		},
+		{
+			"home_team": "TBL",
+			"away_team": "BUF",
+			"WINPCT": "70.0%"
+		},
+		{
+			"home_team": "TBL",
+			"away_team": "CAR",
+			"WINPCT": "65.3%"
+		},
+		{
+			"home_team": "TBL",
+			"away_team": "CBJ",
+			"WINPCT": "59.0%"
+		},
+		{
+			"home_team": "TBL",
+			"away_team": "CGY",
+			"WINPCT": "65.5%"
+		},
+		{
+			"home_team": "TBL",
+			"away_team": "CHI",
+			"WINPCT": "50.5%"
+		},
+		{
+			"home_team": "TBL",
+			"away_team": "COL",
+			"WINPCT": "61.0%"
+		},
+		{
+			"home_team": "TBL",
+			"away_team": "DAL",
+			"WINPCT": "64.1%"
+		},
+		{
+			"home_team": "TBL",
+			"away_team": "DET",
+			"WINPCT": "55.7%"
+		},
+		{
+			"home_team": "TBL",
+			"away_team": "EDM",
+			"WINPCT": "67.9%"
+		},
+		{
+			"home_team": "TBL",
+			"away_team": "FLA",
+			"WINPCT": "66.9%"
+		},
+		{
+			"home_team": "TBL",
+			"away_team": "LAK",
+			"WINPCT": "47.5%"
+		},
+		{
+			"home_team": "TBL",
+			"away_team": "MIN",
+			"WINPCT": "59.6%"
+		},
+		{
+			"home_team": "TBL",
+			"away_team": "MTL",
+			"WINPCT": "60.7%"
+		},
+		{
+			"home_team": "TBL",
+			"away_team": "NJD",
+			"WINPCT": "59.4%"
+		},
+		{
+			"home_team": "TBL",
+			"away_team": "NSH",
+			"WINPCT": "64.2%"
+		},
+		{
+			"home_team": "TBL",
+			"away_team": "NYI",
+			"WINPCT": "66.7%"
+		},
+		{
+			"home_team": "TBL",
+			"away_team": "NYR",
+			"WINPCT": "55.4%"
+		},
+		{
+			"home_team": "TBL",
+			"away_team": "OTT",
+			"WINPCT": "60.0%"
+		},
+		{
+			"home_team": "TBL",
+			"away_team": "PHI",
+			"WINPCT": "61.2%"
+		},
+		{
+			"home_team": "TBL",
+			"away_team": "PHX",
+			"WINPCT": "69.8%"
+		},
+		{
+			"home_team": "TBL",
+			"away_team": "PIT",
+			"WINPCT": "59.5%"
+		},
+		{
+			"home_team": "TBL",
+			"away_team": "SJS",
+			"WINPCT": "54.8%"
+		},
+		{
+			"home_team": "TBL",
+			"away_team": "STL",
+			"WINPCT": "59.5%"
+		},
+		{
+			"home_team": "TBL",
+			"away_team": "TOR",
+			"WINPCT": "60.8%"
+		},
+		{
+			"home_team": "TBL",
+			"away_team": "VAN",
+			"WINPCT": "63.4%"
+		},
+		{
+			"home_team": "TBL",
+			"away_team": "WPG",
+			"WINPCT": "62.1%"
+		},
+		{
+			"home_team": "TBL",
+			"away_team": "WSH",
+			"WINPCT": "59.2%"
+		},
+		{
+			"home_team": "TOR",
+			"away_team": "ANA",
+			"WINPCT": "39.6%"
+		},
+		{
+			"home_team": "TOR",
+			"away_team": "BOS",
+			"WINPCT": "28.7%"
+		},
+		{
+			"home_team": "TOR",
+			"away_team": "BUF",
+			"WINPCT": "59.4%"
+		},
+		{
+			"home_team": "TOR",
+			"away_team": "CAR",
+			"WINPCT": "53.4%"
+		},
+		{
+			"home_team": "TOR",
+			"away_team": "CBJ",
+			"WINPCT": "47.4%"
+		},
+		{
+			"home_team": "TOR",
+			"away_team": "CGY",
+			"WINPCT": "56.3%"
+		},
+		{
+			"home_team": "TOR",
+			"away_team": "CHI",
+			"WINPCT": "41.7%"
+		},
+		{
+			"home_team": "TOR",
+			"away_team": "COL",
+			"WINPCT": "50.3%"
+		},
+		{
+			"home_team": "TOR",
+			"away_team": "DAL",
+			"WINPCT": "52.4%"
+		},
+		{
+			"home_team": "TOR",
+			"away_team": "DET",
+			"WINPCT": "41.4%"
+		},
+		{
+			"home_team": "TOR",
+			"away_team": "EDM",
+			"WINPCT": "55.5%"
+		},
+		{
+			"home_team": "TOR",
+			"away_team": "FLA",
+			"WINPCT": "55.7%"
+		},
+		{
+			"home_team": "TOR",
+			"away_team": "LAK",
+			"WINPCT": "36.6%"
+		},
+		{
+			"home_team": "TOR",
+			"away_team": "MIN",
+			"WINPCT": "47.5%"
+		},
+		{
+			"home_team": "TOR",
+			"away_team": "MTL",
+			"WINPCT": "51.1%"
+		},
+		{
+			"home_team": "TOR",
+			"away_team": "NJD",
+			"WINPCT": "48.7%"
+		},
+		{
+			"home_team": "TOR",
+			"away_team": "NSH",
+			"WINPCT": "54.0%"
+		},
+		{
+			"home_team": "TOR",
+			"away_team": "NYI",
+			"WINPCT": "54.3%"
+		},
+		{
+			"home_team": "TOR",
+			"away_team": "NYR",
+			"WINPCT": "42.4%"
+		},
+		{
+			"home_team": "TOR",
+			"away_team": "OTT",
+			"WINPCT": "48.5%"
+		},
+		{
+			"home_team": "TOR",
+			"away_team": "PHI",
+			"WINPCT": "49.0%"
+		},
+		{
+			"home_team": "TOR",
+			"away_team": "PHX",
+			"WINPCT": "59.1%"
+		},
+		{
+			"home_team": "TOR",
+			"away_team": "PIT",
+			"WINPCT": "46.8%"
+		},
+		{
+			"home_team": "TOR",
+			"away_team": "SJS",
+			"WINPCT": "42.9%"
+		},
+		{
+			"home_team": "TOR",
+			"away_team": "STL",
+			"WINPCT": "46.8%"
+		},
+		{
+			"home_team": "TOR",
+			"away_team": "TBL",
+			"WINPCT": "41.7%"
+		},
+		{
+			"home_team": "TOR",
+			"away_team": "VAN",
+			"WINPCT": "52.8%"
+		},
+		{
+			"home_team": "TOR",
+			"away_team": "WPG",
+			"WINPCT": "48.9%"
+		},
+		{
+			"home_team": "TOR",
+			"away_team": "WSH",
+			"WINPCT": "49.1%"
+		},
+		{
+			"home_team": "VAN",
+			"away_team": "ANA",
+			"WINPCT": "39.9%"
+		},
+		{
+			"home_team": "VAN",
+			"away_team": "BOS",
+			"WINPCT": "28.7%"
+		},
+		{
+			"home_team": "VAN",
+			"away_team": "BUF",
+			"WINPCT": "59.3%"
+		},
+		{
+			"home_team": "VAN",
+			"away_team": "CAR",
+			"WINPCT": "53.4%"
+		},
+		{
+			"home_team": "VAN",
+			"away_team": "CBJ",
+			"WINPCT": "47.5%"
+		},
+		{
+			"home_team": "VAN",
+			"away_team": "CGY",
+			"WINPCT": "56.6%"
+		},
+		{
+			"home_team": "VAN",
+			"away_team": "CHI",
+			"WINPCT": "40.8%"
+		},
+		{
+			"home_team": "VAN",
+			"away_team": "COL",
+			"WINPCT": "49.8%"
+		},
+		{
+			"home_team": "VAN",
+			"away_team": "DAL",
+			"WINPCT": "49.3%"
+		},
+		{
+			"home_team": "VAN",
+			"away_team": "DET",
+			"WINPCT": "45.0%"
+		},
+		{
+			"home_team": "VAN",
+			"away_team": "EDM",
+			"WINPCT": "57.2%"
+		},
+		{
+			"home_team": "VAN",
+			"away_team": "FLA",
+			"WINPCT": "55.1%"
+		},
+		{
+			"home_team": "VAN",
+			"away_team": "LAK",
+			"WINPCT": "38.2%"
+		},
+		{
+			"home_team": "VAN",
+			"away_team": "MIN",
+			"WINPCT": "51.4%"
+		},
+		{
+			"home_team": "VAN",
+			"away_team": "MTL",
+			"WINPCT": "51.4%"
+		},
+		{
+			"home_team": "VAN",
+			"away_team": "NJD",
+			"WINPCT": "48.9%"
+		},
+		{
+			"home_team": "VAN",
+			"away_team": "NSH",
+			"WINPCT": "52.9%"
+		},
+		{
+			"home_team": "VAN",
+			"away_team": "NYI",
+			"WINPCT": "54.7%"
+		},
+		{
+			"home_team": "VAN",
+			"away_team": "NYR",
+			"WINPCT": "43.2%"
+		},
+		{
+			"home_team": "VAN",
+			"away_team": "OTT",
+			"WINPCT": "49.7%"
+		},
+		{
+			"home_team": "VAN",
+			"away_team": "PHI",
+			"WINPCT": "49.5%"
+		},
+		{
+			"home_team": "VAN",
+			"away_team": "PHX",
+			"WINPCT": "58.1%"
+		},
+		{
+			"home_team": "VAN",
+			"away_team": "PIT",
+			"WINPCT": "47.0%"
+		},
+		{
+			"home_team": "VAN",
+			"away_team": "SJS",
+			"WINPCT": "44.1%"
+		},
+		{
+			"home_team": "VAN",
+			"away_team": "STL",
+			"WINPCT": "47.8%"
+		},
+		{
+			"home_team": "VAN",
+			"away_team": "TBL",
+			"WINPCT": "41.5%"
+		},
+		{
+			"home_team": "VAN",
+			"away_team": "TOR",
+			"WINPCT": "50.0%"
+		},
+		{
+			"home_team": "VAN",
+			"away_team": "WPG",
+			"WINPCT": "51.1%"
+		},
+		{
+			"home_team": "VAN",
+			"away_team": "WSH",
+			"WINPCT": "49.7%"
+		},
+		{
+			"home_team": "WPG",
+			"away_team": "ANA",
+			"WINPCT": "42.6%"
+		},
+		{
+			"home_team": "WPG",
+			"away_team": "BOS",
+			"WINPCT": "30.0%"
+		},
+		{
+			"home_team": "WPG",
+			"away_team": "BUF",
+			"WINPCT": "63.0%"
+		},
+		{
+			"home_team": "WPG",
+			"away_team": "CAR",
+			"WINPCT": "57.0%"
+		},
+		{
+			"home_team": "WPG",
+			"away_team": "CBJ",
+			"WINPCT": "48.8%"
+		},
+		{
+			"home_team": "WPG",
+			"away_team": "CGY",
+			"WINPCT": "60.3%"
+		},
+		{
+			"home_team": "WPG",
+			"away_team": "CHI",
+			"WINPCT": "43.0%"
+		},
+		{
+			"home_team": "WPG",
+			"away_team": "COL",
+			"WINPCT": "53.1%"
+		},
+		{
+			"home_team": "WPG",
+			"away_team": "DAL",
+			"WINPCT": "53.9%"
+		},
+		{
+			"home_team": "WPG",
+			"away_team": "DET",
+			"WINPCT": "46.4%"
+		},
+		{
+			"home_team": "WPG",
+			"away_team": "EDM",
+			"WINPCT": "58.5%"
+		},
+		{
+			"home_team": "WPG",
+			"away_team": "FLA",
+			"WINPCT": "57.8%"
+		},
+		{
+			"home_team": "WPG",
+			"away_team": "LAK",
+			"WINPCT": "42.5%"
+		},
+		{
+			"home_team": "WPG",
+			"away_team": "MIN",
+			"WINPCT": "51.3%"
+		},
+		{
+			"home_team": "WPG",
+			"away_team": "MTL",
+			"WINPCT": "51.0%"
+		},
+		{
+			"home_team": "WPG",
+			"away_team": "NJD",
+			"WINPCT": "50.8%"
+		},
+		{
+			"home_team": "WPG",
+			"away_team": "NSH",
+			"WINPCT": "56.7%"
+		},
+		{
+			"home_team": "WPG",
+			"away_team": "NYI",
+			"WINPCT": "56.4%"
+		},
+		{
+			"home_team": "WPG",
+			"away_team": "NYR",
+			"WINPCT": "44.7%"
+		},
+		{
+			"home_team": "WPG",
+			"away_team": "OTT",
+			"WINPCT": "50.0%"
+		},
+		{
+			"home_team": "WPG",
+			"away_team": "PHI",
+			"WINPCT": "50.6%"
+		},
+		{
+			"home_team": "WPG",
+			"away_team": "PHX",
+			"WINPCT": "61.9%"
+		},
+		{
+			"home_team": "WPG",
+			"away_team": "PIT",
+			"WINPCT": "51.3%"
+		},
+		{
+			"home_team": "WPG",
+			"away_team": "SJS",
+			"WINPCT": "46.8%"
+		},
+		{
+			"home_team": "WPG",
+			"away_team": "STL",
+			"WINPCT": "51.8%"
+		},
+		{
+			"home_team": "WPG",
+			"away_team": "TBL",
+			"WINPCT": "45.5%"
+		},
+		{
+			"home_team": "WPG",
+			"away_team": "TOR",
+			"WINPCT": "53.1%"
+		},
+		{
+			"home_team": "WPG",
+			"away_team": "VAN",
+			"WINPCT": "55.5%"
+		},
+		{
+			"home_team": "WPG",
+			"away_team": "WSH",
+			"WINPCT": "53.2%"
+		},
+		{
+			"home_team": "WSH",
+			"away_team": "ANA",
+			"WINPCT": "42.1%"
+		},
+		{
+			"home_team": "WSH",
+			"away_team": "BOS",
+			"WINPCT": "32.1%"
+		},
+		{
+			"home_team": "WSH",
+			"away_team": "BUF",
+			"WINPCT": "61.7%"
+		},
+		{
+			"home_team": "WSH",
+			"away_team": "CAR",
+			"WINPCT": "57.4%"
+		},
+		{
+			"home_team": "WSH",
+			"away_team": "CBJ",
+			"WINPCT": "49.0%"
+		},
+		{
+			"home_team": "WSH",
+			"away_team": "CGY",
+			"WINPCT": "58.7%"
+		},
+		{
+			"home_team": "WSH",
+			"away_team": "CHI",
+			"WINPCT": "43.9%"
+		},
+		{
+			"home_team": "WSH",
+			"away_team": "COL",
+			"WINPCT": "53.1%"
+		},
+		{
+			"home_team": "WSH",
+			"away_team": "DAL",
+			"WINPCT": "54.4%"
+		},
+		{
+			"home_team": "WSH",
+			"away_team": "DET",
+			"WINPCT": "45.9%"
+		},
+		{
+			"home_team": "WSH",
+			"away_team": "EDM",
+			"WINPCT": "58.6%"
+		},
+		{
+			"home_team": "WSH",
+			"away_team": "FLA",
+			"WINPCT": "56.9%"
+		},
+		{
+			"home_team": "WSH",
+			"away_team": "LAK",
+			"WINPCT": "39.4%"
+		},
+		{
+			"home_team": "WSH",
+			"away_team": "MIN",
+			"WINPCT": "51.8%"
+		},
+		{
+			"home_team": "WSH",
+			"away_team": "MTL",
+			"WINPCT": "53.3%"
+		},
+		{
+			"home_team": "WSH",
+			"away_team": "NJD",
+			"WINPCT": "49.8%"
+		},
+		{
+			"home_team": "WSH",
+			"away_team": "NSH",
+			"WINPCT": "54.3%"
+		},
+		{
+			"home_team": "WSH",
+			"away_team": "NYI",
+			"WINPCT": "56.6%"
+		},
+		{
+			"home_team": "WSH",
+			"away_team": "NYR",
+			"WINPCT": "44.2%"
+		},
+		{
+			"home_team": "WSH",
+			"away_team": "OTT",
+			"WINPCT": "52.3%"
+		},
+		{
+			"home_team": "WSH",
+			"away_team": "PHI",
+			"WINPCT": "51.7%"
+		},
+		{
+			"home_team": "WSH",
+			"away_team": "PHX",
+			"WINPCT": "59.5%"
+		},
+		{
+			"home_team": "WSH",
+			"away_team": "PIT",
+			"WINPCT": "51.6%"
+		},
+		{
+			"home_team": "WSH",
+			"away_team": "SJS",
+			"WINPCT": "48.1%"
+		},
+		{
+			"home_team": "WSH",
+			"away_team": "STL",
+			"WINPCT": "51.9%"
+		},
+		{
+			"home_team": "WSH",
+			"away_team": "TBL",
+			"WINPCT": "44.8%"
+		},
+		{
+			"home_team": "WSH",
+			"away_team": "TOR",
+			"WINPCT": "54.4%"
+		},
+		{
+			"home_team": "WSH",
+			"away_team": "VAN",
+			"WINPCT": "56.2%"
+		},
+		{
+			"home_team": "WSH",
+			"away_team": "WPG",
+			"WINPCT": "54.0%"
+		}
+	]

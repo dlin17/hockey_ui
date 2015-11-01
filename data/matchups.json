@@ -1,0 +1,257 @@
+	[
+		{
+			"date": "date",
+			"matchup": "Matchup",
+			"WINPCT": "Home"
+		},
+		{
+			"date": "2014-10-08",
+			"matchup": "PHI @ BOS",
+			"WINPCT": "72.6%"
+		},
+		{
+			"date": "2014-10-08",
+			"matchup": "VAN @ CGY",
+			"WINPCT": "50.8%"
+		},
+		{
+			"date": "2014-10-08",
+			"matchup": "S.J @ L.A",
+			"WINPCT": "57.3%"
+		},
+		{
+			"date": "2014-10-08",
+			"matchup": "MTL @ TOR",
+			"WINPCT": "51.1%"
+		},
+		{
+			"date": "2014-10-09",
+			"matchup": "WPG @ PHX",
+			"WINPCT": "43.7%"
+		},
+		{
+			"date": "2014-10-09",
+			"matchup": "CBJ @ BUF",
+			"WINPCT": "40.0%"
+		},
+		{
+			"date": "2014-10-09",
+			"matchup": "CHI @ DAL",
+			"WINPCT": "42.5%"
+		},
+		{
+			"date": "2014-10-09",
+			"matchup": "BOS @ DET",
+			"WINPCT": "35.6%"
+		},
+		{
+			"date": "2014-10-09",
+			"matchup": "CGY @ EDM",
+			"WINPCT": "49.4%"
+		},
+		{
+			"date": "2014-10-09",
+			"matchup": "COL @ MIN",
+			"WINPCT": "54.3%"
+		},
+		{
+			"date": "2014-10-09",
+			"matchup": "OTT @ NSH",
+			"WINPCT": "43.7%"
+		},
+		{
+			"date": "2014-10-09",
+			"matchup": "N.J @ PHI",
+			"WINPCT": "52.1%"
+		},
+		{
+			"date": "2014-10-09",
+			"matchup": "ANA @ PIT",
+			"WINPCT": "44.1%"
+		},
+		{
+			"date": "2014-10-09",
+			"matchup": "NYR @ STL",
+			"WINPCT": "46.7%"
+		},
+		{
+			"date": "2014-10-09",
+			"matchup": "FLA @ T.B",
+			"WINPCT": "66.9%"
+		},
+		{
+			"date": "2014-10-09",
+			"matchup": "MTL @ WSH",
+			"WINPCT": "53.3%"
+		},
+		{
+			"date": "2014-10-10",
+			"matchup": "NYI @ CAR",
+			"WINPCT": "49.4%"
+		},
+		{
+			"date": "2014-10-11",
+			"matchup": "L.A @ PHX",
+			"WINPCT": "34.9%"
+		},
+		{
+			"date": "2014-10-11",
+			"matchup": "WSH @ BOS",
+			"WINPCT": "72.2%"
+		},
+		{
+			"date": "2014-10-11",
+			"matchup": "NYR @ CBJ",
+			"WINPCT": "50.0%"
+		},
+		{
+			"date": "2014-10-11",
+			"matchup": "BUF @ CHI",
+			"WINPCT": "70.8%"
+		},
+		{
+			"date": "2014-10-11",
+			"matchup": "MIN @ COL",
+			"WINPCT": "52.5%"
+		},
+		{
+			"date": "2014-10-11",
+			"matchup": "ANA @ DET",
+			"WINPCT": "48.9%"
+		},
+		{
+			"date": "2014-10-11",
+			"matchup": "N.J @ FLA",
+			"WINPCT": "46.7%"
+		},
+		{
+			"date": "2014-10-11",
+			"matchup": "DAL @ NSH",
+			"WINPCT": "45.1%"
+		},
+		{
+			"date": "2014-10-11",
+			"matchup": "CAR @ NYI",
+			"WINPCT": "52.9%"
+		},
+		{
+			"date": "2014-10-11",
+			"matchup": "MTL @ PHI",
+			"WINPCT": "54.5%"
+		},
+		{
+			"date": "2014-10-11",
+			"matchup": "WPG @ S.J",
+			"WINPCT": "61.8%"
+		},
+		{
+			"date": "2014-10-11",
+			"matchup": "CGY @ STL",
+			"WINPCT": "61.7%"
+		},
+		{
+			"date": "2014-10-11",
+			"matchup": "OTT @ T.B",
+			"WINPCT": "60.0%"
+		},
+		{
+			"date": "2014-10-11",
+			"matchup": "PIT @ TOR",
+			"WINPCT": "46.8%"
+		},
+		{
+			"date": "2014-10-11",
+			"matchup": "EDM @ VAN",
+			"WINPCT": "57.2%"
+		},
+		{
+			"date": "2014-10-12",
+			"matchup": "WPG @ L.A",
+			"WINPCT": "65.7%"
+		},
+		{
+			"date": "2014-10-12",
+			"matchup": "TOR @ NYR",
+			"WINPCT": "58.8%"
+		},
+		{
+			"date": "2014-10-13",
+			"matchup": "COL @ BOS",
+			"WINPCT": "72.7%"
+		},
+		{
+			"date": "2014-10-13",
+			"matchup": "ANA @ BUF",
+			"WINPCT": "33.6%"
+		},
+		{
+			"date": "2014-10-13",
+			"matchup": "OTT @ FLA",
+			"WINPCT": "46.1%"
+		},
+		{
+			"date": "2014-10-13",
+			"matchup": "MTL @ T.B",
+			"WINPCT": "60.7%"
+		},
+		{
+			"date": "2014-10-14",
+			"matchup": "BUF @ CAR",
+			"WINPCT": "56.6%"
+		},
+		{
+			"date": "2014-10-14",
+			"matchup": "DAL @ CBJ",
+			"WINPCT": "57.3%"
+		},
+		{
+			"date": "2014-10-14",
+			"matchup": "EDM @ L.A",
+			"WINPCT": "70.4%"
+		},
+		{
+			"date": "2014-10-14",
+			"matchup": "CGY @ NSH",
+			"WINPCT": "52.4%"
+		},
+		{
+			"date": "2014-10-14",
+			"matchup": "NYI @ NYR",
+			"WINPCT": "62.2%"
+		},
+		{
+			"date": "2014-10-14",
+			"matchup": "ANA @ PHI",
+			"WINPCT": "44.4%"
+		},
+		{
+			"date": "2014-10-14",
+			"matchup": "N.J @ T.B",
+			"WINPCT": "59.4%"
+		},
+		{
+			"date": "2014-10-14",
+			"matchup": "COL @ TOR",
+			"WINPCT": "50.3%"
+		},
+		{
+			"date": "2014-10-14",
+			"matchup": "S.J @ WSH",
+			"WINPCT": "48.1%"
+		},
+		{
+			"date": "2014-10-15",
+			"matchup": "EDM @ PHX",
+			"WINPCT": "50.6%"
+		},
+		{
+			"date": "2014-10-15",
+			"matchup": "CGY @ CHI",
+			"WINPCT": "68.5%"
+		},
+		{
+			"date": "2014-10-15",
+			"matchup": "BOS @ DET",
+			"WINPCT": "35.6%"
+		}
+	]

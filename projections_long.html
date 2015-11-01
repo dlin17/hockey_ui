@@ -1,0 +1,491 @@
+<html>	
+	<head>
+		<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+		<script src="d3tip.js" charset = "utf-8"></script>
+		<LINK rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/Caged/d3-tip/master/examples/example-styles.css">
+		<link href='http://fonts.googleapis.com/css?family=Ubuntu+Condensed' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Rosario' rel='stylesheet' type='text/css'>
+		<LINK rel='stylesheet' type='text/css' href='standard.css'>
+	<style>
+		#content {
+				width: 1050px;
+				margin-left: auto;
+				margin-right: auto;
+			}
+	</style>
+	</head>
+	<body>
+		<div id='content'>
+		<script type="text/javascript">
+		
+			var w = 1050,
+			 	h = 850,
+			 	yOffset = 50,
+			 	perc = d3.format(".1%");
+
+
+			var canvas = d3.select("#content").append("svg")
+								.attr("width", w)
+								.attr("height", h)
+
+			var text_labels = [{
+						"text": "Central Division",
+						"x": 10,
+						"y": 15,
+						"fill": "#474747"
+					},
+					{
+						"text": "Atlantic Division",
+						"x": 410,
+						"y": 15,
+						"fill": "#474747"
+					},
+					{
+						"text": "Pacific Division",
+						"x": 10,
+						"y": 250,
+						"fill": "#474747"
+					},
+					{
+						"text": "Metropolitan Division",
+						"x": 410,
+						"y": 250,
+						"fill": "#474747"
+					},
+					{
+						"text": "Playoff Berth:",
+						"x": 830,
+						"y": 195,
+						"fill": "#ffffff"
+					},
+					{
+						"text": "Division Title:",
+						"x": 830,
+						"y": 220,
+						"fill": "#ffffff"
+					},
+					{
+						"text": "President's Trophy:",
+						"x": 830,
+						"y": 245,
+						"fill": "#ffffff"
+					},
+					{
+						"text": "Point Distribution",
+						"x": 60,
+						"y": 490,
+						"fill": "#474747"
+					},
+					{
+						"text": "Probability of...",
+						"x": 810,
+						"y": 155,
+						"fill": "#ffffff"
+					},
+					{
+						"text": "Median Team",
+						"x": 875,
+						"y": 490,
+						"fill": "#474747"
+					},
+					{
+						"text": "Avg Goals For:",
+						"x": 810,
+						"y": 60,
+						"fill": "#ffffff"
+					},
+					{
+						"text": "Avg Goals Against:",
+						"x": 810,
+						"y": 85,
+						"fill": "#ffffff"
+					}
+				]
+
+			var lines = [{
+					"x": 10,
+					"y": 10,
+					"length": 375
+				},
+				{
+					"x": 245,
+					"y": 5,
+					"length": 375	
+				},
+				{
+					"x": 480,
+					"y": 5,
+					"length": 1000	
+				},
+				{
+					"x": 245,
+					"y": 400,
+					"length": 375	
+				},
+				{
+					"x": 10,
+					"y": 400,
+					"length": 375	
+				}
+			]
+
+			canvas.append("rect")
+				.attr("x", 800)
+				.attr("y", 150)
+				.attr('width', 200)
+				.attr('height', 130)
+				.attr("fill", "#2c3e50")
+				.attr('stroke', 'black')
+
+			canvas.append("rect")
+				.attr("x", 800)
+				.attr("y", 50)
+				.attr('width', 200)
+				.attr('height', 65)
+				.attr("fill", "#51894E")
+				.attr('stroke', '#1F5A1C')
+
+			canvas.append("rect")
+				.attr("x", 857)
+				.attr("y", 494)
+				.attr('width', 12)
+				.attr('height', 12)
+				.attr("fill", "lightgrey")
+				.attr('opacity', 0.25)
+				.attr("stroke", "darkgrey")
+
+			canvas.selectAll("dividers")
+				.data(lines)
+				.enter()
+				.append("line")
+				.attr("class",".dividers")
+				.attr("y1", function (d) {return d.x})
+				.attr("x1", function (d) {return d.y})
+				.attr("y2", function (d) {return d.x})
+				.attr("x2", function (d) {return d.y + d.length})
+				.attr("stroke", "darkgrey")
+
+			canvas.selectAll("titles")
+				.data(text_labels)
+				.enter()
+				.append("text")
+				.attr("class",".titles")
+				.attr("y", function (d) {return d.y + 15})
+				.attr("x", function (d) {return d.x})
+				.text( function (d) { return d.text})
+				.style("font-family", "Rosario")
+				.attr('fill', function (d) { return d.fill})
+
+			var color_scale = d3.scale.linear()
+								.domain([0,50,100])
+								.range(["darkred","brown","darkgreen"])
+
+			d3.json("team_odds.json", function(error, data) {
+				data = data.filter(function (d) { return d.team == 'BOS'})
+
+				canvas.selectAll(".odds")
+					.data(data)
+					.enter()
+					.append("text")
+					.attr("class","odds")
+					.text(function (d) {return perc(d.odds/100)})
+					.attr("x", 990)
+					.attr("y", function (d) {return 184 + d.y *25})
+					.style("font-family", 'Rosario')
+					.attr("text-anchor", "end")
+					.attr("startOffset","100%")
+					.attr("fill", "white")
+			});
+
+			d3.json("gaa.json", function(error, data) {
+				data = data.filter(function (d) { return d.team == 'BOS'})
+
+				canvas.selectAll(".gaa")
+					.data(data)
+					.enter()
+					.append("text")
+					.attr("class","gaa")
+					.text(function (d) {return d.GF})
+					.attr("x", 990)
+					.attr("y", function (d) {return 50 + d.measure * 25})
+					.style("font-family", 'Rosario')
+					.attr("text-anchor", "end")
+					.attr("startOffset","100%")
+					.attr("fill", "white")
+			});
+
+			d3.json("season_data.json", function(error, teamData) {
+				plotChart(teamData);
+			});
+
+			canvas.selectAll("image").data([0]).enter()
+				.append("svg:image")
+				.attr("class","logo")
+				.attr("x", 835)
+				.attr("y", 315)
+				.attr("width", 130)
+				.attr("height", 130)
+				.attr("xlink:href", "http://upload.wikimedia.org/wikipedia/en/thumb/1/12/Boston_Bruins.svg/1200px-Boston_Bruins.svg.png")
+				.attr("opacity", 0.7)
+
+			function plotChart(data) {
+
+				var data = data.sort(function (a,b) {
+								return b.Points - a.Points;
+							})
+
+				function playoff_color(int) {
+					if (int == 0)
+						{return '#2C3E50'}
+					if (int == 1)
+						{return '#51894E'}
+				}
+
+				canvas.selectAll(".databars")
+					.data(data)
+					.enter()
+						.append("rect")
+						.attr("class", "databars")
+						.attr("fill", function (d) {return playoff_color(d.playoff)})
+						.attr("width", function (d) {return (Math.round(d.Points) - 40) * 4})
+						.attr("x", function (d) { return d.x * 400 + 50})
+						.attr("height", 20)
+						.attr("y", function (d, i) {return d.rank * 25 + d.y * 235 + 15})
+						.on("click", function (d) {return callTransition(d.Team)})
+						.style("cursor", "pointer")
+
+				canvas.selectAll(".datatext")
+						.data(data)
+						.enter()
+							.append("text")
+							.attr("class", "datatext")
+							.attr("y", function (d, i) {return d.rank * 25 + d.y * 235 + 30})
+							.attr("x", function (d) { return d.x * 400 + 35 })
+							.attr("font-size", "12px")
+							.attr("text-anchor", "middle")
+							.text( function (d) { return d.Team ; })
+
+				canvas.selectAll(".datatext2")
+						.data(data)
+						.enter()
+							.append("text")
+							.attr("class", "datatext2")
+							.attr("y", function (d, i) {return d.rank * 25 + d.y * 235 + 30})
+							.attr("x", function (d) { return d.x * 400 + 50 + (d.Points - 40) * 2})
+							.attr("font-size", "12px")
+							.attr("text-anchor", "middle")
+							.attr("fill","white")
+							.text( function (d) { return Math.round(d.Points) ; })
+							.style("font-family", "Rosario")
+			}
+
+			// var off_chart = canvas.selectAll('.charts').data([0]).enter().append("g")
+			// 					.attr("transform", "translate(50, 850)");
+
+			// var off_x = d3.scale.linear()
+			// 				.range([0,425])
+			// 				.domain([0,20])
+
+			// var off_y = d3.scale.linear()
+			// 				.range([215,0])
+			// 				.domain([0,17.5])
+
+			// var off_x_axis = d3.svg.axis()
+			// 					.scale(off_x)
+			// 					.ticks(10)
+			// 					.orient("bottom")
+
+			// var off_y_axis = d3.svg.axis()
+			// 					.scale(off_y)
+			// 					.ticks(5)
+			// 					.orient("left")
+
+			// d3.json("off_stats.json", function (error, data) {
+			// 	data = data.filter(function (d) {return d.team == 'WSH'})
+			// 				.filter(function (d) {return d.toi > 500})
+			// 				.filter(function (d) {return d.position != 'D'})
+
+			// 	off_chart.selectAll('.off_bubbles').data(data).enter()
+			// 		.append("circle")
+			// 		.attr('cx', function (d) {return off_x(d.EFEN60) })
+			// 		.attr("cy", function (d) {return off_y(d.FENPCT)})
+			// 		.attr("r", function (d) {return (d.toi) / 50})
+			// 		.attr("opacity", 0.7)
+			// 		.attr("fill", "green")
+
+			// 	off_chart.append('g')
+			// 			.attr("class", "axis")
+			// 			.attr("transform", "translate(0,215)")
+			// 			.call(off_x_axis)
+
+			
+			// 	off_chart.append('g')
+			// 			.attr("class", "axis")
+			// 			.attr("transform", "translate(0,0)")
+			// 			.call(off_y_axis)
+									
+			// })
+
+			var y = d3.scale.linear()
+						.range([0,300])
+						.domain([0,5.5]);
+
+			var x = d3.scale.linear()
+						.range([40,950])
+						.domain([30,145]);
+
+			d3.json("median_team.json", function (error, data) {
+				plotMedian(data);
+			});
+			
+			d3.json("point_freq.json", function (error, data) {
+				plotHist(data, "BOS");
+			});
+
+			function plotMedian(data) {
+				canvas.selectAll(".averageTeam")
+					.data(data)
+					.enter()
+						.append("rect")
+						.attr("class",".averageTeam")
+						.attr("fill", "lightgrey")
+						.attr("height", function (d) {return y(d.freq)})
+						.attr("width", 7.5)
+						.attr("y", function (d) {return 800 - y(d.freq)})
+						.attr("x", function (d) {return x(d.Points)})
+			}
+
+			function plotHist(data, team) {
+				data = data.filter(function (d) {return d.Team == team})
+
+
+				canvas.selectAll(".histbars")
+					.data(data)
+					.enter()
+						.append("rect")
+						.attr("class","histbars")
+						.attr("fill", function (d) {return d.color})
+						.attr("height", function (d) {return y(d.freq)})
+						.attr("width", 7.5)
+						.attr("y", function (d) {return 800 - y(d.freq)})
+						.attr("x", function (d) {return x(d.Points)})
+						.on('mouseover', tip.show)
+						.on('mouseout', tip.hide)
+
+
+				var xAxis = d3.svg.axis()
+							.scale(x)
+							.ticks(10)
+							.orient("bottom");
+
+				canvas.append('g')
+					.attr("class", "axis")
+					.attr("transform", "translate (10, 800)")
+					.call(xAxis)
+
+			}
+
+			function callTransition(team) {
+				d3.json("point_freq.json", function (error, data) {
+					transitionHist(data, team)
+				})
+
+				d3.json("team_logos.json", function (error, data) {
+					data = data.filter(function (d) {return d.team == team})
+
+					canvas.selectAll('.logo').data(data)
+						.attr("xlink:href", function (d) {return d.image})
+				
+				})
+
+				d3.json("team_odds.json", function (error,data) {
+					data = data.filter(function (d) {return d.team == team})
+
+					canvas.selectAll('.odds').data(data)
+						.transition()
+						.duration(800)
+						.tween("text", function (d) {
+							var i = d3.interpolate(this.textContent.replace('%','')/100, d.odds/100)
+
+							return function (t) {
+								this.textContent = perc(i(t));
+							};
+						});
+
+
+				d3.json("gaa.json", function (error,data) {
+					data = data.filter(function (d) {return d.team == team})
+
+					canvas.selectAll('.gaa').data(data)
+						.transition()
+						.duration(800)
+						.tween("text", function (d) {
+							var i = d3.interpolate(this.textContent, d.GF)
+
+							return function (t) {
+								this.textContent = (i(t)).toFixed(1);
+							};
+						});
+					});
+				});
+			}
+
+			function transitionHist(data, team) {
+				data = data.filter(function (d) {return d.Team == team})
+
+				var bars = canvas.selectAll(".histbars");
+
+				bars.data(data)
+						.transition()
+						.duration(800)
+						.delay(function (d, i) {return (i + Math.random()*25) * 25-500})
+						.attr("height", 0)
+						.attr("y", 800)
+						.transition()
+						.duration(50)
+						.attr("fill", function (d) {return d.color})
+						.attr("x", function (d) {return x(d.Points)})
+						.transition()
+						.duration(800)
+						.attr("height", function (d) {return y(d.freq)})
+						.attr("y", function (d) {return 800 - y(d.freq)})
+
+				bars.data(data).exit()
+						.transition()
+						.duration(800)
+						.delay(function (d, i) {return (i + Math.random()*25) * 25-500})
+						.attr("height", 0)
+						.attr("y", 800)
+						.transition()
+						.remove()
+
+				bars.data(data).enter()
+						.append("rect")
+						.attr("class", "histbars")
+						.attr("width", 7.5)
+						.attr("fill", function (d) {return d.color})
+						.attr("x", function (d) {return x(d.Points)})
+						.attr("y", 800)
+						.transition()
+						.duration(850)
+						.delay(function (d, i) {return (i + Math.random()*25) * 25-500})
+						.attr("height", 0)
+						.transition()
+						.duration(800)
+						.attr("height", function (d) {return y(d.freq)})
+						.attr("y", function (d) {return 800 - y(d.freq)})
+
+			}
+			
+			var tip = d3.tip()
+					.attr('class','d3-tip')
+					.offset([-10 ,0])
+					.html(function(d) { return d.Points + ' Points: ' + d.freq + '%'; })
+					.direction('n')
+
+			canvas.call(tip)
+
+		</script>
+		</div>
+	</body>
+</html>

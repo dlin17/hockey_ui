@@ -1,0 +1,903 @@
+
+	[
+		{
+			"team": "ANA",
+			"season": "20132014",
+			"Goals": 252,
+			"Assists": 431,
+			"Shots": 2515,
+			"+/-": 288,
+			"Fenwick": 3518,
+			"color": "#91764B"
+		},
+		{
+			"team": "ANA",
+			"season": "20142015",
+			"Goals": 247,
+			"Assists": 388,
+			"Shots": 2537,
+			"+/-": 209,
+			"Fenwick": 3546,
+			"color": "#91764B"
+		},
+		{
+			"team": "BOS",
+			"season": "20132014",
+			"Goals": 263,
+			"Assists": 459,
+			"Shots": 2691,
+			"+/-": 393,
+			"Fenwick": 3708,
+			"color": "#FFC422"
+		},
+		{
+			"team": "BOS",
+			"season": "20142015",
+			"Goals": 221,
+			"Assists": 407,
+			"Shots": 2292,
+			"+/-": 353,
+			"Fenwick": 3155,
+			"color": "#FFC422"
+		},
+		{
+			"team": "BUF",
+			"season": "20132014",
+			"Goals": 147,
+			"Assists": 252,
+			"Shots": 2140,
+			"+/-": -349,
+			"Fenwick": 2930,
+			"color": "#002E62"
+		},
+		{
+			"team": "BUF",
+			"season": "20142015",
+			"Goals": 195,
+			"Assists": 314,
+			"Shots": 2537,
+			"+/-": -305,
+			"Fenwick": 3507,
+			"color": "#002E62"
+		},
+		{
+			"team": "CAR",
+			"season": "20132014",
+			"Goals": 200,
+			"Assists": 321,
+			"Shots": 2452,
+			"+/-": -63,
+			"Fenwick": 3462,
+			"color": "#E03A3E"
+		},
+		{
+			"team": "CAR",
+			"season": "20142015",
+			"Goals": 200,
+			"Assists": 325,
+			"Shots": 2512,
+			"+/-": -93,
+			"Fenwick": 3541,
+			"color": "#E03A3E"
+		},
+		{
+			"team": "CBJ",
+			"season": "20132014",
+			"Goals": 203,
+			"Assists": 367,
+			"Shots": 2352,
+			"+/-": -3,
+			"Fenwick": 3244,
+			"color": "#00285C"
+		},
+		{
+			"team": "CBJ",
+			"season": "20142015",
+			"Goals": 207,
+			"Assists": 370,
+			"Shots": 2209,
+			"+/-": 20,
+			"Fenwick": 3051,
+			"color": "#00285C"
+		},
+		{
+			"team": "CGY",
+			"season": "20132014",
+			"Goals": 194,
+			"Assists": 343,
+			"Shots": 2059,
+			"+/-": -166,
+			"Fenwick": 2949,
+			"color": "#E03A3E"
+		},
+		{
+			"team": "CGY",
+			"season": "20142015",
+			"Goals": 207,
+			"Assists": 369,
+			"Shots": 2242,
+			"+/-": -150,
+			"Fenwick": 3143,
+			"color": "#E03A3E"
+		},
+		{
+			"team": "CHI",
+			"season": "20132014",
+			"Goals": 261,
+			"Assists": 463,
+			"Shots": 2833,
+			"+/-": 176,
+			"Fenwick": 3780,
+			"color": "#E3263A"
+		},
+		{
+			"team": "CHI",
+			"season": "20142015",
+			"Goals": 274,
+			"Assists": 486,
+			"Shots": 2984,
+			"+/-": 165,
+			"Fenwick": 4002,
+			"color": "#E3263A"
+		},
+		{
+			"team": "COL",
+			"season": "20132014",
+			"Goals": 263,
+			"Assists": 446,
+			"Shots": 2544,
+			"+/-": 123,
+			"Fenwick": 3404,
+			"color": "#8B2942"
+		},
+		{
+			"team": "COL",
+			"season": "20142015",
+			"Goals": 252,
+			"Assists": 416,
+			"Shots": 2533,
+			"+/-": 152,
+			"Fenwick": 3419,
+			"color": "#8B2942"
+		},
+		{
+			"team": "DAL",
+			"season": "20132014",
+			"Goals": 227,
+			"Assists": 393,
+			"Shots": 2570,
+			"+/-": 23,
+			"Fenwick": 3659,
+			"color": "#006A4E"
+		},
+		{
+			"team": "DAL",
+			"season": "20142015",
+			"Goals": 250,
+			"Assists": 445,
+			"Shots": 2802,
+			"+/-": 2,
+			"Fenwick": 3945,
+			"color": "#006A4E"
+		},
+		{
+			"team": "DET",
+			"season": "20132014",
+			"Goals": 225,
+			"Assists": 389,
+			"Shots": 2512,
+			"+/-": -20,
+			"Fenwick": 3448,
+			"color": "#EC1F26"
+		},
+		{
+			"team": "DET",
+			"season": "20142015",
+			"Goals": 211,
+			"Assists": 355,
+			"Shots": 2375,
+			"+/-": -4,
+			"Fenwick": 3274,
+			"color": "#EC1F26"
+		},
+		{
+			"team": "EDM",
+			"season": "20132014",
+			"Goals": 191,
+			"Assists": 325,
+			"Shots": 2123,
+			"+/-": -313,
+			"Fenwick": 2929,
+			"color": "#E66A20"
+		},
+		{
+			"team": "EDM",
+			"season": "20142015",
+			"Goals": 212,
+			"Assists": 370,
+			"Shots": 2457,
+			"+/-": -275,
+			"Fenwick": 3384,
+			"color": "#E66A20"
+		},
+		{
+			"team": "FLA",
+			"season": "20132014",
+			"Goals": 172,
+			"Assists": 277,
+			"Shots": 2202,
+			"+/-": -164,
+			"Fenwick": 3054,
+			"color": "#D59C05"
+		},
+		{
+			"team": "FLA",
+			"season": "20142015",
+			"Goals": 201,
+			"Assists": 305,
+			"Shots": 2444,
+			"+/-": -127,
+			"Fenwick": 3382,
+			"color": "#D59C05"
+		},
+		{
+			"team": "L.A",
+			"season": "20132014",
+			"Goals": 201,
+			"Assists": 341,
+			"Shots": 2570,
+			"+/-": 187,
+			"Fenwick": 3741,
+			"color": "#000000"
+		},
+		{
+			"team": "L.A",
+			"season": "20142015",
+			"Goals": 200,
+			"Assists": 325,
+			"Shots": 2482,
+			"+/-": 177,
+			"Fenwick": 3600,
+			"color": "#000000"
+		},
+		{
+			"team": "MIN",
+			"season": "20132014",
+			"Goals": 214,
+			"Assists": 375,
+			"Shots": 2262,
+			"+/-": 47,
+			"Fenwick": 3154,
+			"color": "#025736"
+		},
+		{
+			"team": "MIN",
+			"season": "20142015",
+			"Goals": 205,
+			"Assists": 363,
+			"Shots": 2170,
+			"+/-": 65,
+			"Fenwick": 3012,
+			"color": "#025736"
+		},
+		{
+			"team": "MTL",
+			"season": "20132014",
+			"Goals": 233,
+			"Assists": 385,
+			"Shots": 2542,
+			"+/-": -4,
+			"Fenwick": 3547,
+			"color": "#BF2F38"
+		},
+		{
+			"team": "MTL",
+			"season": "20142015",
+			"Goals": 196,
+			"Assists": 343,
+			"Shots": 2158,
+			"+/-": -11,
+			"Fenwick": 3029,
+			"color": "#BF2F38"
+		},
+		{
+			"team": "N.J",
+			"season": "20132014",
+			"Goals": 199,
+			"Assists": 348,
+			"Shots": 2250,
+			"+/-": -71,
+			"Fenwick": 3108,
+			"color": "#E03A3E"
+		},
+		{
+			"team": "N.J",
+			"season": "20142015",
+			"Goals": 233,
+			"Assists": 363,
+			"Shots": 2383,
+			"+/-": -68,
+			"Fenwick": 3278,
+			"color": "#E03A3E"
+		},
+		{
+			"team": "NSH",
+			"season": "20132014",
+			"Goals": 205,
+			"Assists": 351,
+			"Shots": 2288,
+			"+/-": -83,
+			"Fenwick": 3128,
+			"color": "#FDBB2F"
+		},
+		{
+			"team": "NSH",
+			"season": "20142015",
+			"Goals": 235,
+			"Assists": 411,
+			"Shots": 2487,
+			"+/-": -74,
+			"Fenwick": 3421,
+			"color": "#FDBB2F"
+		},
+		{
+			"team": "NYI",
+			"season": "20132014",
+			"Goals": 195,
+			"Assists": 335,
+			"Shots": 2350,
+			"+/-": -171,
+			"Fenwick": 3184,
+			"color": "#F57D31"
+		},
+		{
+			"team": "NYI",
+			"season": "20142015",
+			"Goals": 218,
+			"Assists": 362,
+			"Shots": 2493,
+			"+/-": -158,
+			"Fenwick": 3379,
+			"color": "#F57D31"
+		},
+		{
+			"team": "NYR",
+			"season": "20132014",
+			"Goals": 229,
+			"Assists": 380,
+			"Shots": 2765,
+			"+/-": 61,
+			"Fenwick": 3795,
+			"color": "#0161AB"
+		},
+		{
+			"team": "NYR",
+			"season": "20142015",
+			"Goals": 215,
+			"Assists": 364,
+			"Shots": 2545,
+			"+/-": 16,
+			"Fenwick": 3478,
+			"color": "#0161AB"
+		},
+		{
+			"team": "OTT",
+			"season": "20132014",
+			"Goals": 236,
+			"Assists": 383,
+			"Shots": 2715,
+			"+/-": -108,
+			"Fenwick": 3806,
+			"color": "#E4173E"
+		},
+		{
+			"team": "OTT",
+			"season": "20142015",
+			"Goals": 227,
+			"Assists": 369,
+			"Shots": 2644,
+			"+/-": -105,
+			"Fenwick": 3730,
+			"color": "#E4173E"
+		},
+		{
+			"team": "PHI",
+			"season": "20132014",
+			"Goals": 232,
+			"Assists": 415,
+			"Shots": 2512,
+			"+/-": -49,
+			"Fenwick": 3554,
+			"color": "#F47940"
+		},
+		{
+			"team": "PHI",
+			"season": "20142015",
+			"Goals": 211,
+			"Assists": 383,
+			"Shots": 2390,
+			"+/-": -90,
+			"Fenwick": 3368,
+			"color": "#F47940"
+		},
+		{
+			"team": "PHX",
+			"season": "20132014",
+			"Goals": 210,
+			"Assists": 395,
+			"Shots": 2502,
+			"+/-": -67,
+			"Fenwick": 3514,
+			"color": "#8E0028"
+		},
+		{
+			"team": "PHX",
+			"season": "20142015",
+			"Goals": 186,
+			"Assists": 371,
+			"Shots": 2328,
+			"+/-": -84,
+			"Fenwick": 3289,
+			"color": "#8E0028"
+		},
+		{
+			"team": "PIT",
+			"season": "20132014",
+			"Goals": 256,
+			"Assists": 441,
+			"Shots": 2668,
+			"+/-": 6,
+			"Fenwick": 3618,
+			"color": "#D1BD80"
+		},
+		{
+			"team": "PIT",
+			"season": "20142015",
+			"Goals": 234,
+			"Assists": 387,
+			"Shots": 2491,
+			"+/-": -49,
+			"Fenwick": 3372,
+			"color": "#D1BD80"
+		},
+		{
+			"team": "S.J",
+			"season": "20132014",
+			"Goals": 225,
+			"Assists": 397,
+			"Shots": 2665,
+			"+/-": 153,
+			"Fenwick": 3760,
+			"color": "#05535D"
+		},
+		{
+			"team": "S.J",
+			"season": "20142015",
+			"Goals": 216,
+			"Assists": 379,
+			"Shots": 2518,
+			"+/-": 132,
+			"Fenwick": 3550,
+			"color": "#05535D"
+		},
+		{
+			"team": "STL",
+			"season": "20132014",
+			"Goals": 233,
+			"Assists": 421,
+			"Shots": 2394,
+			"+/-": 136,
+			"Fenwick": 3404,
+			"color": "#0546A0"
+		},
+		{
+			"team": "STL",
+			"season": "20142015",
+			"Goals": 238,
+			"Assists": 426,
+			"Shots": 2472,
+			"+/-": 105,
+			"Fenwick": 3504,
+			"color": "#0546A0"
+		},
+		{
+			"team": "T.B",
+			"season": "20132014",
+			"Goals": 216,
+			"Assists": 389,
+			"Shots": 2396,
+			"+/-": 102,
+			"Fenwick": 3375,
+			"color": "#000000"
+		},
+		{
+			"team": "T.B",
+			"season": "20142015",
+			"Goals": 214,
+			"Assists": 397,
+			"Shots": 2448,
+			"+/-": 120,
+			"Fenwick": 3442,
+			"color": "#000000"
+		},
+		{
+			"team": "TOR",
+			"season": "20132014",
+			"Goals": 223,
+			"Assists": 358,
+			"Shots": 2297,
+			"+/-": -124,
+			"Fenwick": 3164,
+			"color": "#003777"
+		},
+		{
+			"team": "TOR",
+			"season": "20142015",
+			"Goals": 217,
+			"Assists": 375,
+			"Shots": 2406,
+			"+/-": -58,
+			"Fenwick": 3383,
+			"color": "#003777"
+		},
+		{
+			"team": "VAN",
+			"season": "20132014",
+			"Goals": 196,
+			"Assists": 319,
+			"Shots": 2577,
+			"+/-": -98,
+			"Fenwick": 3617,
+			"color": "#07346F"
+		},
+		{
+			"team": "VAN",
+			"season": "20142015",
+			"Goals": 186,
+			"Assists": 317,
+			"Shots": 2416,
+			"+/-": -70,
+			"Fenwick": 3355,
+			"color": "#07346F"
+		},
+		{
+			"team": "WPG",
+			"season": "20132014",
+			"Goals": 219,
+			"Assists": 375,
+			"Shots": 2516,
+			"+/-": -18,
+			"Fenwick": 3543,
+			"color": "#002E62"
+		},
+		{
+			"team": "WPG",
+			"season": "20142015",
+			"Goals": 208,
+			"Assists": 358,
+			"Shots": 2330,
+			"+/-": 12,
+			"Fenwick": 3294,
+			"color": "#002E62"
+		},
+		{
+			"team": "WSH",
+			"season": "20132014",
+			"Goals": 236,
+			"Assists": 395,
+			"Shots": 2454,
+			"+/-": -94,
+			"Fenwick": 3407,
+			"color": "#CF132B"
+		},
+		{
+			"team": "WSH",
+			"season": "20142015",
+			"Goals": 240,
+			"Assists": 426,
+			"Shots": 2630,
+			"+/-": -74,
+			"Fenwick": 3669,
+			"color": "#CF132B"
+		},
+		{
+			"team": "ANA",
+			"season": "Change",
+			"Goals": -5,
+			"Assists": -43,
+			"Shots": 22,
+			"+/-": -79,
+			"Fenwick": 28,
+			"color": "#91764B"
+		},
+		{
+			"team": "BOS",
+			"season": "Change",
+			"Goals": -42,
+			"Assists": -52,
+			"Shots": -399,
+			"+/-": -40,
+			"Fenwick": -553,
+			"color": "#FFC422"
+		},
+		{
+			"team": "BUF",
+			"season": "Change",
+			"Goals": 48,
+			"Assists": 62,
+			"Shots": 397,
+			"+/-": 44,
+			"Fenwick": 577,
+			"color": "#002E62"
+		},
+		{
+			"team": "CAR",
+			"season": "Change",
+			"Goals": 0,
+			"Assists": 4,
+			"Shots": 60,
+			"+/-": -30,
+			"Fenwick": 79,
+			"color": "#E03A3E"
+		},
+		{
+			"team": "CBJ",
+			"season": "Change",
+			"Goals": 4,
+			"Assists": 3,
+			"Shots": -143,
+			"+/-": 23,
+			"Fenwick": -193,
+			"color": "#00285C"
+		},
+		{
+			"team": "CGY",
+			"season": "Change",
+			"Goals": 13,
+			"Assists": 26,
+			"Shots": 183,
+			"+/-": 16,
+			"Fenwick": 194,
+			"color": "#E03A3E"
+		},
+		{
+			"team": "CHI",
+			"season": "Change",
+			"Goals": 13,
+			"Assists": 23,
+			"Shots": 151,
+			"+/-": -11,
+			"Fenwick": 222,
+			"color": "#E3263A"
+		},
+		{
+			"team": "COL",
+			"season": "Change",
+			"Goals": -11,
+			"Assists": -30,
+			"Shots": -11,
+			"+/-": 29,
+			"Fenwick": 15,
+			"color": "#8B2942"
+		},
+		{
+			"team": "DAL",
+			"season": "Change",
+			"Goals": 23,
+			"Assists": 52,
+			"Shots": 232,
+			"+/-": -21,
+			"Fenwick": 286,
+			"color": "#006A4E"
+		},
+		{
+			"team": "DET",
+			"season": "Change",
+			"Goals": -14,
+			"Assists": -34,
+			"Shots": -137,
+			"+/-": 16,
+			"Fenwick": -174,
+			"color": "#EC1F26"
+		},
+		{
+			"team": "EDM",
+			"season": "Change",
+			"Goals": 21,
+			"Assists": 45,
+			"Shots": 334,
+			"+/-": 38,
+			"Fenwick": 455,
+			"color": "#E66A20"
+		},
+		{
+			"team": "FLA",
+			"season": "Change",
+			"Goals": 29,
+			"Assists": 28,
+			"Shots": 242,
+			"+/-": 37,
+			"Fenwick": 328,
+			"color": "#D59C05"
+		},
+		{
+			"team": "L.A",
+			"season": "Change",
+			"Goals": -1,
+			"Assists": -16,
+			"Shots": -88,
+			"+/-": -10,
+			"Fenwick": -141,
+			"color": "#000000"
+		},
+		{
+			"team": "MIN",
+			"season": "Change",
+			"Goals": -9,
+			"Assists": -12,
+			"Shots": -92,
+			"+/-": 18,
+			"Fenwick": -142,
+			"color": "#025736"
+		},
+		{
+			"team": "MTL",
+			"season": "Change",
+			"Goals": -37,
+			"Assists": -42,
+			"Shots": -384,
+			"+/-": -7,
+			"Fenwick": -518,
+			"color": "#BF2F38"
+		},
+		{
+			"team": "N.J",
+			"season": "Change",
+			"Goals": 34,
+			"Assists": 15,
+			"Shots": 133,
+			"+/-": 3,
+			"Fenwick": 170,
+			"color": "#E03A3E"
+		},
+		{
+			"team": "NSH",
+			"season": "Change",
+			"Goals": 30,
+			"Assists": 60,
+			"Shots": 199,
+			"+/-": 9,
+			"Fenwick": 293,
+			"color": "#FDBB2F"
+		},
+		{
+			"team": "NYI",
+			"season": "Change",
+			"Goals": 23,
+			"Assists": 27,
+			"Shots": 143,
+			"+/-": 13,
+			"Fenwick": 195,
+			"color": "#F57D31"
+		},
+		{
+			"team": "NYR",
+			"season": "Change",
+			"Goals": -14,
+			"Assists": -16,
+			"Shots": -220,
+			"+/-": -45,
+			"Fenwick": -317,
+			"color": "#0161AB"
+		},
+		{
+			"team": "OTT",
+			"season": "Change",
+			"Goals": -9,
+			"Assists": -14,
+			"Shots": -71,
+			"+/-": 3,
+			"Fenwick": -76,
+			"color": "#E4173E"
+		},
+		{
+			"team": "PHI",
+			"season": "Change",
+			"Goals": -21,
+			"Assists": -32,
+			"Shots": -122,
+			"+/-": -41,
+			"Fenwick": -186,
+			"color": "#F47940"
+		},
+		{
+			"team": "PHX",
+			"season": "Change",
+			"Goals": -24,
+			"Assists": -24,
+			"Shots": -174,
+			"+/-": -17,
+			"Fenwick": -225,
+			"color": "#8E0028"
+		},
+		{
+			"team": "PIT",
+			"season": "Change",
+			"Goals": -22,
+			"Assists": -54,
+			"Shots": -177,
+			"+/-": -55,
+			"Fenwick": -246,
+			"color": "#D1BD80"
+		},
+		{
+			"team": "S.J",
+			"season": "Change",
+			"Goals": -9,
+			"Assists": -18,
+			"Shots": -147,
+			"+/-": -21,
+			"Fenwick": -210,
+			"color": "#05535D"
+		},
+		{
+			"team": "STL",
+			"season": "Change",
+			"Goals": 5,
+			"Assists": 5,
+			"Shots": 78,
+			"+/-": -31,
+			"Fenwick": 100,
+			"color": "#0546A0"
+		},
+		{
+			"team": "T.B",
+			"season": "Change",
+			"Goals": -2,
+			"Assists": 8,
+			"Shots": 52,
+			"+/-": 18,
+			"Fenwick": 67,
+			"color": "#000000"
+		},
+		{
+			"team": "TOR",
+			"season": "Change",
+			"Goals": -6,
+			"Assists": 17,
+			"Shots": 109,
+			"+/-": 66,
+			"Fenwick": 219,
+			"color": "#003777"
+		},
+		{
+			"team": "VAN",
+			"season": "Change",
+			"Goals": -10,
+			"Assists": -2,
+			"Shots": -161,
+			"+/-": 28,
+			"Fenwick": -262,
+			"color": "#07346F"
+		},
+		{
+			"team": "WPG",
+			"season": "Change",
+			"Goals": -11,
+			"Assists": -17,
+			"Shots": -186,
+			"+/-": 30,
+			"Fenwick": -249,
+			"color": "#002E62"
+		},
+		{
+			"team": "WSH",
+			"season": "Change",
+			"Goals": 4,
+			"Assists": 31,
+			"Shots": 176,
+			"+/-": 20,
+			"Fenwick": 262,
+			"color": "#CF132B"
+		}
+	]

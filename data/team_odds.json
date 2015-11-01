@@ -1,0 +1,452 @@
+	[
+		{
+			"team": "CHI",
+			"odds": 98.5,
+			"y": 1
+		},
+		{
+			"team": "STL",
+			"odds": 80.6,
+			"y": 1
+		},
+		{
+			"team": "MIN",
+			"odds": 76.5,
+			"y": 1
+		},
+		{
+			"team": "COL",
+			"odds": 63.5,
+			"y": 1
+		},
+		{
+			"team": "WPG",
+			"odds": 37.3,
+			"y": 1
+		},
+		{
+			"team": "DAL",
+			"odds": 55.2,
+			"y": 1
+		},
+		{
+			"team": "NSH",
+			"odds": 37.3,
+			"y": 1
+		},
+		{
+			"team": "LAK",
+			"odds": 99.6,
+			"y": 1
+		},
+		{
+			"team": "ANA",
+			"odds": 98.1,
+			"y": 1
+		},
+		{
+			"team": "SJS",
+			"odds": 87.6,
+			"y": 1
+		},
+		{
+			"team": "VAN",
+			"odds": 35,
+			"y": 1
+		},
+		{
+			"team": "CGY",
+			"odds": 18.7,
+			"y": 1
+		},
+		{
+			"team": "PHX",
+			"odds": 7.8,
+			"y": 1
+		},
+		{
+			"team": "EDM",
+			"odds": 8.6,
+			"y": 1
+		},
+		{
+			"team": "BOS",
+			"odds": 100,
+			"y": 1
+		},
+		{
+			"team": "TBL",
+			"odds": 93,
+			"y": 1
+		},
+		{
+			"team": "DET",
+			"odds": 79.6,
+			"y": 1
+		},
+		{
+			"team": "TOR",
+			"odds": 36.7,
+			"y": 1
+		},
+		{
+			"team": "OTT",
+			"odds": 44.4,
+			"y": 1
+		},
+		{
+			"team": "MTL",
+			"odds": 29.6,
+			"y": 1
+		},
+		{
+			"team": "FLA",
+			"odds": 17.3,
+			"y": 1
+		},
+		{
+			"team": "BUF",
+			"odds": 4.1,
+			"y": 1
+		},
+		{
+			"team": "CBJ",
+			"odds": 68.1,
+			"y": 1
+		},
+		{
+			"team": "NJD",
+			"odds": 61.8,
+			"y": 1
+		},
+		{
+			"team": "PIT",
+			"odds": 67.1,
+			"y": 1
+		},
+		{
+			"team": "NYR",
+			"odds": 85.4,
+			"y": 1
+		},
+		{
+			"team": "PHI",
+			"odds": 44.7,
+			"y": 1
+		},
+		{
+			"team": "WSH",
+			"odds": 49.6,
+			"y": 1
+		},
+		{
+			"team": "NYI",
+			"odds": 11.2,
+			"y": 1
+		},
+		{
+			"team": "CAR",
+			"odds": 13.8,
+			"y": 1
+		},
+		{
+			"team": "CHI",
+			"odds": 65.5,
+			"y": 2
+		},
+		{
+			"team": "STL",
+			"odds": 12.6,
+			"y": 2
+		},
+		{
+			"team": "MIN",
+			"odds": 9.8,
+			"y": 2
+		},
+		{
+			"team": "COL",
+			"odds": 5.8,
+			"y": 2
+		},
+		{
+			"team": "WPG",
+			"odds": 1.1,
+			"y": 2
+		},
+		{
+			"team": "DAL",
+			"odds": 3.6,
+			"y": 2
+		},
+		{
+			"team": "NSH",
+			"odds": 1.5,
+			"y": 2
+		},
+		{
+			"team": "LAK",
+			"odds": 64.9,
+			"y": 2
+		},
+		{
+			"team": "ANA",
+			"odds": 27.7,
+			"y": 2
+		},
+		{
+			"team": "SJS",
+			"odds": 6.7,
+			"y": 2
+		},
+		{
+			"team": "VAN",
+			"odds": 0.6,
+			"y": 2
+		},
+		{
+			"team": "CGY",
+			"odds": 0.1,
+			"y": 2
+		},
+		{
+			"team": "PHX",
+			"odds": 0,
+			"y": 2
+		},
+		{
+			"team": "EDM",
+			"odds": 0,
+			"y": 2
+		},
+		{
+			"team": "BOS",
+			"odds": 89.1,
+			"y": 2
+		},
+		{
+			"team": "TBL",
+			"odds": 7.7,
+			"y": 2
+		},
+		{
+			"team": "DET",
+			"odds": 2.7,
+			"y": 2
+		},
+		{
+			"team": "TOR",
+			"odds": 0.3,
+			"y": 2
+		},
+		{
+			"team": "OTT",
+			"odds": 0.1,
+			"y": 2
+		},
+		{
+			"team": "MTL",
+			"odds": 0.1,
+			"y": 2
+		},
+		{
+			"team": "FLA",
+			"odds": 0.1,
+			"y": 2
+		},
+		{
+			"team": "BUF",
+			"odds": 0,
+			"y": 2
+		},
+		{
+			"team": "CBJ",
+			"odds": 16.3,
+			"y": 2
+		},
+		{
+			"team": "NJD",
+			"odds": 13.5,
+			"y": 2
+		},
+		{
+			"team": "PIT",
+			"odds": 16.4,
+			"y": 2
+		},
+		{
+			"team": "NYR",
+			"odds": 36.7,
+			"y": 2
+		},
+		{
+			"team": "PHI",
+			"odds": 6.7,
+			"y": 2
+		},
+		{
+			"team": "WSH",
+			"odds": 8.5,
+			"y": 2
+		},
+		{
+			"team": "NYI",
+			"odds": 0.9,
+			"y": 2
+		},
+		{
+			"team": "CAR",
+			"odds": 1,
+			"y": 2
+		},
+		{
+			"team": "CHI",
+			"odds": 6.2,
+			"y": 3
+		},
+		{
+			"team": "STL",
+			"odds": 0.4,
+			"y": 3
+		},
+		{
+			"team": "MIN",
+			"odds": 0.3,
+			"y": 3
+		},
+		{
+			"team": "COL",
+			"odds": 0.2,
+			"y": 3
+		},
+		{
+			"team": "WPG",
+			"odds": 0,
+			"y": 3
+		},
+		{
+			"team": "DAL",
+			"odds": 0,
+			"y": 3
+		},
+		{
+			"team": "NSH",
+			"odds": 0,
+			"y": 3
+		},
+		{
+			"team": "LAK",
+			"odds": 17.5,
+			"y": 3
+		},
+		{
+			"team": "ANA",
+			"odds": 5.4,
+			"y": 3
+		},
+		{
+			"team": "SJS",
+			"odds": 0.7,
+			"y": 3
+		},
+		{
+			"team": "VAN",
+			"odds": 0,
+			"y": 3
+		},
+		{
+			"team": "CGY",
+			"odds": 0,
+			"y": 3
+		},
+		{
+			"team": "PHX",
+			"odds": 0,
+			"y": 3
+		},
+		{
+			"team": "EDM",
+			"odds": 0,
+			"y": 3
+		},
+		{
+			"team": "BOS",
+			"odds": 62.1,
+			"y": 3
+		},
+		{
+			"team": "TBL",
+			"odds": 3.3,
+			"y": 3
+		},
+		{
+			"team": "DET",
+			"odds": 1.1,
+			"y": 3
+		},
+		{
+			"team": "TOR",
+			"odds": 0,
+			"y": 3
+		},
+		{
+			"team": "OTT",
+			"odds": 0,
+			"y": 3
+		},
+		{
+			"team": "MTL",
+			"odds": 0,
+			"y": 3
+		},
+		{
+			"team": "FLA",
+			"odds": 0,
+			"y": 3
+		},
+		{
+			"team": "BUF",
+			"odds": 0,
+			"y": 3
+		},
+		{
+			"team": "CBJ",
+			"odds": 0.4,
+			"y": 3
+		},
+		{
+			"team": "NJD",
+			"odds": 0.2,
+			"y": 3
+		},
+		{
+			"team": "PIT",
+			"odds": 0.5,
+			"y": 3
+		},
+		{
+			"team": "NYR",
+			"odds": 1.4,
+			"y": 3
+		},
+		{
+			"team": "PHI",
+			"odds": 0,
+			"y": 3
+		},
+		{
+			"team": "WSH",
+			"odds": 0.2,
+			"y": 3
+		},
+		{
+			"team": "NYI",
+			"odds": 0,
+			"y": 3
+		},
+		{
+			"team": "CAR",
+			"odds": 0,
+			"y": 3
+		}
+	]

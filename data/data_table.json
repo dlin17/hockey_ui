@@ -1,0 +1,212 @@
+	[
+		{
+			"team": "Anaheim Ducks",
+			"winpct": 59.3,
+			"playoffs": 97.7,
+			"division": 4.5,
+			"presidents": 33.3
+		},
+		{
+			"team": "Boston Bruins",
+			"winpct": 70.3,
+			"playoffs": 100,
+			"division": 75,
+			"presidents": 93.1
+		},
+		{
+			"team": "Buffalo Sabres",
+			"winpct": 38.4,
+			"playoffs": 0.6,
+			"division": 0,
+			"presidents": 0
+		},
+		{
+			"team": "Carolina Hurricane",
+			"winpct": 43,
+			"playoffs": 12,
+			"division": 0,
+			"presidents": 0.7
+		},
+		{
+			"team": "Columbus Blue Jackets",
+			"winpct": 51.5,
+			"playoffs": 71,
+			"division": 0.2,
+			"presidents": 14.9
+		},
+		{
+			"team": "Calgary Flames",
+			"winpct": 43.6,
+			"playoffs": 17.8,
+			"division": 0,
+			"presidents": 0.1
+		},
+		{
+			"team": "Chicago Blackhawks",
+			"winpct": 59.4,
+			"playoffs": 97.4,
+			"division": 4.7,
+			"presidents": 64.9
+		},
+		{
+			"team": "Colorado Avalanche",
+			"winpct": 49.7,
+			"playoffs": 65.8,
+			"division": 0.1,
+			"presidents": 6.5
+		},
+		{
+			"team": "Dallas Stars",
+			"winpct": 47.8,
+			"playoffs": 38.2,
+			"division": 0,
+			"presidents": 3.4
+		},
+		{
+			"team": "Detroit Red Wings",
+			"winpct": 55,
+			"playoffs": 81.4,
+			"division": 0.8,
+			"presidents": 2.3
+		},
+		{
+			"team": "Edmonton Canucks",
+			"winpct": 40.4,
+			"playoffs": 6.9,
+			"division": 0,
+			"presidents": 0
+		},
+		{
+			"team": "Florida Panthers",
+			"winpct": 43.5,
+			"playoffs": 9.9,
+			"division": 0,
+			"presidents": 0
+		},
+		{
+			"team": "Los Angeles Kings",
+			"winpct": 61.3,
+			"playoffs": 99.6,
+			"division": 8.2,
+			"presidents": 51
+		},
+		{
+			"team": "Minnesota Wild",
+			"winpct": 50.9,
+			"playoffs": 67.7,
+			"division": 0.2,
+			"presidents": 10.2
+		},
+		{
+			"team": "Montreal Canadiens",
+			"winpct": 45.9,
+			"playoffs": 32.1,
+			"division": 0,
+			"presidents": 0
+		},
+		{
+			"team": "New Jersey Devils",
+			"winpct": 51.4,
+			"playoffs": 64.8,
+			"division": 0.3,
+			"presidents": 14.8
+		},
+		{
+			"team": "Nashville Predators",
+			"winpct": 44.3,
+			"playoffs": 20.9,
+			"division": 0,
+			"presidents": 0.7
+		},
+		{
+			"team": "New York Islanders",
+			"winpct": 43.6,
+			"playoffs": 17.7,
+			"division": 0,
+			"presidents": 1.3
+		},
+		{
+			"team": "New York Rangers",
+			"winpct": 55.7,
+			"playoffs": 59.9,
+			"division": 1.4,
+			"presidents": 40.8
+		},
+		{
+			"team": "Ottawa Senators",
+			"winpct": 48.6,
+			"playoffs": 32.4,
+			"division": 0.1,
+			"presidents": 0.1
+		},
+		{
+			"team": "Philadelphia Flyers",
+			"winpct": 50.1,
+			"playoffs": 57.5,
+			"division": 0.1,
+			"presidents": 8.8
+		},
+		{
+			"team": "Arizona Coyotes",
+			"winpct": 40.6,
+			"playoffs": 12.7,
+			"division": 0,
+			"presidents": 0
+		},
+		{
+			"team": "Pittsburgh Penguins",
+			"winpct": 50.7,
+			"playoffs": 63.9,
+			"division": 0.1,
+			"presidents": 11.3
+		},
+		{
+			"team": "San Jose Sharks",
+			"winpct": 56.3,
+			"playoffs": 94.2,
+			"division": 1.6,
+			"presidents": 15.1
+		},
+		{
+			"team": "St. Louis Blues",
+			"winpct": 51.6,
+			"playoffs": 74.9,
+			"division": 0.2,
+			"presidents": 11.7
+		},
+		{
+			"team": "Tampa Bay Lightning",
+			"winpct": 57.1,
+			"playoffs": 99.8,
+			"division": 2.5,
+			"presidents": 4.5
+		},
+		{
+			"team": "Toronto Maple Leafs",
+			"winpct": 46.8,
+			"playoffs": 46.4,
+			"division": 0,
+			"presidents": 0
+		},
+		{
+			"team": "Vancouver Canucks",
+			"winpct": 46.3,
+			"playoffs": 50.5,
+			"division": 0,
+			"presidents": 0.4
+		},
+		{
+			"team": "Winnipeg Jets",
+			"winpct": 47.4,
+			"playoffs": 58,
+			"division": 0,
+			"presidents": 2.6
+		},
+		{
+			"team": "Washington Capitals",
+			"winpct": 49.2,
+			"playoffs": 56.1,
+			"division": 0.1,
+			"presidents": 7.4
+		}
+	]

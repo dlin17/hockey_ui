@@ -1,0 +1,67 @@
+
+			body {
+				font: 11px PT Sans;
+				cursor:default;
+			}	
+
+			.btn ,
+			.btn2 {
+				cursor: pointer;
+				stroke: darkgrey;
+				fill: lightgrey;
+			}
+
+			.btn:hover,
+			.btn2:hover {
+				fill:darkgrey;
+			}
+
+			.databars:hover {
+				fill:#013B67;
+			}
+
+			.btn-primary,
+			.btn2-primary {
+				fill:#013B67;
+				stroke: darkgrey;
+				cursor: pointer;
+			}
+
+			.button_text,
+			.btn_text_2 {
+				text-anchor: middle;
+				fill: #131517;
+				pointer-events: none;
+			}
+
+			.activeText,
+			.activeText2 {
+				text-anchor: middle;
+				fill: white;
+				pointer-events: none;
+			}
+
+			.axis line {
+				fill: none;
+				stroke: darkgrey;
+				shape-rendering: crispEdges;
+				stroke-width:1;
+				stroke-dasharray:3, 3
+
+			}
+
+			.axis path {
+				fill: none;
+				stroke: darkgrey;
+				shape-rendering: crispEdges;
+				stroke-width:1;
+			}
+
+			.grid path,
+			.grid line {
+				fill: none;
+				stroke: white;
+				shape-rendering: crispEdges;
+				stroke-width:2;
+
+			}

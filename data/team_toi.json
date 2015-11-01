@@ -1,0 +1,1472 @@
+	[
+		{
+			"team": "N.J",
+			"season": 20082009,
+			"ES_TOI": 14281.3,
+			"PP_TOI": 3621.4,
+			"SH_TOI": 5219.4
+		},
+		{
+			"team": "N.J",
+			"season": 20072008,
+			"ES_TOI": 15036.8,
+			"PP_TOI": 3421.8,
+			"SH_TOI": 5007.4
+		},
+		{
+			"team": "PIT",
+			"season": 20072008,
+			"ES_TOI": 18691.6,
+			"PP_TOI": 2750.8,
+			"SH_TOI": 3080.6
+		},
+		{
+			"team": "PIT",
+			"season": 20082009,
+			"ES_TOI": 19085.6,
+			"PP_TOI": 2693.2,
+			"SH_TOI": 2844.6
+		},
+		{
+			"team": "PHI",
+			"season": 20072008,
+			"ES_TOI": 18578.3,
+			"PP_TOI": 2649.9,
+			"SH_TOI": 3101.3
+		},
+		{
+			"team": "T.B",
+			"season": 20082009,
+			"ES_TOI": 18831.7,
+			"PP_TOI": 2641,
+			"SH_TOI": 3095.6
+		},
+		{
+			"team": "TOR",
+			"season": 20072008,
+			"ES_TOI": 18807.6,
+			"PP_TOI": 2638.1,
+			"SH_TOI": 2901
+		},
+		{
+			"team": "L.A",
+			"season": 20082009,
+			"ES_TOI": 19245.8,
+			"PP_TOI": 2632,
+			"SH_TOI": 2721.1
+		},
+		{
+			"team": "L.A",
+			"season": 20072008,
+			"ES_TOI": 19322.9,
+			"PP_TOI": 2612.8,
+			"SH_TOI": 2499.1
+		},
+		{
+			"team": "CAR",
+			"season": 20072008,
+			"ES_TOI": 18536.9,
+			"PP_TOI": 2610.5,
+			"SH_TOI": 3131.4
+		},
+		{
+			"team": "MTL",
+			"season": 20072008,
+			"ES_TOI": 19139.6,
+			"PP_TOI": 2573.8,
+			"SH_TOI": 2819
+		},
+		{
+			"team": "BUF",
+			"season": 20082009,
+			"ES_TOI": 19304.8,
+			"PP_TOI": 2570.3,
+			"SH_TOI": 2667.8
+		},
+		{
+			"team": "BUF",
+			"season": 20072008,
+			"ES_TOI": 18874.6,
+			"PP_TOI": 2568.6,
+			"SH_TOI": 2903.4
+		},
+		{
+			"team": "WSH",
+			"season": 20082009,
+			"ES_TOI": 19202.1,
+			"PP_TOI": 2552.2,
+			"SH_TOI": 2654.3
+		},
+		{
+			"team": "PHI",
+			"season": 20082009,
+			"ES_TOI": 19082.5,
+			"PP_TOI": 2551.4,
+			"SH_TOI": 2800.2
+		},
+		{
+			"team": "NYI",
+			"season": 20072008,
+			"ES_TOI": 18828.4,
+			"PP_TOI": 2547.5,
+			"SH_TOI": 3022.6
+		},
+		{
+			"team": "ATL",
+			"season": 20082009,
+			"ES_TOI": 19119.1,
+			"PP_TOI": 2545,
+			"SH_TOI": 2759.8
+		},
+		{
+			"team": "ANA",
+			"season": 20072008,
+			"ES_TOI": 19133.8,
+			"PP_TOI": 2538.1,
+			"SH_TOI": 2844.3
+		},
+		{
+			"team": "NYR",
+			"season": 20072008,
+			"ES_TOI": 19140.7,
+			"PP_TOI": 2524.8,
+			"SH_TOI": 3116.5
+		},
+		{
+			"team": "STL",
+			"season": 20082009,
+			"ES_TOI": 19394.7,
+			"PP_TOI": 2522.6,
+			"SH_TOI": 2645.4
+		},
+		{
+			"team": "MTL",
+			"season": 20082009,
+			"ES_TOI": 19227.1,
+			"PP_TOI": 2519.5,
+			"SH_TOI": 2875.3
+		},
+		{
+			"team": "CAR",
+			"season": 20082009,
+			"ES_TOI": 19557.6,
+			"PP_TOI": 2505.4,
+			"SH_TOI": 2447.8
+		},
+		{
+			"team": "ANA",
+			"season": 20082009,
+			"ES_TOI": 19482.8,
+			"PP_TOI": 2490.7,
+			"SH_TOI": 2487.8
+		},
+		{
+			"team": "VAN",
+			"season": 20082009,
+			"ES_TOI": 18968.6,
+			"PP_TOI": 2490.2,
+			"SH_TOI": 2719.5
+		},
+		{
+			"team": "NYI",
+			"season": 20082009,
+			"ES_TOI": 19034.4,
+			"PP_TOI": 2487.3,
+			"SH_TOI": 2884
+		},
+		{
+			"team": "DAL",
+			"season": 20072008,
+			"ES_TOI": 19174.2,
+			"PP_TOI": 2486.5,
+			"SH_TOI": 2717.9
+		},
+		{
+			"team": "WSH",
+			"season": 20072008,
+			"ES_TOI": 19167.3,
+			"PP_TOI": 2468.5,
+			"SH_TOI": 2837.7
+		},
+		{
+			"team": "CHI",
+			"season": 20072008,
+			"ES_TOI": 18887.6,
+			"PP_TOI": 2461.5,
+			"SH_TOI": 2973.2
+		},
+		{
+			"team": "EDM",
+			"season": 20072008,
+			"ES_TOI": 19525,
+			"PP_TOI": 2460.9,
+			"SH_TOI": 2825.2
+		},
+		{
+			"team": "CGY",
+			"season": 20082009,
+			"ES_TOI": 18788.2,
+			"PP_TOI": 2447.2,
+			"SH_TOI": 2704.6
+		},
+		{
+			"team": "CBJ",
+			"season": 20072008,
+			"ES_TOI": 19224.7,
+			"PP_TOI": 2444.7,
+			"SH_TOI": 2770.9
+		},
+		{
+			"team": "S.J",
+			"season": 20072008,
+			"ES_TOI": 19596.2,
+			"PP_TOI": 2443.2,
+			"SH_TOI": 2613.2
+		},
+		{
+			"team": "VAN",
+			"season": 20072008,
+			"ES_TOI": 19356.7,
+			"PP_TOI": 2430.3,
+			"SH_TOI": 2796.2
+		},
+		{
+			"team": "NYR",
+			"season": 20082009,
+			"ES_TOI": 19487.6,
+			"PP_TOI": 2428.2,
+			"SH_TOI": 2880
+		},
+		{
+			"team": "OTT",
+			"season": 20072008,
+			"ES_TOI": 19025.7,
+			"PP_TOI": 2424.7,
+			"SH_TOI": 2892.9
+		},
+		{
+			"team": "PIT",
+			"season": 20092010,
+			"ES_TOI": 19287.8,
+			"PP_TOI": 2408.1,
+			"SH_TOI": 2507.8
+		},
+		{
+			"team": "DET",
+			"season": 20072008,
+			"ES_TOI": 19240.6,
+			"PP_TOI": 2399.8,
+			"SH_TOI": 2798.5
+		},
+		{
+			"team": "T.B",
+			"season": 20092010,
+			"ES_TOI": 19288.6,
+			"PP_TOI": 2396.5,
+			"SH_TOI": 2604.3
+		},
+		{
+			"team": "OTT",
+			"season": 20082009,
+			"ES_TOI": 19349.3,
+			"PP_TOI": 2390,
+			"SH_TOI": 2760.8
+		},
+		{
+			"team": "CGY",
+			"season": 20072008,
+			"ES_TOI": 18947.9,
+			"PP_TOI": 2388.2,
+			"SH_TOI": 2906
+		},
+		{
+			"team": "STL",
+			"season": 20072008,
+			"ES_TOI": 19406.1,
+			"PP_TOI": 2385.1,
+			"SH_TOI": 2588.3
+		},
+		{
+			"team": "DAL",
+			"season": 20082009,
+			"ES_TOI": 19595.8,
+			"PP_TOI": 2363.8,
+			"SH_TOI": 2657.1
+		},
+		{
+			"team": "FLA",
+			"season": 20072008,
+			"ES_TOI": 19351.5,
+			"PP_TOI": 2363.6,
+			"SH_TOI": 2614.5
+		},
+		{
+			"team": "TOR",
+			"season": 20082009,
+			"ES_TOI": 19573.7,
+			"PP_TOI": 2359.9,
+			"SH_TOI": 2530.5
+		},
+		{
+			"team": "ATL",
+			"season": 20072008,
+			"ES_TOI": 19611.9,
+			"PP_TOI": 2351.8,
+			"SH_TOI": 2788.2
+		},
+		{
+			"team": "FLA",
+			"season": 20082009,
+			"ES_TOI": 19823.2,
+			"PP_TOI": 2349.2,
+			"SH_TOI": 2523.3
+		},
+		{
+			"team": "CHI",
+			"season": 20082009,
+			"ES_TOI": 19510.5,
+			"PP_TOI": 2342.8,
+			"SH_TOI": 2723.6
+		},
+		{
+			"team": "DET",
+			"season": 20082009,
+			"ES_TOI": 19389,
+			"PP_TOI": 2335.7,
+			"SH_TOI": 2474.2
+		},
+		{
+			"team": "EDM",
+			"season": 20082009,
+			"ES_TOI": 19401.8,
+			"PP_TOI": 2321.4,
+			"SH_TOI": 2776.1
+		},
+		{
+			"team": "STL",
+			"season": 20092010,
+			"ES_TOI": 19888.4,
+			"PP_TOI": 2318.8,
+			"SH_TOI": 2437.9
+		},
+		{
+			"team": "PHX",
+			"season": 20072008,
+			"ES_TOI": 19498.1,
+			"PP_TOI": 2317.5,
+			"SH_TOI": 2541.8
+		},
+		{
+			"team": "MTL",
+			"season": 20112012,
+			"ES_TOI": 19232.8,
+			"PP_TOI": 2316.7,
+			"SH_TOI": 3005.9
+		},
+		{
+			"team": "PHI",
+			"season": 20092010,
+			"ES_TOI": 19498.2,
+			"PP_TOI": 2305.4,
+			"SH_TOI": 2545.2
+		},
+		{
+			"team": "NSH",
+			"season": 20072008,
+			"ES_TOI": 19372.4,
+			"PP_TOI": 2303.6,
+			"SH_TOI": 2733.1
+		},
+		{
+			"team": "S.J",
+			"season": 20082009,
+			"ES_TOI": 19895.3,
+			"PP_TOI": 2277.2,
+			"SH_TOI": 2479.2
+		},
+		{
+			"team": "BOS",
+			"season": 20072008,
+			"ES_TOI": 19313.8,
+			"PP_TOI": 2274.4,
+			"SH_TOI": 2734.1
+		},
+		{
+			"team": "T.B",
+			"season": 20102011,
+			"ES_TOI": 19992,
+			"PP_TOI": 2267.3,
+			"SH_TOI": 2408.3
+		},
+		{
+			"team": "PHI",
+			"season": 20112012,
+			"ES_TOI": 19805.1,
+			"PP_TOI": 2267,
+			"SH_TOI": 2541.7
+		},
+		{
+			"team": "ANA",
+			"season": 20092010,
+			"ES_TOI": 20010.1,
+			"PP_TOI": 2263.4,
+			"SH_TOI": 2327.4
+		},
+		{
+			"team": "CAR",
+			"season": 20092010,
+			"ES_TOI": 19435.3,
+			"PP_TOI": 2259.3,
+			"SH_TOI": 2500.4
+		},
+		{
+			"team": "CBJ",
+			"season": 20082009,
+			"ES_TOI": 19769.7,
+			"PP_TOI": 2256.5,
+			"SH_TOI": 2662.9
+		},
+		{
+			"team": "NYI",
+			"season": 20092010,
+			"ES_TOI": 20222.1,
+			"PP_TOI": 2238.1,
+			"SH_TOI": 2389.3
+		},
+		{
+			"team": "ATL",
+			"season": 20092010,
+			"ES_TOI": 19607.8,
+			"PP_TOI": 2227.2,
+			"SH_TOI": 2705.2
+		},
+		{
+			"team": "DAL",
+			"season": 20092010,
+			"ES_TOI": 20436,
+			"PP_TOI": 2226.6,
+			"SH_TOI": 2238.9
+		},
+		{
+			"team": "BOS",
+			"season": 20082009,
+			"ES_TOI": 19621.4,
+			"PP_TOI": 2225.7,
+			"SH_TOI": 2408.4
+		},
+		{
+			"team": "VAN",
+			"season": 20092010,
+			"ES_TOI": 19807.2,
+			"PP_TOI": 2219.4,
+			"SH_TOI": 2395
+		},
+		{
+			"team": "MIN",
+			"season": 20072008,
+			"ES_TOI": 19733.4,
+			"PP_TOI": 2209.3,
+			"SH_TOI": 2582.5
+		},
+		{
+			"team": "PIT",
+			"season": 20102011,
+			"ES_TOI": 20007.6,
+			"PP_TOI": 2202.7,
+			"SH_TOI": 2524.1
+		},
+		{
+			"team": "COL",
+			"season": 20082009,
+			"ES_TOI": 19992.2,
+			"PP_TOI": 2193.8,
+			"SH_TOI": 2478.1
+		},
+		{
+			"team": "WSH",
+			"season": 20132014,
+			"ES_TOI": 21095.5,
+			"PP_TOI": 2189.6,
+			"SH_TOI": 1885.8
+		},
+		{
+			"team": "OTT",
+			"season": 20092010,
+			"ES_TOI": 19760.2,
+			"PP_TOI": 2184,
+			"SH_TOI": 2303.8
+		},
+		{
+			"team": "WSH",
+			"season": 20092010,
+			"ES_TOI": 19754.5,
+			"PP_TOI": 2181.8,
+			"SH_TOI": 2439
+		},
+		{
+			"team": "DAL",
+			"season": 20102011,
+			"ES_TOI": 20218.9,
+			"PP_TOI": 2178.2,
+			"SH_TOI": 2265.3
+		},
+		{
+			"team": "PHX",
+			"season": 20092010,
+			"ES_TOI": 20189,
+			"PP_TOI": 2177.8,
+			"SH_TOI": 2396.3
+		},
+		{
+			"team": "CBJ",
+			"season": 20102011,
+			"ES_TOI": 20355.3,
+			"PP_TOI": 2176.5,
+			"SH_TOI": 2228.2
+		},
+		{
+			"team": "T.B",
+			"season": 20072008,
+			"ES_TOI": 19742.9,
+			"PP_TOI": 2174.6,
+			"SH_TOI": 2354.2
+		},
+		{
+			"team": "NSH",
+			"season": 20082009,
+			"ES_TOI": 19773.8,
+			"PP_TOI": 2171.4,
+			"SH_TOI": 2639.5
+		},
+		{
+			"team": "PHI",
+			"season": 20132014,
+			"ES_TOI": 19838.5,
+			"PP_TOI": 2166.7,
+			"SH_TOI": 2331.5
+		},
+		{
+			"team": "S.J",
+			"season": 20092010,
+			"ES_TOI": 19939.7,
+			"PP_TOI": 2165.7,
+			"SH_TOI": 2253.4
+		},
+		{
+			"team": "COL",
+			"season": 20072008,
+			"ES_TOI": 19812.2,
+			"PP_TOI": 2162.8,
+			"SH_TOI": 2554.3
+		},
+		{
+			"team": "PHX",
+			"season": 20082009,
+			"ES_TOI": 19467.3,
+			"PP_TOI": 2162,
+			"SH_TOI": 2371.3
+		},
+		{
+			"team": "ANA",
+			"season": 20102011,
+			"ES_TOI": 20302.3,
+			"PP_TOI": 2152.8,
+			"SH_TOI": 2051.3
+		},
+		{
+			"team": "N.J",
+			"season": 20092010,
+			"ES_TOI": 19326.1,
+			"PP_TOI": 2150.6,
+			"SH_TOI": 2888.8
+		},
+		{
+			"team": "FLA",
+			"season": 20092010,
+			"ES_TOI": 20336.4,
+			"PP_TOI": 2150.6,
+			"SH_TOI": 2357.5
+		},
+		{
+			"team": "TOR",
+			"season": 20092010,
+			"ES_TOI": 20224.8,
+			"PP_TOI": 2128.5,
+			"SH_TOI": 2305.5
+		},
+		{
+			"team": "NYR",
+			"season": 20092010,
+			"ES_TOI": 19887.9,
+			"PP_TOI": 2125.1,
+			"SH_TOI": 2411.1
+		},
+		{
+			"team": "CBJ",
+			"season": 20092010,
+			"ES_TOI": 19826.1,
+			"PP_TOI": 2114.8,
+			"SH_TOI": 2414.5
+		},
+		{
+			"team": "S.J",
+			"season": 20102011,
+			"ES_TOI": 20689.5,
+			"PP_TOI": 2113.5,
+			"SH_TOI": 1881
+		},
+		{
+			"team": "CAR",
+			"season": 20102011,
+			"ES_TOI": 19944.2,
+			"PP_TOI": 2103.8,
+			"SH_TOI": 2347.9
+		},
+		{
+			"team": "MIN",
+			"season": 20082009,
+			"ES_TOI": 19989.8,
+			"PP_TOI": 2094.6,
+			"SH_TOI": 2427.3
+		},
+		{
+			"team": "DET",
+			"season": 20102011,
+			"ES_TOI": 20330.7,
+			"PP_TOI": 2090.1,
+			"SH_TOI": 2214.8
+		},
+		{
+			"team": "BUF",
+			"season": 20092010,
+			"ES_TOI": 19863.7,
+			"PP_TOI": 2084.5,
+			"SH_TOI": 2377.9
+		},
+		{
+			"team": "CGY",
+			"season": 20102011,
+			"ES_TOI": 20328.7,
+			"PP_TOI": 2078.3,
+			"SH_TOI": 2484.7
+		},
+		{
+			"team": "L.A",
+			"season": 20112012,
+			"ES_TOI": 20057.2,
+			"PP_TOI": 2073.8,
+			"SH_TOI": 2348.7
+		},
+		{
+			"team": "NYI",
+			"season": 20102011,
+			"ES_TOI": 19974.9,
+			"PP_TOI": 2064.3,
+			"SH_TOI": 2346.9
+		},
+		{
+			"team": "EDM",
+			"season": 20102011,
+			"ES_TOI": 19985.5,
+			"PP_TOI": 2063.1,
+			"SH_TOI": 2552.9
+		},
+		{
+			"team": "PHI",
+			"season": 20102011,
+			"ES_TOI": 20047.4,
+			"PP_TOI": 2056.5,
+			"SH_TOI": 2443.9
+		},
+		{
+			"team": "COL",
+			"season": 20092010,
+			"ES_TOI": 20224.6,
+			"PP_TOI": 2055.7,
+			"SH_TOI": 2396.3
+		},
+		{
+			"team": "MTL",
+			"season": 20132014,
+			"ES_TOI": 20143.3,
+			"PP_TOI": 2047,
+			"SH_TOI": 2360.5
+		},
+		{
+			"team": "L.A",
+			"season": 20132014,
+			"ES_TOI": 20435,
+			"PP_TOI": 2044.7,
+			"SH_TOI": 2291.3
+		},
+		{
+			"team": "VAN",
+			"season": 20102011,
+			"ES_TOI": 20165.8,
+			"PP_TOI": 2042.3,
+			"SH_TOI": 2297.7
+		},
+		{
+			"team": "CBJ",
+			"season": 20112012,
+			"ES_TOI": 20197.3,
+			"PP_TOI": 2037.3,
+			"SH_TOI": 2333.9
+		},
+		{
+			"team": "PIT",
+			"season": 20112012,
+			"ES_TOI": 20606.1,
+			"PP_TOI": 2034.9,
+			"SH_TOI": 2090.2
+		},
+		{
+			"team": "PHX",
+			"season": 20102011,
+			"ES_TOI": 20501.4,
+			"PP_TOI": 2032.3,
+			"SH_TOI": 2141.8
+		},
+		{
+			"team": "ANA",
+			"season": 20132014,
+			"ES_TOI": 20565.8,
+			"PP_TOI": 2028.8,
+			"SH_TOI": 2046.5
+		},
+		{
+			"team": "DET",
+			"season": 20132014,
+			"ES_TOI": 20692.1,
+			"PP_TOI": 2025.8,
+			"SH_TOI": 2161.5
+		},
+		{
+			"team": "BUF",
+			"season": 20102011,
+			"ES_TOI": 20417.6,
+			"PP_TOI": 2022.5,
+			"SH_TOI": 2096.8
+		},
+		{
+			"team": "DET",
+			"season": 20092010,
+			"ES_TOI": 20362.4,
+			"PP_TOI": 2016.3,
+			"SH_TOI": 2240.6
+		},
+		{
+			"team": "L.A",
+			"season": 20102011,
+			"ES_TOI": 20428.7,
+			"PP_TOI": 2006.4,
+			"SH_TOI": 2263.7
+		},
+		{
+			"team": "CBJ",
+			"season": 20132014,
+			"ES_TOI": 20320.5,
+			"PP_TOI": 2004.8,
+			"SH_TOI": 2237.5
+		},
+		{
+			"team": "L.A",
+			"season": 20092010,
+			"ES_TOI": 20283,
+			"PP_TOI": 2002.3,
+			"SH_TOI": 2369.1
+		},
+		{
+			"team": "ANA",
+			"season": 20112012,
+			"ES_TOI": 20221.7,
+			"PP_TOI": 2000.8,
+			"SH_TOI": 2087.9
+		},
+		{
+			"team": "PHX",
+			"season": 20132014,
+			"ES_TOI": 20951.7,
+			"PP_TOI": 1995,
+			"SH_TOI": 1943.7
+		},
+		{
+			"team": "TOR",
+			"season": 20102011,
+			"ES_TOI": 20243.4,
+			"PP_TOI": 1991.4,
+			"SH_TOI": 2503.9
+		},
+		{
+			"team": "VAN",
+			"season": 20112012,
+			"ES_TOI": 20617.3,
+			"PP_TOI": 1988.7,
+			"SH_TOI": 2242.2
+		},
+		{
+			"team": "MTL",
+			"season": 20102011,
+			"ES_TOI": 19962.7,
+			"PP_TOI": 1985.2,
+			"SH_TOI": 2407.9
+		},
+		{
+			"team": "EDM",
+			"season": 20092010,
+			"ES_TOI": 20203.6,
+			"PP_TOI": 1979.7,
+			"SH_TOI": 2263.8
+		},
+		{
+			"team": "EDM",
+			"season": 20132014,
+			"ES_TOI": 20384.5,
+			"PP_TOI": 1978.3,
+			"SH_TOI": 2151.7
+		},
+		{
+			"team": "OTT",
+			"season": 20112012,
+			"ES_TOI": 20234.4,
+			"PP_TOI": 1975.4,
+			"SH_TOI": 2383.3
+		},
+		{
+			"team": "MIN",
+			"season": 20092010,
+			"ES_TOI": 20174.2,
+			"PP_TOI": 1967.8,
+			"SH_TOI": 2476.1
+		},
+		{
+			"team": "PIT",
+			"season": 20132014,
+			"ES_TOI": 20814.6,
+			"PP_TOI": 1965.7,
+			"SH_TOI": 1874.5
+		},
+		{
+			"team": "BUF",
+			"season": 20132014,
+			"ES_TOI": 20649.5,
+			"PP_TOI": 1962,
+			"SH_TOI": 2123.7
+		},
+		{
+			"team": "MIN",
+			"season": 20102011,
+			"ES_TOI": 20217.1,
+			"PP_TOI": 1959.7,
+			"SH_TOI": 2314.2
+		},
+		{
+			"team": "NYR",
+			"season": 20112012,
+			"ES_TOI": 20522.8,
+			"PP_TOI": 1958.4,
+			"SH_TOI": 2182.2
+		},
+		{
+			"team": "NYI",
+			"season": 20132014,
+			"ES_TOI": 20937.8,
+			"PP_TOI": 1953.7,
+			"SH_TOI": 2014.5
+		},
+		{
+			"team": "CGY",
+			"season": 20092010,
+			"ES_TOI": 20039.4,
+			"PP_TOI": 1949.3,
+			"SH_TOI": 2282.7
+		},
+		{
+			"team": "NYR",
+			"season": 20102011,
+			"ES_TOI": 20653.3,
+			"PP_TOI": 1942.8,
+			"SH_TOI": 2176.8
+		},
+		{
+			"team": "DAL",
+			"season": 20132014,
+			"ES_TOI": 20640.6,
+			"PP_TOI": 1941.8,
+			"SH_TOI": 2114.5
+		},
+		{
+			"team": "T.B",
+			"season": 20112012,
+			"ES_TOI": 20484.1,
+			"PP_TOI": 1941.7,
+			"SH_TOI": 2127.8
+		},
+		{
+			"team": "OTT",
+			"season": 20132014,
+			"ES_TOI": 20406.3,
+			"PP_TOI": 1940,
+			"SH_TOI": 2359.7
+		},
+		{
+			"team": "STL",
+			"season": 20102011,
+			"ES_TOI": 20570.3,
+			"PP_TOI": 1934.8,
+			"SH_TOI": 2170.9
+		},
+		{
+			"team": "T.B",
+			"season": 20132014,
+			"ES_TOI": 20832.5,
+			"PP_TOI": 1928.3,
+			"SH_TOI": 2097.4
+		},
+		{
+			"team": "DET",
+			"season": 20112012,
+			"ES_TOI": 20603.4,
+			"PP_TOI": 1923.8,
+			"SH_TOI": 2233
+		},
+		{
+			"team": "COL",
+			"season": 20102011,
+			"ES_TOI": 20341.9,
+			"PP_TOI": 1918,
+			"SH_TOI": 2273
+		},
+		{
+			"team": "OTT",
+			"season": 20102011,
+			"ES_TOI": 20374.7,
+			"PP_TOI": 1916.3,
+			"SH_TOI": 2160.4
+		},
+		{
+			"team": "CAR",
+			"season": 20112012,
+			"ES_TOI": 20565.1,
+			"PP_TOI": 1910,
+			"SH_TOI": 2134.2
+		},
+		{
+			"team": "STL",
+			"season": 20132014,
+			"ES_TOI": 20481.3,
+			"PP_TOI": 1907.4,
+			"SH_TOI": 2314.8
+		},
+		{
+			"team": "S.J",
+			"season": 20132014,
+			"ES_TOI": 21279.8,
+			"PP_TOI": 1906.1,
+			"SH_TOI": 1882.9
+		},
+		{
+			"team": "MTL",
+			"season": 20092010,
+			"ES_TOI": 20604.2,
+			"PP_TOI": 1904.9,
+			"SH_TOI": 2192.5
+		},
+		{
+			"team": "FLA",
+			"season": 20102011,
+			"ES_TOI": 20627,
+			"PP_TOI": 1902.9,
+			"SH_TOI": 2200.4
+		},
+		{
+			"team": "WSH",
+			"season": 20102011,
+			"ES_TOI": 20255.7,
+			"PP_TOI": 1902.3,
+			"SH_TOI": 2280.2
+		},
+		{
+			"team": "CHI",
+			"season": 20092010,
+			"ES_TOI": 20743.4,
+			"PP_TOI": 1895.8,
+			"SH_TOI": 2263
+		},
+		{
+			"team": "DAL",
+			"season": 20112012,
+			"ES_TOI": 20672.5,
+			"PP_TOI": 1887.5,
+			"SH_TOI": 2010.6
+		},
+		{
+			"team": "STL",
+			"season": 20112012,
+			"ES_TOI": 20719.8,
+			"PP_TOI": 1880.4,
+			"SH_TOI": 2138.3
+		},
+		{
+			"team": "S.J",
+			"season": 20112012,
+			"ES_TOI": 21248.4,
+			"PP_TOI": 1874.9,
+			"SH_TOI": 1830.9
+		},
+		{
+			"team": "NSH",
+			"season": 20092010,
+			"ES_TOI": 20820.8,
+			"PP_TOI": 1872.2,
+			"SH_TOI": 2061.4
+		},
+		{
+			"team": "VAN",
+			"season": 20132014,
+			"ES_TOI": 20779.8,
+			"PP_TOI": 1871.1,
+			"SH_TOI": 2101.7
+		},
+		{
+			"team": "BOS",
+			"season": 20102011,
+			"ES_TOI": 20613.6,
+			"PP_TOI": 1862.1,
+			"SH_TOI": 2115.8
+		},
+		{
+			"team": "NSH",
+			"season": 20102011,
+			"ES_TOI": 20661.1,
+			"PP_TOI": 1857.3,
+			"SH_TOI": 2131.1
+		},
+		{
+			"team": "MIN",
+			"season": 20112012,
+			"ES_TOI": 21030.3,
+			"PP_TOI": 1856.8,
+			"SH_TOI": 2110.6
+		},
+		{
+			"team": "TOR",
+			"season": 20132014,
+			"ES_TOI": 20978.5,
+			"PP_TOI": 1834.8,
+			"SH_TOI": 2044.1
+		},
+		{
+			"team": "FLA",
+			"season": 20132014,
+			"ES_TOI": 20829.7,
+			"PP_TOI": 1834.6,
+			"SH_TOI": 2159.8
+		},
+		{
+			"team": "EDM",
+			"season": 20112012,
+			"ES_TOI": 20451.6,
+			"PP_TOI": 1828.8,
+			"SH_TOI": 2314.4
+		},
+		{
+			"team": "WPG",
+			"season": 20112012,
+			"ES_TOI": 20671.3,
+			"PP_TOI": 1824.3,
+			"SH_TOI": 2052.2
+		},
+		{
+			"team": "FLA",
+			"season": 20112012,
+			"ES_TOI": 21057.8,
+			"PP_TOI": 1819.5,
+			"SH_TOI": 2125.1
+		},
+		{
+			"team": "BUF",
+			"season": 20112012,
+			"ES_TOI": 21032.4,
+			"PP_TOI": 1818.7,
+			"SH_TOI": 1982.9
+		},
+		{
+			"team": "BOS",
+			"season": 20092010,
+			"ES_TOI": 20738,
+			"PP_TOI": 1817.9,
+			"SH_TOI": 2238.5
+		},
+		{
+			"team": "COL",
+			"season": 20132014,
+			"ES_TOI": 20958.5,
+			"PP_TOI": 1813.5,
+			"SH_TOI": 1953.6
+		},
+		{
+			"team": "WPG",
+			"season": 20132014,
+			"ES_TOI": 20716,
+			"PP_TOI": 1813.1,
+			"SH_TOI": 2274.4
+		},
+		{
+			"team": "CHI",
+			"season": 20102011,
+			"ES_TOI": 20875.8,
+			"PP_TOI": 1798.3,
+			"SH_TOI": 2104.3
+		},
+		{
+			"team": "PHX",
+			"season": 20112012,
+			"ES_TOI": 21217.6,
+			"PP_TOI": 1794.7,
+			"SH_TOI": 1875.3
+		},
+		{
+			"team": "TOR",
+			"season": 20112012,
+			"ES_TOI": 20887.8,
+			"PP_TOI": 1792.9,
+			"SH_TOI": 1951.2
+		},
+		{
+			"team": "N.J",
+			"season": 20112012,
+			"ES_TOI": 20993.2,
+			"PP_TOI": 1790,
+			"SH_TOI": 2102.1
+		},
+		{
+			"team": "NYR",
+			"season": 20132014,
+			"ES_TOI": 20806.3,
+			"PP_TOI": 1783.7,
+			"SH_TOI": 1904.4
+		},
+		{
+			"team": "WSH",
+			"season": 20112012,
+			"ES_TOI": 20764.2,
+			"PP_TOI": 1763,
+			"SH_TOI": 2038.1
+		},
+		{
+			"team": "BOS",
+			"season": 20112012,
+			"ES_TOI": 20885,
+			"PP_TOI": 1761.6,
+			"SH_TOI": 2056.3
+		},
+		{
+			"team": "ATL",
+			"season": 20102011,
+			"ES_TOI": 20571.4,
+			"PP_TOI": 1755.4,
+			"SH_TOI": 2186.1
+		},
+		{
+			"team": "CAR",
+			"season": 20132014,
+			"ES_TOI": 20514.3,
+			"PP_TOI": 1745.9,
+			"SH_TOI": 2000.8
+		},
+		{
+			"team": "CGY",
+			"season": 20112012,
+			"ES_TOI": 20842.1,
+			"PP_TOI": 1733.9,
+			"SH_TOI": 2100.3
+		},
+		{
+			"team": "N.J",
+			"season": 20132014,
+			"ES_TOI": 20959.1,
+			"PP_TOI": 1732.8,
+			"SH_TOI": 2160.1
+		},
+		{
+			"team": "MIN",
+			"season": 20132014,
+			"ES_TOI": 21183.8,
+			"PP_TOI": 1731.8,
+			"SH_TOI": 2075.2
+		},
+		{
+			"team": "CHI",
+			"season": 20112012,
+			"ES_TOI": 21085.4,
+			"PP_TOI": 1729.1,
+			"SH_TOI": 2137.4
+		},
+		{
+			"team": "BOS",
+			"season": 20132014,
+			"ES_TOI": 20970.2,
+			"PP_TOI": 1728.7,
+			"SH_TOI": 1875.4
+		},
+		{
+			"team": "NSH",
+			"season": 20112012,
+			"ES_TOI": 21157.3,
+			"PP_TOI": 1720.9,
+			"SH_TOI": 1818.7
+		},
+		{
+			"team": "NSH",
+			"season": 20132014,
+			"ES_TOI": 21177.8,
+			"PP_TOI": 1715.1,
+			"SH_TOI": 1904.4
+		},
+		{
+			"team": "CGY",
+			"season": 20132014,
+			"ES_TOI": 21176.3,
+			"PP_TOI": 1710,
+			"SH_TOI": 1869.8
+		},
+		{
+			"team": "COL",
+			"season": 20112012,
+			"ES_TOI": 21082.6,
+			"PP_TOI": 1710,
+			"SH_TOI": 1963.9
+		},
+		{
+			"team": "NYI",
+			"season": 20112012,
+			"ES_TOI": 21125.8,
+			"PP_TOI": 1707.1,
+			"SH_TOI": 1926.2
+		},
+		{
+			"team": "CHI",
+			"season": 20132014,
+			"ES_TOI": 21226.5,
+			"PP_TOI": 1705.6,
+			"SH_TOI": 1943.2
+		},
+		{
+			"team": "N.J",
+			"season": 20102011,
+			"ES_TOI": 20866.3,
+			"PP_TOI": 1678.4,
+			"SH_TOI": 1973.2
+		},
+		{
+			"team": "DAL",
+			"season": 20122013,
+			"ES_TOI": 11691.4,
+			"PP_TOI": 1264.5,
+			"SH_TOI": 1279.4
+		},
+		{
+			"team": "MTL",
+			"season": 20122013,
+			"ES_TOI": 11680.9,
+			"PP_TOI": 1210.6,
+			"SH_TOI": 1464.5
+		},
+		{
+			"team": "DET",
+			"season": 20122013,
+			"ES_TOI": 11981.5,
+			"PP_TOI": 1190.2,
+			"SH_TOI": 1324.9
+		},
+		{
+			"team": "VAN",
+			"season": 20122013,
+			"ES_TOI": 12162.9,
+			"PP_TOI": 1184,
+			"SH_TOI": 1318.2
+		},
+		{
+			"team": "PHX",
+			"season": 20122013,
+			"ES_TOI": 12087.9,
+			"PP_TOI": 1178.9,
+			"SH_TOI": 1315.5
+		},
+		{
+			"team": "BUF",
+			"season": 20122013,
+			"ES_TOI": 12150.8,
+			"PP_TOI": 1163.6,
+			"SH_TOI": 1302.2
+		},
+		{
+			"team": "EDM",
+			"season": 20122013,
+			"ES_TOI": 11879.1,
+			"PP_TOI": 1152.1,
+			"SH_TOI": 1373.1
+		},
+		{
+			"team": "PHI",
+			"season": 20122013,
+			"ES_TOI": 11688.6,
+			"PP_TOI": 1150,
+			"SH_TOI": 1388
+		},
+		{
+			"team": "T.B",
+			"season": 20122013,
+			"ES_TOI": 11967.5,
+			"PP_TOI": 1134.6,
+			"SH_TOI": 1206.5
+		},
+		{
+			"team": "PIT",
+			"season": 20122013,
+			"ES_TOI": 11909.8,
+			"PP_TOI": 1130.6,
+			"SH_TOI": 1209.3
+		},
+		{
+			"team": "WSH",
+			"season": 20122013,
+			"ES_TOI": 11998,
+			"PP_TOI": 1118.6,
+			"SH_TOI": 1189.7
+		},
+		{
+			"team": "S.J",
+			"season": 20122013,
+			"ES_TOI": 12395.6,
+			"PP_TOI": 1110.3,
+			"SH_TOI": 1214.2
+		},
+		{
+			"team": "OTT",
+			"season": 20122013,
+			"ES_TOI": 12099.2,
+			"PP_TOI": 1101.1,
+			"SH_TOI": 1286.6
+		},
+		{
+			"team": "L.A",
+			"season": 20122013,
+			"ES_TOI": 12139.4,
+			"PP_TOI": 1089.9,
+			"SH_TOI": 1154.1
+		},
+		{
+			"team": "CAR",
+			"season": 20122013,
+			"ES_TOI": 11940,
+			"PP_TOI": 1083.6,
+			"SH_TOI": 1222.7
+		},
+		{
+			"team": "COL",
+			"season": 20122013,
+			"ES_TOI": 12045.9,
+			"PP_TOI": 1081.6,
+			"SH_TOI": 1239.2
+		},
+		{
+			"team": "N.J",
+			"season": 20122013,
+			"ES_TOI": 12081.5,
+			"PP_TOI": 1066.2,
+			"SH_TOI": 1361.1
+		},
+		{
+			"team": "NYI",
+			"season": 20122013,
+			"ES_TOI": 12404.4,
+			"PP_TOI": 1058.8,
+			"SH_TOI": 1076.1
+		},
+		{
+			"team": "STL",
+			"season": 20122013,
+			"ES_TOI": 12171.9,
+			"PP_TOI": 1038.2,
+			"SH_TOI": 1190.5
+		},
+		{
+			"team": "CBJ",
+			"season": 20122013,
+			"ES_TOI": 12396.4,
+			"PP_TOI": 1033.5,
+			"SH_TOI": 1205.1
+		},
+		{
+			"team": "MIN",
+			"season": 20122013,
+			"ES_TOI": 12263.1,
+			"PP_TOI": 1028.3,
+			"SH_TOI": 1129.7
+		},
+		{
+			"team": "CGY",
+			"season": 20122013,
+			"ES_TOI": 12092.7,
+			"PP_TOI": 1026.9,
+			"SH_TOI": 1192.4
+		},
+		{
+			"team": "NYR",
+			"season": 20122013,
+			"ES_TOI": 12328.6,
+			"PP_TOI": 1014.7,
+			"SH_TOI": 1220.9
+		},
+		{
+			"team": "ANA",
+			"season": 20122013,
+			"ES_TOI": 12465.5,
+			"PP_TOI": 1009.1,
+			"SH_TOI": 1127.9
+		},
+		{
+			"team": "NSH",
+			"season": 20122013,
+			"ES_TOI": 12523.7,
+			"PP_TOI": 999.8,
+			"SH_TOI": 1048.7
+		},
+		{
+			"team": "FLA",
+			"season": 20122013,
+			"ES_TOI": 12182.5,
+			"PP_TOI": 996.6,
+			"SH_TOI": 1204.4
+		},
+		{
+			"team": "TOR",
+			"season": 20122013,
+			"ES_TOI": 12058.6,
+			"PP_TOI": 994.6,
+			"SH_TOI": 1326.3
+		},
+		{
+			"team": "CHI",
+			"season": 20122013,
+			"ES_TOI": 12441.1,
+			"PP_TOI": 974.2,
+			"SH_TOI": 1296.5
+		},
+		{
+			"team": "BOS",
+			"season": 20122013,
+			"ES_TOI": 12268.4,
+			"PP_TOI": 921.2,
+			"SH_TOI": 1267.1
+		},
+		{
+			"team": "WPG",
+			"season": 20122013,
+			"ES_TOI": 12344.7,
+			"PP_TOI": 900,
+			"SH_TOI": 1197.1
+		}
+	]

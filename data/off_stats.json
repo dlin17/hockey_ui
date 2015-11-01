@@ -1,0 +1,5258 @@
+	[
+		{
+			"player": "Alex Ovechkin",
+			"team": "WSH",
+			"position": "LW",
+			"FENPCT": 8.92220487,
+			"EFEN60": 17.8222355501785,
+			"toi": 1534.36316934366
+		},
+		{
+			"player": "Rick Nash",
+			"team": "NYR",
+			"position": "LW",
+			"FENPCT": 8.19619196,
+			"EFEN60": 17.2842318068754,
+			"toi": 1219.59739235281
+		},
+		{
+			"player": "Brent Burns",
+			"team": "SJS",
+			"position": "D",
+			"FENPCT": 6.55770405,
+			"EFEN60": 17.0444174784023,
+			"toi": 1780.43062959888
+		},
+		{
+			"player": "Max Pacioretty",
+			"team": "MTL",
+			"position": "LW",
+			"FENPCT": 9.25783488,
+			"EFEN60": 16.9730120644012,
+			"toi": 1327.05749525491
+		},
+		{
+			"player": "Evander Kane",
+			"team": "WPG",
+			"position": "LW",
+			"FENPCT": 6.34569893,
+			"EFEN60": 16.7081472930556,
+			"toi": 1639.67923009088
+		},
+		{
+			"player": "Jeff Skinner",
+			"team": "CAR",
+			"position": "C",
+			"FENPCT": 7.85681919,
+			"EFEN60": 16.6000077511583,
+			"toi": 1144.91783128222
+		},
+		{
+			"player": "James Neal",
+			"team": "NSH",
+			"position": "LW",
+			"FENPCT": 8.08561737,
+			"EFEN60": 16.311395719257,
+			"toi": 1000.76864247183
+		},
+		{
+			"player": "Patric Hornqvist",
+			"team": "PIT",
+			"position": "RW",
+			"FENPCT": 5.4629003,
+			"EFEN60": 15.5315127823278,
+			"toi": 935.390910437186
+		},
+		{
+			"player": "Sean Bergenheim",
+			"team": "FLA",
+			"position": "LW",
+			"FENPCT": 6.07248474,
+			"EFEN60": 15.2525971056479,
+			"toi": 916.033270009624
+		},
+		{
+			"player": "Radim Vrbata",
+			"team": "VAN",
+			"position": "RW",
+			"FENPCT": 5.35476352,
+			"EFEN60": 15.0223272957808,
+			"toi": 1198.18681652292
+		},
+		{
+			"player": "Alexander Semin",
+			"team": "CAR",
+			"position": "RW",
+			"FENPCT": 6.59590028,
+			"EFEN60": 14.7689255575016,
+			"toi": 1256.90897707516
+		},
+		{
+			"player": "Tyler Kennedy",
+			"team": "SJS",
+			"position": "C",
+			"FENPCT": 3.15179282,
+			"EFEN60": 14.7561080694659,
+			"toi": 849.315035538735
+		},
+		{
+			"player": "Matt Nieto",
+			"team": "SJS",
+			"position": "C",
+			"FENPCT": 6.16,
+			"EFEN60": 14.7158178337113,
+			"toi": 665.612404821261
+		},
+		{
+			"player": "Ryan Garbutt",
+			"team": "DAL",
+			"position": "C",
+			"FENPCT": 6.55353198,
+			"EFEN60": 14.5795393100714,
+			"toi": 791.224052804337
+		},
+		{
+			"player": "Jeff Carter",
+			"team": "LAK",
+			"position": "C",
+			"FENPCT": 8.30364434,
+			"EFEN60": 14.4944785480257,
+			"toi": 1374.15834368942
+		},
+		{
+			"player": "Cam Atkinson",
+			"team": "CBJ",
+			"position": "RW",
+			"FENPCT": 7.17315965,
+			"EFEN60": 14.2040891126317,
+			"toi": 1239.59148381894
+		},
+		{
+			"player": "Kyle Palmieri",
+			"team": "ANA",
+			"position": "C",
+			"FENPCT": 8.66377994,
+			"EFEN60": 14.1996272522828,
+			"toi": 808.029032642478
+		},
+		{
+			"player": "Patrick Sharp",
+			"team": "CHI",
+			"position": "LW",
+			"FENPCT": 8.48296368,
+			"EFEN60": 14.1443282902996,
+			"toi": 1176.94654388161
+		},
+		{
+			"player": "Tyler Seguin",
+			"team": "DAL",
+			"position": "C",
+			"FENPCT": 10.02863096,
+			"EFEN60": 14.1401996844273,
+			"toi": 1273.70123502806
+		},
+		{
+			"player": "Brendan Gallagher",
+			"team": "MTL",
+			"position": "RW",
+			"FENPCT": 5.29201133,
+			"EFEN60": 14.0683145976511,
+			"toi": 1219.9003121786
+		},
+		{
+			"player": "Jamie Benn",
+			"team": "DAL",
+			"position": "LW",
+			"FENPCT": 9.47536052,
+			"EFEN60": 14.0578688179066,
+			"toi": 1297.40594792653
+		},
+		{
+			"player": "Phil Kessel",
+			"team": "TOR",
+			"position": "RW",
+			"FENPCT": 9.22665335,
+			"EFEN60": 14.0570282142348,
+			"toi": 1666.37490716821
+		},
+		{
+			"player": "Justin Williams",
+			"team": "LAK",
+			"position": "RW",
+			"FENPCT": 6.11088307,
+			"EFEN60": 14.0060318775085,
+			"toi": 1344.72837869779
+		},
+		{
+			"player": "Corey Perry",
+			"team": "ANA",
+			"position": "RW",
+			"FENPCT": 11.60010947,
+			"EFEN60": 14.0019180969894,
+			"toi": 1680.74302136743
+		},
+		{
+			"player": "Tyler Toffoli",
+			"team": "LAK",
+			"position": "C",
+			"FENPCT": 7.28403134,
+			"EFEN60": 13.9333554478286,
+			"toi": 585.58694699546
+		},
+		{
+			"player": "Logan Couture",
+			"team": "SJS",
+			"position": "C",
+			"FENPCT": 8.95348292,
+			"EFEN60": 13.8777583477806,
+			"toi": 1304.66741425287
+		},
+		{
+			"player": "Tomas Hertl",
+			"team": "SJS",
+			"position": "C",
+			"FENPCT": 12,
+			"EFEN60": 13.7222918707802,
+			"toi": 522.597712850832
+		},
+		{
+			"player": "Shawn Thornton",
+			"team": "FLA",
+			"position": "LW",
+			"FENPCT": 3.85075415,
+			"EFEN60": 13.7206594151666,
+			"toi": 532.351109520755
+		},
+		{
+			"player": "Matt Duchene",
+			"team": "COL",
+			"position": "C",
+			"FENPCT": 8.82733525,
+			"EFEN60": 13.6719225008133,
+			"toi": 1261.1890032615
+		},
+		{
+			"player": "Nathan MacKinnon",
+			"team": "COL",
+			"position": "C",
+			"FENPCT": 6.45,
+			"EFEN60": 13.6327155318953,
+			"toi": 1262.39644546094
+		},
+		{
+			"player": "Mika Zibanejad",
+			"team": "OTT",
+			"position": "C",
+			"FENPCT": 6.66489848,
+			"EFEN60": 13.622993954249,
+			"toi": 878.273764784927
+		},
+		{
+			"player": "Craig Smith",
+			"team": "NSH",
+			"position": "C",
+			"FENPCT": 5.92393989,
+			"EFEN60": 13.5952225691332,
+			"toi": 1030.18405368799
+		},
+		{
+			"player": "Tomas Jurco",
+			"team": "DET",
+			"position": "RW",
+			"FENPCT": 6.82,
+			"EFEN60": 13.516766788571,
+			"toi": 392.344503326788
+		},
+		{
+			"player": "Vladimir Tarasenko",
+			"team": "STL",
+			"position": "RW",
+			"FENPCT": 8.55503377,
+			"EFEN60": 13.4684999299727,
+			"toi": 838.185051419426
+		},
+		{
+			"player": "Nathan Gerbe",
+			"team": "CAR",
+			"position": "C",
+			"FENPCT": 4.49681932,
+			"EFEN60": 13.457814421894,
+			"toi": 1062.9978955391
+		},
+		{
+			"player": "Jakob Silfverberg",
+			"team": "ANA",
+			"position": "RW",
+			"FENPCT": 5.60480264,
+			"EFEN60": 13.3608797582036,
+			"toi": 1006.20599266371
+		},
+		{
+			"player": "Nikita Kucherov",
+			"team": "TBL",
+			"position": "RW",
+			"FENPCT": 4.96,
+			"EFEN60": 13.2708352587882,
+			"toi": 722.562126153834
+		},
+		{
+			"player": "Tim Jackman",
+			"team": "ANA",
+			"position": "RW",
+			"FENPCT": 4.62860979,
+			"EFEN60": 13.2489462684428,
+			"toi": 432.280403161546
+		},
+		{
+			"player": "Zach Parise",
+			"team": "MIN",
+			"position": "LW",
+			"FENPCT": 7.28876855,
+			"EFEN60": 13.1571892872383,
+			"toi": 1430.86554012837
+		},
+		{
+			"player": "Patrice Bergeron",
+			"team": "BOS",
+			"position": "C",
+			"FENPCT": 7.98796261,
+			"EFEN60": 13.1366015122053,
+			"toi": 1688.05700717336
+		},
+		{
+			"player": "Gustav Nyquist",
+			"team": "DET",
+			"position": "C",
+			"FENPCT": 13.21453419,
+			"EFEN60": 13.0789503328625,
+			"toi": 1518.55434429604
+		},
+		{
+			"player": "Henrik Zetterberg",
+			"team": "DET",
+			"position": "LW",
+			"FENPCT": 7.43978747,
+			"EFEN60": 13.0788287847845,
+			"toi": 1009.8058870218
+		},
+		{
+			"player": "Taylor Hall",
+			"team": "EDM",
+			"position": "LW",
+			"FENPCT": 8.42534403,
+			"EFEN60": 13.0667660784253,
+			"toi": 1266.54484778786
+		},
+		{
+			"player": "Viktor Stalberg",
+			"team": "NSH",
+			"position": "LW",
+			"FENPCT": 5.96335341,
+			"EFEN60": 13.0653274323005,
+			"toi": 848.600042375716
+		},
+		{
+			"player": "Marian Hossa",
+			"team": "CHI",
+			"position": "RW",
+			"FENPCT": 9.87934109,
+			"EFEN60": 13.0636016543177,
+			"toi": 1218.87658247943
+		},
+		{
+			"player": "Matt Beleskey",
+			"team": "ANA",
+			"position": "LW",
+			"FENPCT": 6.32010344,
+			"EFEN60": 12.8976783540666,
+			"toi": 782.42347758468
+		},
+		{
+			"player": "Torey Krug",
+			"team": "BOS",
+			"position": "D",
+			"FENPCT": 5.10888328,
+			"EFEN60": 12.7698019607702,
+			"toi": 965.697474737837
+		},
+		{
+			"player": "Alex Steen",
+			"team": "STL",
+			"position": "C",
+			"FENPCT": 10.60442492,
+			"EFEN60": 12.7687548673838,
+			"toi": 1219.49468080077
+		},
+		{
+			"player": "Matt Irwin",
+			"team": "SJS",
+			"position": "D",
+			"FENPCT": 1.15592923,
+			"EFEN60": 12.743666502871,
+			"toi": 1668.06203213761
+		},
+		{
+			"player": "Jack Skille",
+			"team": "NYI",
+			"position": "RW",
+			"FENPCT": 5.89347999,
+			"EFEN60": 12.7176895905559,
+			"toi": 348.855429183028
+		},
+		{
+			"player": "David Booth",
+			"team": "TOR",
+			"position": "LW",
+			"FENPCT": 5.57222786,
+			"EFEN60": 12.6675047787191,
+			"toi": 748.428608484587
+		},
+		{
+			"player": "Patrick Kane",
+			"team": "CHI",
+			"position": "RW",
+			"FENPCT": 8.90716029,
+			"EFEN60": 12.6113348652457,
+			"toi": 1245.09760417016
+		},
+		{
+			"player": "Jason Spezza",
+			"team": "DAL",
+			"position": "C",
+			"FENPCT": 7.4771875,
+			"EFEN60": 12.6016194667816,
+			"toi": 952.250336071278
+		},
+		{
+			"player": "Bobby Ryan",
+			"team": "OTT",
+			"position": "RW",
+			"FENPCT": 8.89289304,
+			"EFEN60": 12.5523767296737,
+			"toi": 1267.77192507255
+		},
+		{
+			"player": "Brian McGrattan",
+			"team": "CGY",
+			"position": "RW",
+			"FENPCT": 4.78114836,
+			"EFEN60": 12.5448732484088,
+			"toi": 366.95227554506
+		},
+		{
+			"player": "Steven Stamkos",
+			"team": "TBL",
+			"position": "C",
+			"FENPCT": 15.29460621,
+			"EFEN60": 12.4505645893107,
+			"toi": 1701.03976932385
+		},
+		{
+			"player": "Johan Franzen",
+			"team": "DET",
+			"position": "C",
+			"FENPCT": 7.14881984,
+			"EFEN60": 12.444305247801,
+			"toi": 884.82822357949
+		},
+		{
+			"player": "Cal Clutterbuck",
+			"team": "NYI",
+			"position": "RW",
+			"FENPCT": 5.90326096,
+			"EFEN60": 12.4340840436525,
+			"toi": 948.823428288444
+		},
+		{
+			"player": "Jussi Jokinen",
+			"team": "FLA",
+			"position": "LW",
+			"FENPCT": 9.59690685,
+			"EFEN60": 12.3917771770333,
+			"toi": 1101.5892392821
+		},
+		{
+			"player": "Dustin Brown",
+			"team": "LAK",
+			"position": "RW",
+			"FENPCT": 6.48385022,
+			"EFEN60": 12.3558911301806,
+			"toi": 1376.50714592031
+		},
+		{
+			"player": "Scott Hartnell",
+			"team": "CBJ",
+			"position": "LW",
+			"FENPCT": 6.57495247,
+			"EFEN60": 12.3193018041323,
+			"toi": 1376.46127032051
+		},
+		{
+			"player": "Blake Wheeler",
+			"team": "WPG",
+			"position": "RW",
+			"FENPCT": 8.47469129,
+			"EFEN60": 12.2932432777445,
+			"toi": 1745.42821497582
+		},
+		{
+			"player": "Damien Brunner",
+			"team": "NJD",
+			"position": "C",
+			"FENPCT": 6.27947791,
+			"EFEN60": 12.2905551910985,
+			"toi": 715.665641378632
+		},
+		{
+			"player": "Michael Grabner",
+			"team": "NYI",
+			"position": "RW",
+			"FENPCT": 8.31711757,
+			"EFEN60": 12.2782608237996,
+			"toi": 925.047170921634
+		},
+		{
+			"player": "Thomas Vanek",
+			"team": "MIN",
+			"position": "LW",
+			"FENPCT": 9.23905064,
+			"EFEN60": 12.2591187600625,
+			"toi": 1296.60453178322
+		},
+		{
+			"player": "Brad Richards",
+			"team": "CHI",
+			"position": "C",
+			"FENPCT": 7.4397307,
+			"EFEN60": 12.2317366800562,
+			"toi": 1286.17634004925
+		},
+		{
+			"player": "James van Riemsdyk",
+			"team": "TOR",
+			"position": "LW",
+			"FENPCT": 7.96572738,
+			"EFEN60": 12.1297989527194,
+			"toi": 1641.85109331535
+		},
+		{
+			"player": "Evgeni Malkin",
+			"team": "PIT",
+			"position": "C",
+			"FENPCT": 12.60752921,
+			"EFEN60": 12.106993444123,
+			"toi": 975.968229140185
+		},
+		{
+			"player": "Marian Gaborik",
+			"team": "LAK",
+			"position": "RW",
+			"FENPCT": 9.5962223,
+			"EFEN60": 12.1015654377279,
+			"toi": 989.8968841223
+		},
+		{
+			"player": "John Tavares",
+			"team": "NYI",
+			"position": "LW",
+			"FENPCT": 10.19694663,
+			"EFEN60": 12.0497931472315,
+			"toi": 1185.65075798301
+		},
+		{
+			"player": "Ryan Strome",
+			"team": "NYI",
+			"position": "C",
+			"FENPCT": 3.45,
+			"EFEN60": 12.0267954967521,
+			"toi": 457.062621474208
+		},
+		{
+			"player": "Jamie McGinn",
+			"team": "COL",
+			"position": "LW",
+			"FENPCT": 6.82725793,
+			"EFEN60": 12.0239073845621,
+			"toi": 1109.29020665545
+		},
+		{
+			"player": "Pascal Dupuis",
+			"team": "PIT",
+			"position": "LW",
+			"FENPCT": 7.39994899,
+			"EFEN60": 11.9861346530656,
+			"toi": 647.256261047215
+		},
+		{
+			"player": "Joffrey Lupul",
+			"team": "TOR",
+			"position": "RW",
+			"FENPCT": 9.55721122,
+			"EFEN60": 11.9783168731717,
+			"toi": 1006.17057530459
+		},
+		{
+			"player": "Patrick Eaves",
+			"team": "DAL",
+			"position": "RW",
+			"FENPCT": 2.85440159,
+			"EFEN60": 11.9621051747677,
+			"toi": 401.186926620482
+		},
+		{
+			"player": "Nick Bjugstad",
+			"team": "FLA",
+			"position": "C",
+			"FENPCT": 7.71209205,
+			"EFEN60": 11.9412971544251,
+			"toi": 801.881903755186
+		},
+		{
+			"player": "Michael Frolik",
+			"team": "WPG",
+			"position": "RW",
+			"FENPCT": 5.42897825,
+			"EFEN60": 11.916124175377,
+			"toi": 1451.13369972588
+		},
+		{
+			"player": "Ryan Johansen",
+			"team": "VAN",
+			"position": "C",
+			"FENPCT": 10.69535675,
+			"EFEN60": 11.8990997146062,
+			"toi": 1162.38876635294
+		},
+		{
+			"player": "Tomas Tatar",
+			"team": "DET",
+			"position": "C",
+			"FENPCT": 10.95954565,
+			"EFEN60": 11.8962209110642,
+			"toi": 642.003169400866
+		},
+		{
+			"player": "Patrick Marleau",
+			"team": "SJS",
+			"position": "C",
+			"FENPCT": 8.21584621,
+			"EFEN60": 11.8787036955796,
+			"toi": 1732.29834973623
+		},
+		{
+			"player": "Jarome Iginla",
+			"team": "COL",
+			"position": "RW",
+			"FENPCT": 11.82248025,
+			"EFEN60": 11.8276438615088,
+			"toi": 1302.06893122673
+		},
+		{
+			"player": "Jaromir Jagr",
+			"team": "NJD",
+			"position": "RW",
+			"FENPCT": 7.8821924,
+			"EFEN60": 11.7756121592795,
+			"toi": 1184.35566893502
+		},
+		{
+			"player": "Sidney Crosby",
+			"team": "PIT",
+			"position": "C",
+			"FENPCT": 11.07055648,
+			"EFEN60": 11.7265069424664,
+			"toi": 1606.04964911638
+		},
+		{
+			"player": "Gabriel Landeskog",
+			"team": "COL",
+			"position": "LW",
+			"FENPCT": 7.74161938,
+			"EFEN60": 11.7207591403432,
+			"toi": 1301.05736567122
+		},
+		{
+			"player": "Eric Staal",
+			"team": "CAR",
+			"position": "C",
+			"FENPCT": 8.85845456,
+			"EFEN60": 11.7162977231177,
+			"toi": 1555.19218156841
+		},
+		{
+			"player": "Jakub Voracek",
+			"team": "PHI",
+			"position": "RW",
+			"FENPCT": 9.59942287,
+			"EFEN60": 11.6720138369012,
+			"toi": 1502.65254614266
+		},
+		{
+			"player": "Kyle Turris",
+			"team": "OTT",
+			"position": "C",
+			"FENPCT": 7.78160291,
+			"EFEN60": 11.6486846110115,
+			"toi": 1527.27456381717
+		},
+		{
+			"player": "Ryan Callahan",
+			"team": "TBL",
+			"position": "RW",
+			"FENPCT": 5.47022541,
+			"EFEN60": 11.632974375678,
+			"toi": 1555.09271840201
+		},
+		{
+			"player": "Rene Bourque",
+			"team": "MTL",
+			"position": "LW",
+			"FENPCT": 5.37431106,
+			"EFEN60": 11.6260946432321,
+			"toi": 963.952738763218
+		},
+		{
+			"player": "Daniel Sedin",
+			"team": "VAN",
+			"position": "LW",
+			"FENPCT": 6.44164291,
+			"EFEN60": 11.6036565568631,
+			"toi": 1351.83658915708
+		},
+		{
+			"player": "Matt Ellis",
+			"team": "BUF",
+			"position": "LW",
+			"FENPCT": 3.96758332,
+			"EFEN60": 11.5606472433115,
+			"toi": 365.298820001949
+		},
+		{
+			"player": "Brandon Pirri",
+			"team": "FLA",
+			"position": "C",
+			"FENPCT": 10.20123002,
+			"EFEN60": 11.5018301701728,
+			"toi": 331.303660872071
+		},
+		{
+			"player": "David Clarkson",
+			"team": "TOR",
+			"position": "RW",
+			"FENPCT": 4.81050266,
+			"EFEN60": 11.4589582651458,
+			"toi": 1076.0552862448
+		},
+		{
+			"player": "J.t. Brown",
+			"team": "TBL",
+			"position": "RW",
+			"FENPCT": 2.8,
+			"EFEN60": 11.427186812966,
+			"toi": 932.159065526321
+		},
+		{
+			"player": "Eric Gelinas",
+			"team": "NJD",
+			"position": "D",
+			"FENPCT": 1.85504,
+			"EFEN60": 11.4214549577934,
+			"toi": 865.991645997383
+		},
+		{
+			"player": "Jesse Winchester",
+			"team": "COL",
+			"position": "C",
+			"FENPCT": 6.17123238,
+			"EFEN60": 11.4151017581713,
+			"toi": 621.436345131132
+		},
+		{
+			"player": "J.t. Miller",
+			"team": "NYR",
+			"position": "C",
+			"FENPCT": 4.43402007,
+			"EFEN60": 11.4102175715323,
+			"toi": 399.443938253387
+		},
+		{
+			"player": "Chris Kunitz",
+			"team": "PIT",
+			"position": "LW",
+			"FENPCT": 10.79254968,
+			"EFEN60": 11.3223632029671,
+			"toi": 1218.20559416064
+		},
+		{
+			"player": "Dustin Byfuglien",
+			"team": "WPG",
+			"position": "RW",
+			"FENPCT": 5.17794489,
+			"EFEN60": 11.2782300732226,
+			"toi": 2108.3820486077
+		},
+		{
+			"player": "Shane Doan",
+			"team": "PHX",
+			"position": "RW",
+			"FENPCT": 7.89504348,
+			"EFEN60": 11.2539806214161,
+			"toi": 1307.62923793991
+		},
+		{
+			"player": "Mike Cammalleri",
+			"team": "NJD",
+			"position": "LW",
+			"FENPCT": 10.92928191,
+			"EFEN60": 11.2192658473166,
+			"toi": 1035.84237459382
+		},
+		{
+			"player": "Joe Pavelski",
+			"team": "SJS",
+			"position": "C",
+			"FENPCT": 10.82124914,
+			"EFEN60": 11.2163963664623,
+			"toi": 1656.24793276957
+		},
+		{
+			"player": "Darren Helm",
+			"team": "DET",
+			"position": "C",
+			"FENPCT": 8.63020295,
+			"EFEN60": 11.2086914974681,
+			"toi": 503.234047092625
+		},
+		{
+			"player": "Brian Gionta",
+			"team": "BUF",
+			"position": "RW",
+			"FENPCT": 6.98380578,
+			"EFEN60": 11.1902284288284,
+			"toi": 1340.10803298734
+		},
+		{
+			"player": "Bryan Bickell",
+			"team": "CHI",
+			"position": "LW",
+			"FENPCT": 8.80096654,
+			"EFEN60": 11.1727081667768,
+			"toi": 704.316809556344
+		},
+		{
+			"player": "Rob Klinkhammer",
+			"team": "PHX",
+			"position": "LW",
+			"FENPCT": 7.0723813,
+			"EFEN60": 11.166337848201,
+			"toi": 603.397511286868
+		},
+		{
+			"player": "Erik Cole",
+			"team": "DAL",
+			"position": "LW",
+			"FENPCT": 9.08697805,
+			"EFEN60": 11.0631289894287,
+			"toi": 1077.91038580012
+		},
+		{
+			"player": "Brad Boyes",
+			"team": "FLA",
+			"position": "RW",
+			"FENPCT": 8.25303106,
+			"EFEN60": 11.0083381668779,
+			"toi": 1149.42434373928
+		},
+		{
+			"player": "Jiri Tlusty",
+			"team": "CAR",
+			"position": "C",
+			"FENPCT": 10.19653885,
+			"EFEN60": 10.8968577016517,
+			"toi": 1068.1799605908
+		},
+		{
+			"player": "Carl Hagelin",
+			"team": "NYR",
+			"position": "LW",
+			"FENPCT": 8.02062674,
+			"EFEN60": 10.8804005242956,
+			"toi": 1234.83876309447
+		},
+		{
+			"player": "Matt Moulson",
+			"team": "BUF",
+			"position": "LW",
+			"FENPCT": 8.19205238,
+			"EFEN60": 10.87498609245,
+			"toi": 1306.31935519692
+		},
+		{
+			"player": "Justin Abdelkader",
+			"team": "DET",
+			"position": "LW",
+			"FENPCT": 5.77211932,
+			"EFEN60": 10.8696124785402,
+			"toi": 956.09272903629
+		},
+		{
+			"player": "Blake Comeau",
+			"team": "PIT",
+			"position": "LW",
+			"FENPCT": 4.8603066,
+			"EFEN60": 10.8669412785978,
+			"toi": 752.3715661564
+		},
+		{
+			"player": "Scottie Upshall",
+			"team": "FLA",
+			"position": "RW",
+			"FENPCT": 7.15815962,
+			"EFEN60": 10.8565415185022,
+			"toi": 922.270794013205
+		},
+		{
+			"player": "Drayson Bowman",
+			"team": "CAR",
+			"position": "LW",
+			"FENPCT": 3.9754076,
+			"EFEN60": 10.8558073527906,
+			"toi": 631.771648929701
+		},
+		{
+			"player": "Mike Green",
+			"team": "WSH",
+			"position": "D",
+			"FENPCT": 4.79131527,
+			"EFEN60": 10.8517512559632,
+			"toi": 1288.69512485262
+		},
+		{
+			"player": "Brandon Saad",
+			"team": "CHI",
+			"position": "LW",
+			"FENPCT": 8.73898009,
+			"EFEN60": 10.8489158506956,
+			"toi": 1013.10497935107
+		},
+		{
+			"player": "Daniel Briere",
+			"team": "COL",
+			"position": "RW",
+			"FENPCT": 7.12934625,
+			"EFEN60": 10.8415101743623,
+			"toi": 842.508572354288
+		},
+		{
+			"player": "Alex Killorn",
+			"team": "TBL",
+			"position": "LW",
+			"FENPCT": 7.02100383,
+			"EFEN60": 10.8329221149513,
+			"toi": 1273.16015374528
+		},
+		{
+			"player": "David Moss",
+			"team": "PHX",
+			"position": "RW",
+			"FENPCT": 3.96366503,
+			"EFEN60": 10.8114844116696,
+			"toi": 1112.35683305174
+		},
+		{
+			"player": "Yannick Weber",
+			"team": "VAN",
+			"position": "D",
+			"FENPCT": 2.62372209,
+			"EFEN60": 10.8066580987042,
+			"toi": 556.80766365439
+		},
+		{
+			"player": "Drew Stafford",
+			"team": "BUF",
+			"position": "RW",
+			"FENPCT": 7.1999597,
+			"EFEN60": 10.7905546380947,
+			"toi": 1279.50172627177
+		},
+		{
+			"player": "Martin Hanzal",
+			"team": "PHX",
+			"position": "C",
+			"FENPCT": 6.78278154,
+			"EFEN60": 10.7614718120746,
+			"toi": 1173.82820255761
+		},
+		{
+			"player": "Troy Bodie",
+			"team": "TOR",
+			"position": "RW",
+			"FENPCT": 4.14931691,
+			"EFEN60": 10.7452545068299,
+			"toi": 409.532179599415
+		},
+		{
+			"player": "Erik Karlsson",
+			"team": "OTT",
+			"position": "D",
+			"FENPCT": 5.60938896,
+			"EFEN60": 10.7393027007867,
+			"toi": 1883.14490040002
+		},
+		{
+			"player": "Mikael Backlund",
+			"team": "CGY",
+			"position": "C",
+			"FENPCT": 5.04305623,
+			"EFEN60": 10.7351549930213,
+			"toi": 1216.65345152866
+		},
+		{
+			"player": "Chris Stewart",
+			"team": "BUF",
+			"position": "RW",
+			"FENPCT": 9.90238366,
+			"EFEN60": 10.7309750404872,
+			"toi": 936.346812820264
+		},
+		{
+			"player": "Brandon Bollig",
+			"team": "CGY",
+			"position": "LW",
+			"FENPCT": 4.55225806,
+			"EFEN60": 10.7188284243494,
+			"toi": 649.942773374519
+		},
+		{
+			"player": "Chris Higgins",
+			"team": "VAN",
+			"position": "LW",
+			"FENPCT": 7.17149049,
+			"EFEN60": 10.6900568341808,
+			"toi": 1347.41324570511
+		},
+		{
+			"player": "Patrick Wiercioch",
+			"team": "OTT",
+			"position": "D",
+			"FENPCT": 1.75435369,
+			"EFEN60": 10.6888843607798,
+			"toi": 930.692848877862
+		},
+		{
+			"player": "Patrick Maroon",
+			"team": "ANA",
+			"position": "LW",
+			"FENPCT": 9.16610633,
+			"EFEN60": 10.6507823480391,
+			"toi": 565.193314955376
+		},
+		{
+			"player": "Benoit Pouliot",
+			"team": "EDM",
+			"position": "LW",
+			"FENPCT": 7.11345153,
+			"EFEN60": 10.6491891355809,
+			"toi": 839.528409921618
+		},
+		{
+			"player": "T.J. Galiardi",
+			"team": "CGY",
+			"position": "LW",
+			"FENPCT": 3.29337805,
+			"EFEN60": 10.6423404895324,
+			"toi": 910.371283193257
+		},
+		{
+			"player": "Kyle Okposo",
+			"team": "NYI",
+			"position": "RW",
+			"FENPCT": 9.74334854,
+			"EFEN60": 10.6422566313373,
+			"toi": 1158.33354846481
+		},
+		{
+			"player": "Tyler Ennis",
+			"team": "BUF",
+			"position": "LW",
+			"FENPCT": 7.79562175,
+			"EFEN60": 10.6282875919735,
+			"toi": 1263.70102748269
+		},
+		{
+			"player": "Carl Soderberg",
+			"team": "BOS",
+			"position": "C",
+			"FENPCT": 7.66939997,
+			"EFEN60": 10.6273485232785,
+			"toi": 821.249527361162
+		},
+		{
+			"player": "Jordan Eberle",
+			"team": "EDM",
+			"position": "C",
+			"FENPCT": 10.87505401,
+			"EFEN60": 10.6143005315168,
+			"toi": 1362.35852419663
+		},
+		{
+			"player": "Wayne Simmonds",
+			"team": "PHI",
+			"position": "RW",
+			"FENPCT": 9.01250574,
+			"EFEN60": 10.5981396197446,
+			"toi": 1402.84995773487
+		},
+		{
+			"player": "Trevor Lewis",
+			"team": "LAK",
+			"position": "C",
+			"FENPCT": 3.22565804,
+			"EFEN60": 10.5938857142583,
+			"toi": 1113.86648844594
+		},
+		{
+			"player": "Jason Pominville",
+			"team": "MIN",
+			"position": "RW",
+			"FENPCT": 11.08196832,
+			"EFEN60": 10.593249220229,
+			"toi": 1495.05760466378
+		},
+		{
+			"player": "Chris Kreider",
+			"team": "NYR",
+			"position": "RW",
+			"FENPCT": 7.70822003,
+			"EFEN60": 10.5924945517995,
+			"toi": 779.533669558159
+		},
+		{
+			"player": "Tomas Plekanec",
+			"team": "MTL",
+			"position": "C",
+			"FENPCT": 6.5354395,
+			"EFEN60": 10.5906174820098,
+			"toi": 1826.91059196341
+		},
+		{
+			"player": "Brock Nelson",
+			"team": "NYI",
+			"position": "C",
+			"FENPCT": 8.15,
+			"EFEN60": 10.5900219919366,
+			"toi": 869.977845311457
+		},
+		{
+			"player": "Erik Haula",
+			"team": "MIN",
+			"position": "LW",
+			"FENPCT": 7.35,
+			"EFEN60": 10.5729487447437,
+			"toi": 481.629745750207
+		},
+		{
+			"player": "Pavel Datsyuk",
+			"team": "DET",
+			"position": "C",
+			"FENPCT": 8.75440401,
+			"EFEN60": 10.5687435261945,
+			"toi": 979.390794201543
+		},
+		{
+			"player": "Jason Chimera",
+			"team": "WSH",
+			"position": "LW",
+			"FENPCT": 6.68443292,
+			"EFEN60": 10.5512944435637,
+			"toi": 1260.65993472481
+		},
+		{
+			"player": "Eric Fehr",
+			"team": "WSH",
+			"position": "RW",
+			"FENPCT": 7.88529059,
+			"EFEN60": 10.547131026694,
+			"toi": 972.305041993679
+		},
+		{
+			"player": "Derek Stepan",
+			"team": "NYR",
+			"position": "C",
+			"FENPCT": 7.39689683,
+			"EFEN60": 10.5461278531528,
+			"toi": 1569.56949821604
+		},
+		{
+			"player": "Andrew Ladd",
+			"team": "WPG",
+			"position": "LW",
+			"FENPCT": 9.8541239,
+			"EFEN60": 10.538320088151,
+			"toi": 1873.6455121734
+		},
+		{
+			"player": "Kris Versteeg",
+			"team": "CHI",
+			"position": "LW",
+			"FENPCT": 6.93873516,
+			"EFEN60": 10.5287826429568,
+			"toi": 829.215888661584
+		},
+		{
+			"player": "Patrick Dwyer",
+			"team": "CAR",
+			"position": "RW",
+			"FENPCT": 3.76941538,
+			"EFEN60": 10.5232351176247,
+			"toi": 1154.83540352829
+		},
+		{
+			"player": "Martin Havlat",
+			"team": "NJD",
+			"position": "RW",
+			"FENPCT": 10.98945304,
+			"EFEN60": 10.515754555797,
+			"toi": 666.800142103217
+		},
+		{
+			"player": "Brayden Schenn",
+			"team": "PHI",
+			"position": "C",
+			"FENPCT": 8.52687302,
+			"EFEN60": 10.4626740877199,
+			"toi": 1255.79343468821
+		},
+		{
+			"player": "Keith Yandle",
+			"team": "PHX",
+			"position": "D",
+			"FENPCT": 2.91558196,
+			"EFEN60": 10.4515004710476,
+			"toi": 2035.28201259183
+		},
+		{
+			"player": "Tomas Fleischmann",
+			"team": "FLA",
+			"position": "C",
+			"FENPCT": 5.48585067,
+			"EFEN60": 10.4378569826456,
+			"toi": 1281.51758089536
+		},
+		{
+			"player": "Ryan Kesler",
+			"team": "ANA",
+			"position": "C",
+			"FENPCT": 7.79727212,
+			"EFEN60": 10.4246508722842,
+			"toi": 1576.22404696574
+		},
+		{
+			"player": "Boone Jenner",
+			"team": "CBJ",
+			"position": "C",
+			"FENPCT": 8.05,
+			"EFEN60": 10.4159009490162,
+			"toi": 1178.906591789
+		},
+		{
+			"player": "Zack Smith",
+			"team": "OTT",
+			"position": "C",
+			"FENPCT": 5.82219015,
+			"EFEN60": 10.4157566440559,
+			"toi": 1309.56950071723
+		},
+		{
+			"player": "Cody Hodgson",
+			"team": "BUF",
+			"position": "C",
+			"FENPCT": 7.79387806,
+			"EFEN60": 10.3833147655495,
+			"toi": 1210.02512582408
+		},
+		{
+			"player": "Michael Ryder",
+			"team": "NJD",
+			"position": "RW",
+			"FENPCT": 8.54273859,
+			"EFEN60": 10.3399330388288,
+			"toi": 1017.90044654423
+		},
+		{
+			"player": "Tommy Wingels",
+			"team": "SJS",
+			"position": "C",
+			"FENPCT": 6.98360978,
+			"EFEN60": 10.3221094410946,
+			"toi": 1090.12999991179
+		},
+		{
+			"player": "Nino Niederreiter",
+			"team": "MIN",
+			"position": "LW",
+			"FENPCT": 6.7371219,
+			"EFEN60": 10.3204806558534,
+			"toi": 954.131347582072
+		},
+		{
+			"player": "Alexander Edler",
+			"team": "VAN",
+			"position": "D",
+			"FENPCT": 2.21579596,
+			"EFEN60": 10.314114274371,
+			"toi": 1885.72796862963
+		},
+		{
+			"player": "Nail Yakupov",
+			"team": "EDM",
+			"position": "RW",
+			"FENPCT": 8.47721072,
+			"EFEN60": 10.3040146702329,
+			"toi": 857.194832783816
+		},
+		{
+			"player": "Alex Burrows",
+			"team": "VAN",
+			"position": "LW",
+			"FENPCT": 6.284138,
+			"EFEN60": 10.2887073825991,
+			"toi": 1112.84681243748
+		},
+		{
+			"player": "Brandon Dubinsky",
+			"team": "CBJ",
+			"position": "C",
+			"FENPCT": 5.56026949,
+			"EFEN60": 10.2815389776531,
+			"toi": 1658.76533124038
+		},
+		{
+			"player": "Jimmy Hayes",
+			"team": "FLA",
+			"position": "RW",
+			"FENPCT": 8.77085738,
+			"EFEN60": 10.279801372293,
+			"toi": 405.690324620522
+		},
+		{
+			"player": "Vincent Lecavalier",
+			"team": "PHI",
+			"position": "C",
+			"FENPCT": 8.93870373,
+			"EFEN60": 10.2745892442979,
+			"toi": 1210.26020548996
+		},
+		{
+			"player": "Nazem Kadri",
+			"team": "TOR",
+			"position": "C",
+			"FENPCT": 8.18811035,
+			"EFEN60": 10.25319833357,
+			"toi": 1194.46436193462
+		},
+		{
+			"player": "Brian Boyle",
+			"team": "TBL",
+			"position": "C",
+			"FENPCT": 4.00254005,
+			"EFEN60": 10.2430347953051,
+			"toi": 1259.01657756418
+		},
+		{
+			"player": "Jason Garrison",
+			"team": "TBL",
+			"position": "D",
+			"FENPCT": 3.06139235,
+			"EFEN60": 10.2353426251447,
+			"toi": 1364.8658738082
+		},
+		{
+			"player": "Michael Raffl",
+			"team": "PHI",
+			"position": "LW",
+			"FENPCT": 7.09,
+			"EFEN60": 10.2175446659537,
+			"toi": 1029.97445351701
+		},
+		{
+			"player": "Eric Tangradi",
+			"team": "WPG",
+			"position": "LW",
+			"FENPCT": 3.18616706,
+			"EFEN60": 10.2073225656031,
+			"toi": 558.763719844428
+		},
+		{
+			"player": "Rich Peverley",
+			"team": "DAL",
+			"position": "C",
+			"FENPCT": 5.28247082,
+			"EFEN60": 10.2032564117958,
+			"toi": 995.981485934244
+		},
+		{
+			"player": "David Perron",
+			"team": "EDM",
+			"position": "LW",
+			"FENPCT": 9.81629425,
+			"EFEN60": 10.201570172379,
+			"toi": 1245.01055080328
+		},
+		{
+			"player": "Emerson Etem",
+			"team": "ANA",
+			"position": "RW",
+			"FENPCT": 7.16030135,
+			"EFEN60": 10.1989028014833,
+			"toi": 556.000269008875
+		},
+		{
+			"player": "Shawn Matthias",
+			"team": "VAN",
+			"position": "C",
+			"FENPCT": 8.30039196,
+			"EFEN60": 10.1950659725778,
+			"toi": 1048.21415795293
+		},
+		{
+			"player": "Alex Galchenyuk",
+			"team": "MTL",
+			"position": "C",
+			"FENPCT": 9.11673615,
+			"EFEN60": 10.1111470200638,
+			"toi": 960.630306755075
+		},
+		{
+			"player": "Jake Muzzin",
+			"team": "LAK",
+			"position": "D",
+			"FENPCT": 2.84090768,
+			"EFEN60": 10.1044567857196,
+			"toi": 1434.87202454715
+		},
+		{
+			"player": "Colin McDonald",
+			"team": "NYI",
+			"position": "RW",
+			"FENPCT": 6.28497656,
+			"EFEN60": 10.1030176693595,
+			"toi": 644.616464468536
+		},
+		{
+			"player": "Jordan Caron",
+			"team": "BOS",
+			"position": "RW",
+			"FENPCT": 3.65931299,
+			"EFEN60": 10.0869447749526,
+			"toi": 407.954389393811
+		},
+		{
+			"player": "Jaden Schwartz",
+			"team": "STL",
+			"position": "C",
+			"FENPCT": 9.62542908,
+			"EFEN60": 10.0754088441092,
+			"toi": 1066.03550342704
+		},
+		{
+			"player": "Dustin Jeffrey",
+			"team": "VAN",
+			"position": "C",
+			"FENPCT": 7.48163365,
+			"EFEN60": 10.0498275660817,
+			"toi": 318.399975262142
+		},
+		{
+			"player": "Claude Giroux",
+			"team": "PHI",
+			"position": "RW",
+			"FENPCT": 10.2345166,
+			"EFEN60": 10.0488206422632,
+			"toi": 1837.75850903519
+		},
+		{
+			"player": "Devin Setoguchi",
+			"team": "CGY",
+			"position": "RW",
+			"FENPCT": 6.91113712,
+			"EFEN60": 10.0246403235639,
+			"toi": 1082.9175477869
+		},
+		{
+			"player": "Matt Frattin",
+			"team": "TOR",
+			"position": "RW",
+			"FENPCT": 4.5313451,
+			"EFEN60": 10.0133328491648,
+			"toi": 544.878182608987
+		},
+		{
+			"player": "Andrew Cogliano",
+			"team": "ANA",
+			"position": "C",
+			"FENPCT": 10.01822552,
+			"EFEN60": 10.0066231055517,
+			"toi": 1474.81112552795
+		},
+		{
+			"player": "Alex Chiasson",
+			"team": "OTT",
+			"position": "RW",
+			"FENPCT": 7.53964902,
+			"EFEN60": 9.9852837128143,
+			"toi": 855.172033596286
+		},
+		{
+			"player": "Ryan Malone",
+			"team": "NYR",
+			"position": "LW",
+			"FENPCT": 6.83987369,
+			"EFEN60": 9.97381065802782,
+			"toi": 708.023668257644
+		},
+		{
+			"player": "Milan Michalek",
+			"team": "OTT",
+			"position": "LW",
+			"FENPCT": 7.23630137,
+			"EFEN60": 9.96111399188197,
+			"toi": 1305.79507949241
+		},
+		{
+			"player": "Raffi Torres",
+			"team": "SJS",
+			"position": "LW",
+			"FENPCT": 11.38792398,
+			"EFEN60": 9.95374320607477,
+			"toi": 380.061057345416
+		},
+		{
+			"player": "Lee Stempniak",
+			"team": "NYR",
+			"position": "RW",
+			"FENPCT": 5.97525773,
+			"EFEN60": 9.94745759642555,
+			"toi": 1396.66787791042
+		},
+		{
+			"player": "Dustin Penner",
+			"team": "WSH",
+			"position": "LW",
+			"FENPCT": 6.92455347,
+			"EFEN60": 9.92636471017621,
+			"toi": 896.523702900839
+		},
+		{
+			"player": "David Jones",
+			"team": "CGY",
+			"position": "RW",
+			"FENPCT": 6.82781554,
+			"EFEN60": 9.90728791502145,
+			"toi": 844.679747794428
+		},
+		{
+			"player": "Olli Jokinen",
+			"team": "NSH",
+			"position": "C",
+			"FENPCT": 7.96922029,
+			"EFEN60": 9.87847408181202,
+			"toi": 1238.89592190105
+		},
+		{
+			"player": "Mats Zuccarello",
+			"team": "NYR",
+			"position": "LW",
+			"FENPCT": 9.58382303,
+			"EFEN60": 9.82321562812307,
+			"toi": 879.806592233851
+		},
+		{
+			"player": "Reilly Smith",
+			"team": "BOS",
+			"position": "RW",
+			"FENPCT": 8.6011449,
+			"EFEN60": 9.80265311504472,
+			"toi": 1132.87604747305
+		},
+		{
+			"player": "Sam Gagner",
+			"team": "PHX",
+			"position": "C",
+			"FENPCT": 7.02242415,
+			"EFEN60": 9.80256060272586,
+			"toi": 1277.33204437207
+		},
+		{
+			"player": "Mason Raymond",
+			"team": "CGY",
+			"position": "LW",
+			"FENPCT": 6.43117186,
+			"EFEN60": 9.79776787539643,
+			"toi": 1342.01386367996
+		},
+		{
+			"player": "Chris Neil",
+			"team": "OTT",
+			"position": "RW",
+			"FENPCT": 6.29694539,
+			"EFEN60": 9.79665735153804,
+			"toi": 959.030436538917
+		},
+		{
+			"player": "Martin St. Louis",
+			"team": "NYR",
+			"position": "RW",
+			"FENPCT": 10.63701589,
+			"EFEN60": 9.76701998303295,
+			"toi": 1691.22526484761
+		},
+		{
+			"player": "Brad Marchand",
+			"team": "BOS",
+			"position": "C",
+			"FENPCT": 11.10669459,
+			"EFEN60": 9.75901058379268,
+			"toi": 1487.07745141672
+		},
+		{
+			"player": "Jonathan Toews",
+			"team": "CHI",
+			"position": "C",
+			"FENPCT": 11.57336346,
+			"EFEN60": 9.73934543346708,
+			"toi": 1419.44529829399
+		},
+		{
+			"player": "Mathieu Perreault",
+			"team": "WPG",
+			"position": "C",
+			"FENPCT": 11.20677299,
+			"EFEN60": 9.68784899223858,
+			"toi": 957.371312939533
+		},
+		{
+			"player": "Joe Corvo",
+			"team": "OTT",
+			"position": "D",
+			"FENPCT": 4.50908987,
+			"EFEN60": 9.67543543593601,
+			"toi": 850.961713693298
+		},
+		{
+			"player": "Chris Porter",
+			"team": "STL",
+			"position": "LW",
+			"FENPCT": 2.29044887,
+			"EFEN60": 9.64880200111836,
+			"toi": 331.68246292025
+		},
+		{
+			"player": "Tyler Johnson",
+			"team": "TBL",
+			"position": "C",
+			"FENPCT": 7.94988273,
+			"EFEN60": 9.64490846246282,
+			"toi": 1319.06374650104
+		},
+		{
+			"player": "Michael Bournival",
+			"team": "MTL",
+			"position": "LW",
+			"FENPCT": 6.85,
+			"EFEN60": 9.63920720503468,
+			"toi": 639.568330464463
+		},
+		{
+			"player": "Matt Niskanen",
+			"team": "WSH",
+			"position": "D",
+			"FENPCT": 4.85852155,
+			"EFEN60": 9.63755059187482,
+			"toi": 1342.80026631481
+		},
+		{
+			"player": "Jannik Hansen",
+			"team": "VAN",
+			"position": "RW",
+			"FENPCT": 7.78203819,
+			"EFEN60": 9.61001201093339,
+			"toi": 1163.96752693343
+		},
+		{
+			"player": "Dougie Hamilton",
+			"team": "BOS",
+			"position": "D",
+			"FENPCT": 3.85223028,
+			"EFEN60": 9.60161860919294,
+			"toi": 1296.77010845121
+		},
+		{
+			"player": "Teddy Purcell",
+			"team": "EDM",
+			"position": "RW",
+			"FENPCT": 6.25083883,
+			"EFEN60": 9.58671970537691,
+			"toi": 1156.74550383944
+		},
+		{
+			"player": "Daniel Alfredsson",
+			"team": "DET",
+			"position": "RW",
+			"FENPCT": 10.78116932,
+			"EFEN60": 9.58226791719989,
+			"toi": 1059.39955867458
+		},
+		{
+			"player": "Matt Martin",
+			"team": "NYI",
+			"position": "LW",
+			"FENPCT": 5.56281264,
+			"EFEN60": 9.55432248887562,
+			"toi": 832.68152386436
+		},
+		{
+			"player": "Milan Lucic",
+			"team": "BOS",
+			"position": "LW",
+			"FENPCT": 11.24745367,
+			"EFEN60": 9.54323577519993,
+			"toi": 1492.07688273023
+		},
+		{
+			"player": "Drew Shore",
+			"team": "FLA",
+			"position": "C",
+			"FENPCT": 6.64296512,
+			"EFEN60": 9.5167569792457,
+			"toi": 539.653909204381
+		},
+		{
+			"player": "Curtis Glencross",
+			"team": "CGY",
+			"position": "LW",
+			"FENPCT": 11.43016124,
+			"EFEN60": 9.48413845848648,
+			"toi": 911.812724881696
+		},
+		{
+			"player": "Pierre-Marc Bouchard",
+			"team": "CHI",
+			"position": "C",
+			"FENPCT": 8.50529153,
+			"EFEN60": 9.47686910680948,
+			"toi": 503.885622103346
+		},
+		{
+			"player": "Artem Anisimov",
+			"team": "CBJ",
+			"position": "C",
+			"FENPCT": 10.92574445,
+			"EFEN60": 9.43228143215156,
+			"toi": 1589.43470948339
+		},
+		{
+			"player": "Jordan Staal",
+			"team": "CAR",
+			"position": "C",
+			"FENPCT": 7.24510053,
+			"EFEN60": 9.42366261731359,
+			"toi": 1514.25311705
+		},
+		{
+			"player": "Kris Letang",
+			"team": "PIT",
+			"position": "D",
+			"FENPCT": 5.22737136,
+			"EFEN60": 9.41958949893391,
+			"toi": 1449.11439851501
+		},
+		{
+			"player": "Sean Monahan",
+			"team": "CGY",
+			"position": "C",
+			"FENPCT": 13.67,
+			"EFEN60": 9.41028667120767,
+			"toi": 1142.48679022835
+		},
+		{
+			"player": "Mark Arcobello",
+			"team": "EDM",
+			"position": "RW",
+			"FENPCT": 3.45,
+			"EFEN60": 9.38022432166598,
+			"toi": 419.653798867404
+		},
+		{
+			"player": "Kevin Shattenkirk",
+			"team": "STL",
+			"position": "D",
+			"FENPCT": 2.56202655,
+			"EFEN60": 9.3361090249352,
+			"toi": 1534.91076132241
+		},
+		{
+			"player": "Derek Roy",
+			"team": "NSH",
+			"position": "C",
+			"FENPCT": 5.48800457,
+			"EFEN60": 9.32074141400763,
+			"toi": 1055.29184473
+		},
+		{
+			"player": "Matt Halischuk",
+			"team": "WPG",
+			"position": "RW",
+			"FENPCT": 8.0698669,
+			"EFEN60": 9.30446164493433,
+			"toi": 699.559243199225
+		},
+		{
+			"player": "Lauri Korpikoski",
+			"team": "PHX",
+			"position": "LW",
+			"FENPCT": 6.66148075,
+			"EFEN60": 9.29146160728716,
+			"toi": 1101.35874666675
+		},
+		{
+			"player": "Colin Greening",
+			"team": "OTT",
+			"position": "C",
+			"FENPCT": 4.06670784,
+			"EFEN60": 9.28506391356641,
+			"toi": 1122.78642977566
+		},
+		{
+			"player": "Antoine Roussel",
+			"team": "DAL",
+			"position": "LW",
+			"FENPCT": 9.19050131,
+			"EFEN60": 9.27242804860652,
+			"toi": 947.083111977075
+		},
+		{
+			"player": "Ryan O'Reilly",
+			"team": "COL",
+			"position": "C",
+			"FENPCT": 9.38091802,
+			"EFEN60": 9.26664474179256,
+			"toi": 1275.95478038626
+		},
+		{
+			"player": "Paul Stastny",
+			"team": "STL",
+			"position": "C",
+			"FENPCT": 10.75907251,
+			"EFEN60": 9.26553480391315,
+			"toi": 1233.9336357344
+		},
+		{
+			"player": "John McCarthy",
+			"team": "STL",
+			"position": "LW",
+			"FENPCT": 1.94117615,
+			"EFEN60": 9.24209684375152,
+			"toi": 324.589142624075
+		},
+		{
+			"player": "Ryane Clowe",
+			"team": "NJD",
+			"position": "LW",
+			"FENPCT": 5.32563749,
+			"EFEN60": 9.24174641491796,
+			"toi": 727.481270065778
+		},
+		{
+			"player": "Loui Eriksson",
+			"team": "BOS",
+			"position": "LW",
+			"FENPCT": 8.13643781,
+			"EFEN60": 9.22284927342816,
+			"toi": 1473.23744181431
+		},
+		{
+			"player": "Zac Rinaldo",
+			"team": "PHI",
+			"position": "C",
+			"FENPCT": 4.40785007,
+			"EFEN60": 9.22263189316818,
+			"toi": 562.241819517288
+		},
+		{
+			"player": "Kevin Connauton",
+			"team": "DAL",
+			"position": "D",
+			"FENPCT": 1.39,
+			"EFEN60": 9.20403742163084,
+			"toi": 559.177434720395
+		},
+		{
+			"player": "Kyle Clifford",
+			"team": "LAK",
+			"position": "LW",
+			"FENPCT": 4.56935822,
+			"EFEN60": 9.20227963152783,
+			"toi": 767.712641521466
+		},
+		{
+			"player": "Mike Brown",
+			"team": "SJS",
+			"position": "RW",
+			"FENPCT": 3.18854319,
+			"EFEN60": 9.20176538999488,
+			"toi": 425.912653750617
+		},
+		{
+			"player": "Gabriel Bourque",
+			"team": "NSH",
+			"position": "LW",
+			"FENPCT": 7.26742178,
+			"EFEN60": 9.18369505336908,
+			"toi": 916.015344571076
+		},
+		{
+			"player": "Ondrej Palat",
+			"team": "TBL",
+			"position": "LW",
+			"FENPCT": 10.22534025,
+			"EFEN60": 9.17739980924931,
+			"toi": 1278.49792791488
+		},
+		{
+			"player": "Zach Bogosian",
+			"team": "WPG",
+			"position": "D",
+			"FENPCT": 2.94323904,
+			"EFEN60": 9.1711957322455,
+			"toi": 1244.52817679251
+		},
+		{
+			"player": "Lars Eller",
+			"team": "MTL",
+			"position": "C",
+			"FENPCT": 6.4048561,
+			"EFEN60": 9.16286281567059,
+			"toi": 1284.43554293857
+		},
+		{
+			"player": "Derick Brassard",
+			"team": "NYR",
+			"position": "C",
+			"FENPCT": 8.27819175,
+			"EFEN60": 9.15996331533487,
+			"toi": 1194.46358560151
+		},
+		{
+			"player": "Ryan Jones",
+			"team": "EDM",
+			"position": "RW",
+			"FENPCT": 4.69909293,
+			"EFEN60": 9.15985591591456,
+			"toi": 604.191038668235
+		},
+		{
+			"player": "Ales Hemsky",
+			"team": "DAL",
+			"position": "RW",
+			"FENPCT": 6.95254588,
+			"EFEN60": 9.15907892807996,
+			"toi": 988.813249709996
+		},
+		{
+			"player": "Nathan Horton",
+			"team": "CBJ",
+			"position": "RW",
+			"FENPCT": 7.18600494,
+			"EFEN60": 9.15674566205507,
+			"toi": 916.509639893724
+		},
+		{
+			"player": "Zemgus Girgensons",
+			"team": "BUF",
+			"position": "C",
+			"FENPCT": 5.11,
+			"EFEN60": 9.15196517021785,
+			"toi": 1096.22115356389
+		},
+		{
+			"player": "Vincent Trocheck",
+			"team": "FLA",
+			"position": "C",
+			"FENPCT": 6.82,
+			"EFEN60": 9.14688536195689,
+			"toi": 398.653377234021
+		},
+		{
+			"player": "Kevin Czuczman",
+			"team": "NYI",
+			"position": "D",
+			"FENPCT": 0,
+			"EFEN60": 9.14178559028061,
+			"toi": 304.315584389907
+		},
+		{
+			"player": "Nicklas Backstrom",
+			"team": "WSH",
+			"position": "C",
+			"FENPCT": 6.42039759,
+			"EFEN60": 9.1285620887284,
+			"toi": 1542.5211540515
+		},
+		{
+			"player": "Matt Read",
+			"team": "PHI",
+			"position": "RW",
+			"FENPCT": 10.92184346,
+			"EFEN60": 9.12743735596504,
+			"toi": 1616.96974352683
+		},
+		{
+			"player": "Erik Condra",
+			"team": "OTT",
+			"position": "RW",
+			"FENPCT": 4.5745252,
+			"EFEN60": 9.12389132695435,
+			"toi": 1125.13222687509
+		},
+		{
+			"player": "David Backes",
+			"team": "STL",
+			"position": "C",
+			"FENPCT": 9.08894738,
+			"EFEN60": 9.10044329850171,
+			"toi": 1430.11350158145
+		},
+		{
+			"player": "Mikko Koivu",
+			"team": "MIN",
+			"position": "C",
+			"FENPCT": 6.48766761,
+			"EFEN60": 9.08567531813485,
+			"toi": 1438.62843212811
+		},
+		{
+			"player": "Matt Donovan",
+			"team": "NYI",
+			"position": "D",
+			"FENPCT": 1.09,
+			"EFEN60": 9.07213972771384,
+			"toi": 1158.84447439272
+		},
+		{
+			"player": "Mike Santorelli",
+			"team": "TOR",
+			"position": "C",
+			"FENPCT": 7.48014431,
+			"EFEN60": 9.03166056425681,
+			"toi": 914.931206656993
+		},
+		{
+			"player": "Stephen Gionta",
+			"team": "NJD",
+			"position": "RW",
+			"FENPCT": 3.71307961,
+			"EFEN60": 9.02271123895957,
+			"toi": 752.252631142395
+		},
+		{
+			"player": "Valeri Nichushkin",
+			"team": "DAL",
+			"position": "RW",
+			"FENPCT": 7.28,
+			"EFEN60": 9.01793404639071,
+			"toi": 1052.83990259177
+		},
+		{
+			"player": "Patrik Berglund",
+			"team": "STL",
+			"position": "C",
+			"FENPCT": 8.70115821,
+			"EFEN60": 9.01291820885757,
+			"toi": 1220.46686215019
+		},
+		{
+			"player": "Steve Bernier",
+			"team": "NJD",
+			"position": "RW",
+			"FENPCT": 3.38745586,
+			"EFEN60": 8.9983193960227,
+			"toi": 754.844730874474
+		},
+		{
+			"player": "Cody Eakin",
+			"team": "DAL",
+			"position": "C",
+			"FENPCT": 7.55372677,
+			"EFEN60": 8.99026532950012,
+			"toi": 1208.33863860212
+		},
+		{
+			"player": "Mikkel Boedker",
+			"team": "PHX",
+			"position": "LW",
+			"FENPCT": 7.71693505,
+			"EFEN60": 8.93406479609223,
+			"toi": 1287.58503921463
+		},
+		{
+			"player": "Zdeno Chara",
+			"team": "BOS",
+			"position": "D",
+			"FENPCT": 3.79506728,
+			"EFEN60": 8.92601365359114,
+			"toi": 2181.10781080611
+		},
+		{
+			"player": "David Krejci",
+			"team": "BOS",
+			"position": "C",
+			"FENPCT": 9.66952679,
+			"EFEN60": 8.92508595205246,
+			"toi": 1668.85310267703
+		},
+		{
+			"player": "Tomas Kopecky",
+			"team": "FLA",
+			"position": "RW",
+			"FENPCT": 5.44679577,
+			"EFEN60": 8.90945208914631,
+			"toi": 1048.5166402251
+		},
+		{
+			"player": "R.J. Umberger",
+			"team": "PIT",
+			"position": "LW",
+			"FENPCT": 7.28201658,
+			"EFEN60": 8.89028601638114,
+			"toi": 971.136621188796
+		},
+		{
+			"player": "B.J. Crombeen",
+			"team": "PHX",
+			"position": "RW",
+			"FENPCT": 3.13342187,
+			"EFEN60": 8.88725868958741,
+			"toi": 656.154000366355
+		},
+		{
+			"player": "Magnus Paajarvi",
+			"team": "STL",
+			"position": "LW",
+			"FENPCT": 7.27533269,
+			"EFEN60": 8.8724166875584,
+			"toi": 651.277453995535
+		},
+		{
+			"player": "Mike Richards",
+			"team": "LAK",
+			"position": "C",
+			"FENPCT": 5.83399788,
+			"EFEN60": 8.87044504735594,
+			"toi": 1414.79022944776
+		},
+		{
+			"player": "P.K. Subban",
+			"team": "MTL",
+			"position": "D",
+			"FENPCT": 6.07886428,
+			"EFEN60": 8.8515096682798,
+			"toi": 1736.36257245154
+		},
+		{
+			"player": "Todd Bertuzzi",
+			"team": "DET",
+			"position": "RW",
+			"FENPCT": 5.57621238,
+			"EFEN60": 8.85065772649203,
+			"toi": 596.346739244996
+		},
+		{
+			"player": "Ray Whitney",
+			"team": "DAL",
+			"position": "LW",
+			"FENPCT": 8.93079352,
+			"EFEN60": 8.8422410586581,
+			"toi": 911.320268840794
+		},
+		{
+			"player": "Ryan Getzlaf",
+			"team": "ANA",
+			"position": "C",
+			"FENPCT": 13.23491533,
+			"EFEN60": 8.81938308432357,
+			"toi": 1827.66909390818
+		},
+		{
+			"player": "Ryan Smyth",
+			"team": "EDM",
+			"position": "LW",
+			"FENPCT": 4.03981997,
+			"EFEN60": 8.81212782188676,
+			"toi": 1163.64683475554
+		},
+		{
+			"player": "John Carlson",
+			"team": "WSH",
+			"position": "D",
+			"FENPCT": 3.98592495,
+			"EFEN60": 8.80801384416181,
+			"toi": 1697.68847633071
+		},
+		{
+			"player": "Andrew Shaw",
+			"team": "CHI",
+			"position": "C",
+			"FENPCT": 10.24220993,
+			"EFEN60": 8.80694273801841,
+			"toi": 1003.49220958252
+		},
+		{
+			"player": "Peter Regin",
+			"team": "CHI",
+			"position": "C",
+			"FENPCT": 4.34887829,
+			"EFEN60": 8.80136828962863,
+			"toi": 565.382284776814
+		},
+		{
+			"player": "Clarke MacArthur",
+			"team": "OTT",
+			"position": "LW",
+			"FENPCT": 9.91757128,
+			"EFEN60": 8.78105610317642,
+			"toi": 1314.46912663084
+		},
+		{
+			"player": "Jonathan Huberdeau",
+			"team": "FLA",
+			"position": "C",
+			"FENPCT": 6.83974007,
+			"EFEN60": 8.76236439884135,
+			"toi": 997.652792497688
+		},
+		{
+			"player": "Nick Bonino",
+			"team": "VAN",
+			"position": "C",
+			"FENPCT": 11.23740344,
+			"EFEN60": 8.75563263319804,
+			"toi": 957.89940910664
+		},
+		{
+			"player": "Dennis Wideman",
+			"team": "CGY",
+			"position": "D",
+			"FENPCT": 2.55400011,
+			"EFEN60": 8.74101884543916,
+			"toi": 1402.58402486933
+		},
+		{
+			"player": "Charlie Coyle",
+			"team": "MIN",
+			"position": "RW",
+			"FENPCT": 6.96898789,
+			"EFEN60": 8.72327602214675,
+			"toi": 1047.95594622117
+		},
+		{
+			"player": "James Sheppard",
+			"team": "SJS",
+			"position": "C",
+			"FENPCT": 3.2869783,
+			"EFEN60": 8.72166698380062,
+			"toi": 727.086018610459
+		},
+		{
+			"player": "P.A. Parenteau",
+			"team": "MTL",
+			"position": "RW",
+			"FENPCT": 11.53573813,
+			"EFEN60": 8.71926952822799,
+			"toi": 1188.20029142033
+		},
+		{
+			"player": "Shea Weber",
+			"team": "NSH",
+			"position": "D",
+			"FENPCT": 5.69160496,
+			"EFEN60": 8.71701940213533,
+			"toi": 2356.50791466671
+		},
+		{
+			"player": "Dan Boyle",
+			"team": "NYR",
+			"position": "D",
+			"FENPCT": 4.29274605,
+			"EFEN60": 8.7134062838508,
+			"toi": 1522.6890666812
+		},
+		{
+			"player": "Jakub Kindl",
+			"team": "DET",
+			"position": "D",
+			"FENPCT": 2.6801619,
+			"EFEN60": 8.70562404431471,
+			"toi": 1224.49198294668
+		},
+		{
+			"player": "Derek Dorsett",
+			"team": "VAN",
+			"position": "RW",
+			"FENPCT": 5.46522321,
+			"EFEN60": 8.7026584728262,
+			"toi": 646.400705251808
+		},
+		{
+			"player": "Dominic Moore",
+			"team": "NYR",
+			"position": "C",
+			"FENPCT": 4.34820366,
+			"EFEN60": 8.68138173370538,
+			"toi": 1009.39487491238
+		},
+		{
+			"player": "Sami Vatanen",
+			"team": "ANA",
+			"position": "D",
+			"FENPCT": 6.8346871,
+			"EFEN60": 8.68102166950363,
+			"toi": 669.829695863757
+		},
+		{
+			"player": "Tuomo Ruutu",
+			"team": "NJD",
+			"position": "C",
+			"FENPCT": 5.67513362,
+			"EFEN60": 8.68003437794738,
+			"toi": 755.697136704142
+		},
+		{
+			"player": "Anze Kopitar",
+			"team": "LAK",
+			"position": "C",
+			"FENPCT": 10.04477437,
+			"EFEN60": 8.67273940910113,
+			"toi": 1767.25398561059
+		},
+		{
+			"player": "Ryan Murphy",
+			"team": "CAR",
+			"position": "D",
+			"FENPCT": 1.08943045,
+			"EFEN60": 8.6585604698381,
+			"toi": 625.198471978839
+		},
+		{
+			"player": "John Moore",
+			"team": "NYR",
+			"position": "D",
+			"FENPCT": 2.75461674,
+			"EFEN60": 8.65495420014044,
+			"toi": 786.160409954188
+		},
+		{
+			"player": "Ryan Carter",
+			"team": "NJD",
+			"position": "C",
+			"FENPCT": 6.93341097,
+			"EFEN60": 8.65144324530387,
+			"toi": 682.634230728193
+		},
+		{
+			"player": "Andrew Desjardins",
+			"team": "SJS",
+			"position": "C",
+			"FENPCT": 2.87386659,
+			"EFEN60": 8.64437287216073,
+			"toi": 880.381682964186
+		},
+		{
+			"player": "Brandon Sutter",
+			"team": "PIT",
+			"position": "C",
+			"FENPCT": 6.18331265,
+			"EFEN60": 8.62536980486465,
+			"toi": 1223.40425948299
+		},
+		{
+			"player": "Alec Martinez",
+			"team": "LAK",
+			"position": "D",
+			"FENPCT": 7.6576983,
+			"EFEN60": 8.62493471680587,
+			"toi": 895.983065901007
+		},
+		{
+			"player": "T.J. Oshie",
+			"team": "STL",
+			"position": "C",
+			"FENPCT": 8.46683177,
+			"EFEN60": 8.61830017606091,
+			"toi": 1257.78326962829
+		},
+		{
+			"player": "Marcel Goc",
+			"team": "PIT",
+			"position": "C",
+			"FENPCT": 7.19084802,
+			"EFEN60": 8.61818734916442,
+			"toi": 1129.03207009508
+		},
+		{
+			"player": "Matt Cullen",
+			"team": "NSH",
+			"position": "C",
+			"FENPCT": 6.81650826,
+			"EFEN60": 8.5756875233479,
+			"toi": 1103.10628992109
+		},
+		{
+			"player": "Cody McLeod",
+			"team": "COL",
+			"position": "LW",
+			"FENPCT": 5.69786505,
+			"EFEN60": 8.57230008058577,
+			"toi": 775.352868979382
+		},
+		{
+			"player": "Richard Panik",
+			"team": "TBL",
+			"position": "RW",
+			"FENPCT": 5.13789474,
+			"EFEN60": 8.56426135986284,
+			"toi": 621.231152099226
+		},
+		{
+			"player": "Steve Downie",
+			"team": "PIT",
+			"position": "RW",
+			"FENPCT": 2.7117137,
+			"EFEN60": 8.56057429968924,
+			"toi": 583.622695198628
+		},
+		{
+			"player": "Andrei Loktionov",
+			"team": "CAR",
+			"position": "C",
+			"FENPCT": 6.47451024,
+			"EFEN60": 8.55201741327186,
+			"toi": 702.660430029282
+		},
+		{
+			"player": "Maxim Lapierre",
+			"team": "STL",
+			"position": "C",
+			"FENPCT": 7.52374953,
+			"EFEN60": 8.52819557459593,
+			"toi": 843.890880794313
+		},
+		{
+			"player": "Cory Emmerton",
+			"team": "DET",
+			"position": "C",
+			"FENPCT": 5.31477956,
+			"EFEN60": 8.49882635465498,
+			"toi": 361.592061006971
+		},
+		{
+			"player": "Erik Johnson",
+			"team": "COL",
+			"position": "D",
+			"FENPCT": 3.81839891,
+			"EFEN60": 8.49073716635787,
+			"toi": 1834.01322109665
+		},
+		{
+			"player": "Dwight King",
+			"team": "LAK",
+			"position": "LW",
+			"FENPCT": 7.74998068,
+			"EFEN60": 8.48229873412418,
+			"toi": 1036.75521415829
+		},
+		{
+			"player": "Justin Fontaine",
+			"team": "MIN",
+			"position": "RW",
+			"FENPCT": 12.24,
+			"EFEN60": 8.47717064160072,
+			"toi": 761.08252638813
+		},
+		{
+			"player": "Jay Beagle",
+			"team": "WSH",
+			"position": "RW",
+			"FENPCT": 4.38346102,
+			"EFEN60": 8.46895477049422,
+			"toi": 797.463432824697
+		},
+		{
+			"player": "Brad Richardson",
+			"team": "VAN",
+			"position": "RW",
+			"FENPCT": 6.28747433,
+			"EFEN60": 8.46778312891228,
+			"toi": 864.355776189793
+		},
+		{
+			"player": "Dany Heatley",
+			"team": "ANA",
+			"position": "LW",
+			"FENPCT": 9.33528502,
+			"EFEN60": 8.46208333897219,
+			"toi": 1279.22564111513
+		},
+		{
+			"player": "Beau Bennett",
+			"team": "PIT",
+			"position": "RW",
+			"FENPCT": 8.49182963,
+			"EFEN60": 8.44955592755922,
+			"toi": 301.505987939161
+		},
+		{
+			"player": "Cody Ceci",
+			"team": "OTT",
+			"position": "D",
+			"FENPCT": 3.19,
+			"EFEN60": 8.44349584159335,
+			"toi": 834.626813739694
+		},
+		{
+			"player": "Mark Scheifele",
+			"team": "WPG",
+			"position": "C",
+			"FENPCT": 10.36931105,
+			"EFEN60": 8.44100746979,
+			"toi": 758.981250566461
+		},
+		{
+			"player": "Duncan Keith",
+			"team": "CHI",
+			"position": "D",
+			"FENPCT": 1.67416455,
+			"EFEN60": 8.43902912708633,
+			"toi": 2000.35135008096
+		},
+		{
+			"player": "Zack Kassian",
+			"team": "VAN",
+			"position": "RW",
+			"FENPCT": 9.91021833,
+			"EFEN60": 8.43837636478473,
+			"toi": 805.678701341774
+		},
+		{
+			"player": "Ryan Nugent-Hopkins",
+			"team": "EDM",
+			"position": "C",
+			"FENPCT": 7.34087576,
+			"EFEN60": 8.41549780122232,
+			"toi": 1348.01710398715
+		},
+		{
+			"player": "Vladimir Sobotka",
+			"team": "STL",
+			"position": "C",
+			"FENPCT": 6.55335755,
+			"EFEN60": 8.4099258999301,
+			"toi": 1042.21120536913
+		},
+		{
+			"player": "Nick Foligno",
+			"team": "CBJ",
+			"position": "LW",
+			"FENPCT": 9.53457458,
+			"EFEN60": 8.39877387796691,
+			"toi": 1358.56491733255
+		},
+		{
+			"player": "Matt Hendricks",
+			"team": "EDM",
+			"position": "C",
+			"FENPCT": 4.38800601,
+			"EFEN60": 8.38125282189117,
+			"toi": 1002.53105323108
+		},
+		{
+			"player": "Tyson Barrie",
+			"team": "COL",
+			"position": "D",
+			"FENPCT": 7.26746469,
+			"EFEN60": 8.37201551256242,
+			"toi": 1276.74599267997
+		},
+		{
+			"player": "Daniel Paille",
+			"team": "BOS",
+			"position": "LW",
+			"FENPCT": 10.03340958,
+			"EFEN60": 8.31143574920141,
+			"toi": 999.816437770439
+		},
+		{
+			"player": "Dan Carcillo",
+			"team": "NYR",
+			"position": "LW",
+			"FENPCT": 6.15091815,
+			"EFEN60": 8.2845066771048,
+			"toi": 449.667131622727
+		},
+		{
+			"player": "Vernon Fiddler",
+			"team": "DAL",
+			"position": "C",
+			"FENPCT": 4.72319608,
+			"EFEN60": 8.23394668248975,
+			"toi": 1096.36765842983
+		},
+		{
+			"player": "Mikhail Grabovski",
+			"team": "NYI",
+			"position": "C",
+			"FENPCT": 10.28013944,
+			"EFEN60": 8.22288904302009,
+			"toi": 893.711798631121
+		},
+		{
+			"player": "Kevin Bieksa",
+			"team": "VAN",
+			"position": "D",
+			"FENPCT": 2.29382799,
+			"EFEN60": 8.21493619436789,
+			"toi": 1832.90155442559
+		},
+		{
+			"player": "Mark Giordano",
+			"team": "CGY",
+			"position": "D",
+			"FENPCT": 4.00292993,
+			"EFEN60": 8.20595489894714,
+			"toi": 1693.40833674345
+		},
+		{
+			"player": "Daniel Cleary",
+			"team": "DET",
+			"position": "RW",
+			"FENPCT": 5.62152286,
+			"EFEN60": 8.20349622218993,
+			"toi": 839.400628140535
+		},
+		{
+			"player": "Frans Nielsen",
+			"team": "NYI",
+			"position": "C",
+			"FENPCT": 10.22693608,
+			"EFEN60": 8.19665030723098,
+			"toi": 1311.35075128506
+		},
+		{
+			"player": "Chuck Kobasew",
+			"team": "PIT",
+			"position": "RW",
+			"FENPCT": 6.82467052,
+			"EFEN60": 8.18291806357875,
+			"toi": 459.913503705463
+		},
+		{
+			"player": "Sean Couturier",
+			"team": "PHI",
+			"position": "C",
+			"FENPCT": 7.03644836,
+			"EFEN60": 8.17823721334241,
+			"toi": 1707.55725005819
+		},
+		{
+			"player": "Kyle Brodziak",
+			"team": "MIN",
+			"position": "C",
+			"FENPCT": 5.58475434,
+			"EFEN60": 8.15551264853017,
+			"toi": 1525.15842126323
+		},
+		{
+			"player": "Riley Sheahan",
+			"team": "DET",
+			"position": "C",
+			"FENPCT": 11.02994396,
+			"EFEN60": 8.15542915165735,
+			"toi": 311.164931594592
+		},
+		{
+			"player": "Scott Gomez",
+			"team": "FLA",
+			"position": "C",
+			"FENPCT": 2.9974893,
+			"EFEN60": 8.14330648793645,
+			"toi": 623.571433130511
+		},
+		{
+			"player": "Antoine Vermette",
+			"team": "PHX",
+			"position": "C",
+			"FENPCT": 9.3637025,
+			"EFEN60": 8.13163572754719,
+			"toi": 1542.65457903687
+		},
+		{
+			"player": "Andrej Meszaros",
+			"team": "BUF",
+			"position": "D",
+			"FENPCT": 5.2219192,
+			"EFEN60": 8.12788515263862,
+			"toi": 669.864109989083
+		},
+		{
+			"player": "Mike Fisher",
+			"team": "NSH",
+			"position": "C",
+			"FENPCT": 9.92930314,
+			"EFEN60": 8.1236861891261,
+			"toi": 1374.2822242917
+		},
+		{
+			"player": "Tom Wilson",
+			"team": "WSH",
+			"position": "RW",
+			"FENPCT": 2.47,
+			"EFEN60": 8.12134902596426,
+			"toi": 633.190865976523
+		},
+		{
+			"player": "Alex Pietrangelo",
+			"team": "STL",
+			"position": "D",
+			"FENPCT": 3.27771657,
+			"EFEN60": 8.11971806531728,
+			"toi": 1802.28548934772
+		},
+		{
+			"player": "Kimmo Timonen",
+			"team": "PHI",
+			"position": "D",
+			"FENPCT": 3.99089069,
+			"EFEN60": 8.08409857646182,
+			"toi": 1205.09668677726
+		},
+		{
+			"player": "Mark Letestu",
+			"team": "CBJ",
+			"position": "C",
+			"FENPCT": 6.72966495,
+			"EFEN60": 8.05764833277322,
+			"toi": 1580.92635607536
+		},
+		{
+			"player": "Troy Brouwer",
+			"team": "WSH",
+			"position": "RW",
+			"FENPCT": 10.2063491,
+			"EFEN60": 8.03454938523709,
+			"toi": 1580.53507711238
+		},
+		{
+			"player": "Jayson Megna",
+			"team": "PIT",
+			"position": "C",
+			"FENPCT": 10.42,
+			"EFEN60": 8.02215564290286,
+			"toi": 332.279008540649
+		},
+		{
+			"player": "Victor Hedman",
+			"team": "TBL",
+			"position": "D",
+			"FENPCT": 4.97437071,
+			"EFEN60": 8.01697990608124,
+			"toi": 1331.08522275903
+		},
+		{
+			"player": "Cory Conacher",
+			"team": "NYI",
+			"position": "LW",
+			"FENPCT": 7.26004621,
+			"EFEN60": 8.00926556606639,
+			"toi": 852.076254698966
+		},
+		{
+			"player": "Drew Doughty",
+			"team": "LAK",
+			"position": "D",
+			"FENPCT": 2.8735132,
+			"EFEN60": 7.9969380814458,
+			"toi": 2253.01571828913
+		},
+		{
+			"player": "Johnny Boychuk",
+			"team": "BOS",
+			"position": "D",
+			"FENPCT": 2.42775966,
+			"EFEN60": 7.97394003366579,
+			"toi": 1604.51390312036
+		},
+		{
+			"player": "Bryan Little",
+			"team": "WPG",
+			"position": "RW",
+			"FENPCT": 8.23657923,
+			"EFEN60": 7.96573281525062,
+			"toi": 1931.36400345999
+		},
+		{
+			"player": "Adam Henrique",
+			"team": "NJD",
+			"position": "C",
+			"FENPCT": 11.21866373,
+			"EFEN60": 7.95616163662669,
+			"toi": 1197.07859871905
+		},
+		{
+			"player": "Riley Nash",
+			"team": "CAR",
+			"position": "C",
+			"FENPCT": 8.74962258,
+			"EFEN60": 7.94213687519941,
+			"toi": 793.980969191305
+		},
+		{
+			"player": "Nikita Nikitin",
+			"team": "EDM",
+			"position": "D",
+			"FENPCT": 2.61531402,
+			"EFEN60": 7.93143587339663,
+			"toi": 1042.49482425523
+		},
+		{
+			"player": "Ryan Ellis",
+			"team": "NSH",
+			"position": "D",
+			"FENPCT": 4.38065639,
+			"EFEN60": 7.91240978317281,
+			"toi": 1166.03581280437
+		},
+		{
+			"player": "Taylor Pyatt",
+			"team": "PIT",
+			"position": "LW",
+			"FENPCT": 5.86080272,
+			"EFEN60": 7.91113515619427,
+			"toi": 714.796602250867
+		},
+		{
+			"player": "Peter Holland",
+			"team": "TOR",
+			"position": "C",
+			"FENPCT": 8.72215012,
+			"EFEN60": 7.90509000366261,
+			"toi": 421.72878042227
+		},
+		{
+			"player": "Patrik Elias",
+			"team": "NJD",
+			"position": "LW",
+			"FENPCT": 10.01535622,
+			"EFEN60": 7.87133027676469,
+			"toi": 1157.74433604258
+		},
+		{
+			"player": "Matt Calvert",
+			"team": "CBJ",
+			"position": "LW",
+			"FENPCT": 8.70123992,
+			"EFEN60": 7.86734185367578,
+			"toi": 1050.32663900685
+		},
+		{
+			"player": "David Legwand",
+			"team": "OTT",
+			"position": "C",
+			"FENPCT": 7.27986764,
+			"EFEN60": 7.80806066021717,
+			"toi": 1435.58283855852
+		},
+		{
+			"player": "Colin Wilson",
+			"team": "NSH",
+			"position": "C",
+			"FENPCT": 7.66680072,
+			"EFEN60": 7.79400963388191,
+			"toi": 925.840670497019
+		},
+		{
+			"player": "Daniel Winnik",
+			"team": "TOR",
+			"position": "LW",
+			"FENPCT": 3.38958609,
+			"EFEN60": 7.76410507755424,
+			"toi": 1609.56157645855
+		},
+		{
+			"player": "James Wisniewski",
+			"team": "CBJ",
+			"position": "D",
+			"FENPCT": 2.97378487,
+			"EFEN60": 7.7428977140659,
+			"toi": 1735.5504424127
+		},
+		{
+			"player": "Justin Faulk",
+			"team": "CAR",
+			"position": "D",
+			"FENPCT": 2.67236766,
+			"EFEN60": 7.73979040190309,
+			"toi": 1703.86640644379
+		},
+		{
+			"player": "Christian Ehrhoff",
+			"team": "PIT",
+			"position": "D",
+			"FENPCT": 3.2822758,
+			"EFEN60": 7.71399711291605,
+			"toi": 2005.65871297865
+		},
+		{
+			"player": "Philip Larsen",
+			"team": "EDM",
+			"position": "D",
+			"FENPCT": 4.14204327,
+			"EFEN60": 7.70680672345954,
+			"toi": 545.445947823498
+		},
+		{
+			"player": "John Mitchell",
+			"team": "COL",
+			"position": "C",
+			"FENPCT": 7.76710755,
+			"EFEN60": 7.70195026979224,
+			"toi": 1104.97891117204
+		},
+		{
+			"player": "Erik Gudbranson",
+			"team": "FLA",
+			"position": "D",
+			"FENPCT": 1.87889555,
+			"EFEN60": 7.67999250190981,
+			"toi": 1205.15078829514
+		},
+		{
+			"player": "Ben Smith",
+			"team": "CHI",
+			"position": "RW",
+			"FENPCT": 11.49714314,
+			"EFEN60": 7.67735081339895,
+			"toi": 578.472330790204
+		},
+		{
+			"player": "Jacob Trouba",
+			"team": "WPG",
+			"position": "D",
+			"FENPCT": 6.62,
+			"EFEN60": 7.66242406243902,
+			"toi": 1396.48560990417
+		},
+		{
+			"player": "Travis Hamonic",
+			"team": "NYI",
+			"position": "D",
+			"FENPCT": 1.01285421,
+			"EFEN60": 7.66098364132436,
+			"toi": 2180.46149656039
+		},
+		{
+			"player": "Radko Gudas",
+			"team": "TBL",
+			"position": "D",
+			"FENPCT": 1.79397547,
+			"EFEN60": 7.64175776053362,
+			"toi": 878.541410032008
+		},
+		{
+			"player": "Jordan Nolan",
+			"team": "LAK",
+			"position": "RW",
+			"FENPCT": 7.65155039,
+			"EFEN60": 7.60225985946691,
+			"toi": 594.31376255015
+		},
+		{
+			"player": "Michael Kostka",
+			"team": "TBL",
+			"position": "D",
+			"FENPCT": 4.44072911,
+			"EFEN60": 7.58617457538171,
+			"toi": 551.744455315356
+		},
+		{
+			"player": "Jason Demers",
+			"team": "SJS",
+			"position": "D",
+			"FENPCT": 3.31964409,
+			"EFEN60": 7.56941462236755,
+			"toi": 1792.87114165417
+		},
+		{
+			"player": "Dave Bolland",
+			"team": "FLA",
+			"position": "C",
+			"FENPCT": 12.3899426,
+			"EFEN60": 7.56618581428744,
+			"toi": 595.723169376444
+		},
+		{
+			"player": "Rasmus Ristolainen",
+			"team": "BUF",
+			"position": "D",
+			"FENPCT": 4.65,
+			"EFEN60": 7.55552631487738,
+			"toi": 522.804659537078
+		},
+		{
+			"player": "Travis Zajac",
+			"team": "NJD",
+			"position": "C",
+			"FENPCT": 8.62691205,
+			"EFEN60": 7.52026818527356,
+			"toi": 1334.30409975018
+		},
+		{
+			"player": "Lubomir Visnovsky",
+			"team": "NYI",
+			"position": "D",
+			"FENPCT": 5.21157973,
+			"EFEN60": 7.4972650075178,
+			"toi": 1243.61985181292
+		},
+		{
+			"player": "Ryan White",
+			"team": "PHI",
+			"position": "C",
+			"FENPCT": 3.73990891,
+			"EFEN60": 7.48409485021346,
+			"toi": 515.655873609924
+		},
+		{
+			"player": "Jay Harrison",
+			"team": "CAR",
+			"position": "D",
+			"FENPCT": 3.35404959,
+			"EFEN60": 7.48312436582596,
+			"toi": 1189.12517373388
+		},
+		{
+			"player": "Tim Kennedy",
+			"team": "WSH",
+			"position": "LW",
+			"FENPCT": 4.5463976,
+			"EFEN60": 7.48287795444197,
+			"toi": 383.6955570405
+		},
+		{
+			"player": "Oliver Ekman-Larsson",
+			"team": "PHX",
+			"position": "D",
+			"FENPCT": 5.31900201,
+			"EFEN60": 7.48143794526407,
+			"toi": 2147.57838927191
+		},
+		{
+			"player": "Joel Ward",
+			"team": "WSH",
+			"position": "RW",
+			"FENPCT": 10.89012256,
+			"EFEN60": 7.47893045123535,
+			"toi": 1265.50200036381
+		},
+		{
+			"player": "Tom Pyatt",
+			"team": "TBL",
+			"position": "C",
+			"FENPCT": 8.75079103,
+			"EFEN60": 7.47750956631068,
+			"toi": 687.455195332062
+		},
+		{
+			"player": "Matt Gilroy",
+			"team": "FLA",
+			"position": "D",
+			"FENPCT": 3.03558966,
+			"EFEN60": 7.45857369377832,
+			"toi": 410.281689152742
+		},
+		{
+			"player": "Michael Stone",
+			"team": "PHX",
+			"position": "D",
+			"FENPCT": 5.08434343,
+			"EFEN60": 7.45305603664668,
+			"toi": 1251.50697682608
+		},
+		{
+			"player": "Nate Thompson",
+			"team": "ANA",
+			"position": "C",
+			"FENPCT": 6.38089695,
+			"EFEN60": 7.44426391272498,
+			"toi": 1305.35742716433
+		},
+		{
+			"player": "Drew Miller",
+			"team": "DET",
+			"position": "LW",
+			"FENPCT": 5.28481588,
+			"EFEN60": 7.4387915776059,
+			"toi": 1089.64206944297
+		},
+		{
+			"player": "Olli Maatta",
+			"team": "PIT",
+			"position": "D",
+			"FENPCT": 3.62,
+			"EFEN60": 7.38254754480963,
+			"toi": 1680.62352215595
+		},
+		{
+			"player": "Brian Flynn",
+			"team": "BUF",
+			"position": "C",
+			"FENPCT": 5.14638906,
+			"EFEN60": 7.37533436634483,
+			"toi": 1035.30470095607
+		},
+		{
+			"player": "Mikael Granlund",
+			"team": "MIN",
+			"position": "C",
+			"FENPCT": 5.79994407,
+			"EFEN60": 7.36465563154799,
+			"toi": 867.410069788094
+		},
+		{
+			"player": "Brent Seabrook",
+			"team": "CHI",
+			"position": "D",
+			"FENPCT": 3.68747821,
+			"EFEN60": 7.3544588266565,
+			"toi": 1801.27950995501
+		},
+		{
+			"player": "Justin Schultz",
+			"team": "EDM",
+			"position": "D",
+			"FENPCT": 8.79968872,
+			"EFEN60": 7.31802565451496,
+			"toi": 1644.65738241122
+		},
+		{
+			"player": "Marc-Edouard Vlasic",
+			"team": "SJS",
+			"position": "D",
+			"FENPCT": 2.37594416,
+			"EFEN60": 7.26295406708058,
+			"toi": 2425.0953000644
+		},
+		{
+			"player": "Slava Voynov",
+			"team": "LAK",
+			"position": "D",
+			"FENPCT": 2.91300557,
+			"EFEN60": 7.21867955287554,
+			"toi": 1969.70719841203
+		},
+		{
+			"player": "Jarret Stoll",
+			"team": "LAK",
+			"position": "C",
+			"FENPCT": 6.12747027,
+			"EFEN60": 7.20602110559649,
+			"toi": 1388.38421276768
+		},
+		{
+			"player": "Radek Dvorak",
+			"team": "CAR",
+			"position": "RW",
+			"FENPCT": 6.14281695,
+			"EFEN60": 7.15912144711174,
+			"toi": 584.730137541588
+		},
+		{
+			"player": "Josh Bailey",
+			"team": "NYI",
+			"position": "C",
+			"FENPCT": 7.19121331,
+			"EFEN60": 7.1542627371258,
+			"toi": 1000.47030493624
+		},
+		{
+			"player": "Mark Streit",
+			"team": "PHI",
+			"position": "D",
+			"FENPCT": 5.98627006,
+			"EFEN60": 7.11374169423998,
+			"toi": 1304.84356027424
+		},
+		{
+			"player": "Lance Bouma",
+			"team": "CGY",
+			"position": "C",
+			"FENPCT": 3.75846082,
+			"EFEN60": 7.11362557977076,
+			"toi": 974.397593405177
+		},
+		{
+			"player": "Dennis Seidenberg",
+			"team": "BOS",
+			"position": "D",
+			"FENPCT": 2.59595568,
+			"EFEN60": 7.09851914684906,
+			"toi": 1288.01392480715
+		},
+		{
+			"player": "Eric Nystrom",
+			"team": "NSH",
+			"position": "LW",
+			"FENPCT": 8.63992573,
+			"EFEN60": 7.09264409040679,
+			"toi": 1253.07309756619
+		},
+		{
+			"player": "Sven Baertschi",
+			"team": "CGY",
+			"position": "LW",
+			"FENPCT": 4.72466276,
+			"EFEN60": 7.0770193959729,
+			"toi": 372.778088648528
+		},
+		{
+			"player": "Chris Kelly",
+			"team": "BOS",
+			"position": "C",
+			"FENPCT": 9.41927777,
+			"EFEN60": 7.06992861343476,
+			"toi": 1082.99027533252
+		},
+		{
+			"player": "Gregory Campbell",
+			"team": "BOS",
+			"position": "C",
+			"FENPCT": 6.63540538,
+			"EFEN60": 7.06862824026556,
+			"toi": 1222.67657427712
+		},
+		{
+			"player": "Dion Phaneuf",
+			"team": "TOR",
+			"position": "D",
+			"FENPCT": 4.75728114,
+			"EFEN60": 7.06319920390678,
+			"toi": 1807.09591450676
+		},
+		{
+			"player": "Cody Franson",
+			"team": "TOR",
+			"position": "D",
+			"FENPCT": 3.40149953,
+			"EFEN60": 7.05708020948833,
+			"toi": 1351.39622410284
+		},
+		{
+			"player": "Joe Vitale",
+			"team": "PHX",
+			"position": "C",
+			"FENPCT": 2.66234652,
+			"EFEN60": 7.03633270486964,
+			"toi": 535.270189597092
+		},
+		{
+			"player": "Andre Benoit",
+			"team": "BUF",
+			"position": "D",
+			"FENPCT": 5.54605115,
+			"EFEN60": 7.03309122857446,
+			"toi": 1092.3987182114
+		},
+		{
+			"player": "Dale Weise",
+			"team": "MTL",
+			"position": "RW",
+			"FENPCT": 8.3834124,
+			"EFEN60": 7.02144730391145,
+			"toi": 554.476217228661
+		},
+		{
+			"player": "Valtteri Filppula",
+			"team": "TBL",
+			"position": "C",
+			"FENPCT": 14.25177051,
+			"EFEN60": 7.02113840222303,
+			"toi": 1527.96425160748
+		},
+		{
+			"player": "Jiri Hudler",
+			"team": "CGY",
+			"position": "C",
+			"FENPCT": 12.91165269,
+			"EFEN60": 6.99032802937626,
+			"toi": 1278.95377349431
+		},
+		{
+			"player": "Jordan Schroeder",
+			"team": "MIN",
+			"position": "RW",
+			"FENPCT": 8.52019031,
+			"EFEN60": 6.98661345157734,
+			"toi": 395.066362058837
+		},
+		{
+			"player": "Tyler Myers",
+			"team": "BUF",
+			"position": "D",
+			"FENPCT": 6.39159381,
+			"EFEN60": 6.98078177021679,
+			"toi": 1166.92411493684
+		},
+		{
+			"player": "Trevor Daley",
+			"team": "DAL",
+			"position": "D",
+			"FENPCT": 5.36828777,
+			"EFEN60": 6.96316982796644,
+			"toi": 1637.18599640247
+		},
+		{
+			"player": "Nick Leddy",
+			"team": "CHI",
+			"position": "D",
+			"FENPCT": 3.48285802,
+			"EFEN60": 6.9498727670369,
+			"toi": 1342.78811003404
+		},
+		{
+			"player": "Jim Slater",
+			"team": "WPG",
+			"position": "C",
+			"FENPCT": 5.52626711,
+			"EFEN60": 6.92699607994652,
+			"toi": 544.580379150102
+		},
+		{
+			"player": "Derek Morris",
+			"team": "PHX",
+			"position": "D",
+			"FENPCT": 3.29615368,
+			"EFEN60": 6.92465510279087,
+			"toi": 1340.27742278309
+		},
+		{
+			"player": "Morgan Rielly",
+			"team": "TOR",
+			"position": "D",
+			"FENPCT": 0.86,
+			"EFEN60": 6.90191236256445,
+			"toi": 1129.6523461954
+		},
+		{
+			"player": "Aleksander Barkov",
+			"team": "FLA",
+			"position": "C",
+			"FENPCT": 5.95,
+			"EFEN60": 6.89258729581505,
+			"toi": 778.41610663364
+		},
+		{
+			"player": "Marc-andre Cliche",
+			"team": "COL",
+			"position": "RW",
+			"FENPCT": 1.45,
+			"EFEN60": 6.88605498708963,
+			"toi": 846.793821748246
+		},
+		{
+			"player": "Elias Lindholm",
+			"team": "CAR",
+			"position": "C",
+			"FENPCT": 7.94,
+			"EFEN60": 6.88597652331149,
+			"toi": 743.584076637968
+		},
+		{
+			"player": "Joakim Andersson",
+			"team": "DET",
+			"position": "C",
+			"FENPCT": 8.52911309,
+			"EFEN60": 6.86997619752941,
+			"toi": 829.090061900836
+		},
+		{
+			"player": "Derek MacKenzie",
+			"team": "FLA",
+			"position": "C",
+			"FENPCT": 7.21859881,
+			"EFEN60": 6.84922623600283,
+			"toi": 845.556797799021
+		},
+		{
+			"player": "Torrey Mitchell",
+			"team": "BUF",
+			"position": "C",
+			"FENPCT": 4.84450424,
+			"EFEN60": 6.83802379582966,
+			"toi": 792.624714666854
+		},
+		{
+			"player": "Adam Hall",
+			"team": "PHI",
+			"position": "RW",
+			"FENPCT": 2.57630781,
+			"EFEN60": 6.82803181599042,
+			"toi": 923.336160613517
+		},
+		{
+			"player": "Marek Zidlicky",
+			"team": "NJD",
+			"position": "D",
+			"FENPCT": 3.79208336,
+			"EFEN60": 6.8166269966181,
+			"toi": 2106.40836947091
+		},
+		{
+			"player": "Andrej Sekera",
+			"team": "CAR",
+			"position": "D",
+			"FENPCT": 4.45189183,
+			"EFEN60": 6.81436027045663,
+			"toi": 1561.57749876838
+		},
+		{
+			"player": "Adam Burish",
+			"team": "SJS",
+			"position": "RW",
+			"FENPCT": 2.19945318,
+			"EFEN60": 6.81145069276856,
+			"toi": 460.135416416536
+		},
+		{
+			"player": "Alex Goligoski",
+			"team": "DAL",
+			"position": "D",
+			"FENPCT": 2.86901295,
+			"EFEN60": 6.81129692754995,
+			"toi": 2090.74692772457
+		},
+		{
+			"player": "Ben Lovejoy",
+			"team": "ANA",
+			"position": "D",
+			"FENPCT": 2.84125967,
+			"EFEN60": 6.78944155704719,
+			"toi": 1205.66969424633
+		},
+		{
+			"player": "Casey Cizikas",
+			"team": "NYI",
+			"position": "C",
+			"FENPCT": 5.95622486,
+			"EFEN60": 6.77214599579892,
+			"toi": 856.496761185365
+		},
+		{
+			"player": "John-Michael Liles",
+			"team": "CAR",
+			"position": "D",
+			"FENPCT": 2.68317004,
+			"EFEN60": 6.77096670242151,
+			"toi": 960.88830250859
+		},
+		{
+			"player": "Sergei Gonchar",
+			"team": "DAL",
+			"position": "D",
+			"FENPCT": 1.60668739,
+			"EFEN60": 6.75610468067764,
+			"toi": 1645.22630707146
+		},
+		{
+			"player": "Jamie McBain",
+			"team": "BUF",
+			"position": "D",
+			"FENPCT": 4.26216178,
+			"EFEN60": 6.75000483008679,
+			"toi": 1138.01107036227
+		},
+		{
+			"player": "Anton Stralman",
+			"team": "TBL",
+			"position": "D",
+			"FENPCT": 1.74970012,
+			"EFEN60": 6.73561443568917,
+			"toi": 1099.49006796121
+		},
+		{
+			"player": "Mark Barberio",
+			"team": "TBL",
+			"position": "D",
+			"FENPCT": 5.39097473,
+			"EFEN60": 6.73478590603162,
+			"toi": 371.979975439496
+		},
+		{
+			"player": "Nick Holden",
+			"team": "COL",
+			"position": "D",
+			"FENPCT": 9.98512269,
+			"EFEN60": 6.7021313273852,
+			"toi": 738.381625452534
+		},
+		{
+			"player": "Patrick Kaleta",
+			"team": "BUF",
+			"position": "RW",
+			"FENPCT": 4.35663898,
+			"EFEN60": 6.6989303199523,
+			"toi": 324.356212738931
+		},
+		{
+			"player": "Dmitry Kulikov",
+			"team": "FLA",
+			"position": "D",
+			"FENPCT": 3.88983317,
+			"EFEN60": 6.69525359786794,
+			"toi": 1717.67027151256
+		},
+		{
+			"player": "Michael Del Zotto",
+			"team": "PHI",
+			"position": "D",
+			"FENPCT": 2.84198114,
+			"EFEN60": 6.68158159907722,
+			"toi": 986.517796022948
+		},
+		{
+			"player": "Jake Gardiner",
+			"team": "TOR",
+			"position": "D",
+			"FENPCT": 4.95987451,
+			"EFEN60": 6.67790705401112,
+			"toi": 1186.44871874851
+		},
+		{
+			"player": "Colin Fraser",
+			"team": "STL",
+			"position": "C",
+			"FENPCT": 2.93424925,
+			"EFEN60": 6.67771155685201,
+			"toi": 382.672025227129
+		},
+		{
+			"player": "David Steckel",
+			"team": "ANA",
+			"position": "C",
+			"FENPCT": 3.89756261,
+			"EFEN60": 6.67210067705408,
+			"toi": 389.377236731159
+		},
+		{
+			"player": "Brooks Laich",
+			"team": "WSH",
+			"position": "C",
+			"FENPCT": 8.18106091,
+			"EFEN60": 6.66707783931988,
+			"toi": 925.787737456268
+		},
+		{
+			"player": "Jacob Josefson",
+			"team": "NJD",
+			"position": "C",
+			"FENPCT": 2.0288165,
+			"EFEN60": 6.65659310786354,
+			"toi": 326.940470575308
+		},
+		{
+			"player": "Jordan Leopold",
+			"team": "STL",
+			"position": "D",
+			"FENPCT": 4.69089219,
+			"EFEN60": 6.62407830293865,
+			"toi": 759.224012029709
+		},
+		{
+			"player": "Ryan McDonagh",
+			"team": "NYR",
+			"position": "D",
+			"FENPCT": 5.11154571,
+			"EFEN60": 6.62245200768933,
+			"toi": 1628.96827373922
+		},
+		{
+			"player": "Steve Ott",
+			"team": "STL",
+			"position": "LW",
+			"FENPCT": 4.29878419,
+			"EFEN60": 6.61410292374034,
+			"toi": 1405.65451036656
+		},
+		{
+			"player": "Justin Braun",
+			"team": "SJS",
+			"position": "D",
+			"FENPCT": 1.60245544,
+			"EFEN60": 6.61187588794966,
+			"toi": 2200.30916040934
+		},
+		{
+			"player": "Aaron Ness",
+			"team": "NYI",
+			"position": "D",
+			"FENPCT": 2.8865495,
+			"EFEN60": 6.6014540268438,
+			"toi": 309.14690904378
+		},
+		{
+			"player": "Grant Clitsome",
+			"team": "WPG",
+			"position": "D",
+			"FENPCT": 3.97508929,
+			"EFEN60": 6.60125222127282,
+			"toi": 821.337432815524
+		},
+		{
+			"player": "Hampus Lindholm",
+			"team": "ANA",
+			"position": "D",
+			"FENPCT": 4.42,
+			"EFEN60": 6.59830424921896,
+			"toi": 1523.23480864196
+		},
+		{
+			"player": "Travis Moen",
+			"team": "MTL",
+			"position": "LW",
+			"FENPCT": 4.74176572,
+			"EFEN60": 6.59731260104638,
+			"toi": 970.489312389056
+		},
+		{
+			"player": "Cody McCormick",
+			"team": "BUF",
+			"position": "C",
+			"FENPCT": 5.32393566,
+			"EFEN60": 6.58033810913176,
+			"toi": 328.738612779542
+		},
+		{
+			"player": "Dan Hamhuis",
+			"team": "VAN",
+			"position": "D",
+			"FENPCT": 3.09058336,
+			"EFEN60": 6.53771592154587,
+			"toi": 2141.44668440913
+		},
+		{
+			"player": "Brendan Smith",
+			"team": "DET",
+			"position": "D",
+			"FENPCT": 2.55574298,
+			"EFEN60": 6.53219293310242,
+			"toi": 1175.50768065996
+		},
+		{
+			"player": "Dylan Olsen",
+			"team": "FLA",
+			"position": "D",
+			"FENPCT": 3.94544882,
+			"EFEN60": 6.51757985316106,
+			"toi": 681.145557373356
+		},
+		{
+			"player": "Nikolai Kulemin",
+			"team": "NYI",
+			"position": "LW",
+			"FENPCT": 7.96143406,
+			"EFEN60": 6.50816542931479,
+			"toi": 1144.74198217489
+		},
+		{
+			"player": "Darroll Powe",
+			"team": "NYR",
+			"position": "C",
+			"FENPCT": 3.22470488,
+			"EFEN60": 6.49151589439656,
+			"toi": 377.329635163787
+		},
+		{
+			"player": "Radek Martinek",
+			"team": "NYI",
+			"position": "D",
+			"FENPCT": 4.1961006,
+			"EFEN60": 6.47073839044481,
+			"toi": 320.236696317245
+		},
+		{
+			"player": "Maxime Talbot",
+			"team": "COL",
+			"position": "C",
+			"FENPCT": 6.23770438,
+			"EFEN60": 6.45606059702347,
+			"toi": 1244.71780188165
+		},
+		{
+			"player": "Matt Bartkowski",
+			"team": "BOS",
+			"position": "D",
+			"FENPCT": 0,
+			"EFEN60": 6.44857112965232,
+			"toi": 825.554856660099
+		},
+		{
+			"player": "Matt Cooke",
+			"team": "MIN",
+			"position": "LW",
+			"FENPCT": 8.08806016,
+			"EFEN60": 6.43983434143712,
+			"toi": 1434.47963878751
+		},
+		{
+			"player": "Nate Schmidt",
+			"team": "WSH",
+			"position": "D",
+			"FENPCT": 3.92,
+			"EFEN60": 6.42844304248497,
+			"toi": 411.47913324642
+		},
+		{
+			"player": "Eric O'dell",
+			"team": "WPG",
+			"position": "C",
+			"FENPCT": 10.34,
+			"EFEN60": 6.42709007694407,
+			"toi": 326.363717229571
+		},
+		{
+			"player": "Paul Postma",
+			"team": "WPG",
+			"position": "D",
+			"FENPCT": 4.52307692,
+			"EFEN60": 6.4231654925646,
+			"toi": 390.922896501241
+		},
+		{
+			"player": "Jay Bouwmeester",
+			"team": "STL",
+			"position": "D",
+			"FENPCT": 2.77445823,
+			"EFEN60": 6.42040266429182,
+			"toi": 1766.75083509594
+		},
+		{
+			"player": "Niklas Kronwall",
+			"team": "DET",
+			"position": "D",
+			"FENPCT": 4.94493289,
+			"EFEN60": 6.41858486601763,
+			"toi": 2216.16600936925
+		},
+		{
+			"player": "Stephane Veilleux",
+			"team": "MIN",
+			"position": "LW",
+			"FENPCT": 7.84847873,
+			"EFEN60": 6.41611691718409,
+			"toi": 316.242863320581
+		},
+		{
+			"player": "Matt Carkner",
+			"team": "NYI",
+			"position": "D",
+			"FENPCT": 0.40279786,
+			"EFEN60": 6.40895003149814,
+			"toi": 647.442302986862
+		},
+		{
+			"player": "Luke Gazdic",
+			"team": "EDM",
+			"position": "LW",
+			"FENPCT": 5.26,
+			"EFEN60": 6.4,
+			"toi": 343.190201792646
+		},
+		{
+			"player": "David Schlemko",
+			"team": "PHX",
+			"position": "D",
+			"FENPCT": 1.95961013,
+			"EFEN60": 6.38140671971503,
+			"toi": 835.085523730147
+		},
+		{
+			"player": "Marcus Foligno",
+			"team": "BUF",
+			"position": "RW",
+			"FENPCT": 6.62466701,
+			"EFEN60": 6.37883701503997,
+			"toi": 1057.16268366822
+		},
+		{
+			"player": "Calvin de Haan",
+			"team": "NYI",
+			"position": "D",
+			"FENPCT": 2.46548496,
+			"EFEN60": 6.37592400994702,
+			"toi": 1140.13537215351
+		},
+		{
+			"player": "Braydon Coburn",
+			"team": "PHI",
+			"position": "D",
+			"FENPCT": 2.44851027,
+			"EFEN60": 6.34480703154103,
+			"toi": 1151.08520253886
+		},
+		{
+			"player": "Mike Ribeiro",
+			"team": "NSH",
+			"position": "C",
+			"FENPCT": 10.87233338,
+			"EFEN60": 6.32780434083524,
+			"toi": 1270.69966877578
+		},
+		{
+			"player": "Jordie Benn",
+			"team": "DAL",
+			"position": "D",
+			"FENPCT": 0.7208179,
+			"EFEN60": 6.30232721865634,
+			"toi": 1310.51117681949
+		},
+		{
+			"player": "Mark Pysyk",
+			"team": "BUF",
+			"position": "D",
+			"FENPCT": 1.33466667,
+			"EFEN60": 6.30068927671282,
+			"toi": 600.533921303033
+		},
+		{
+			"player": "Jared Spurgeon",
+			"team": "MIN",
+			"position": "D",
+			"FENPCT": 2.5676401,
+			"EFEN60": 6.24715010306462,
+			"toi": 1750.34671428602
+		},
+		{
+			"player": "Joe Thornton",
+			"team": "SJS",
+			"position": "C",
+			"FENPCT": 8.61856734,
+			"EFEN60": 6.24198923828204,
+			"toi": 1447.12506937598
+		},
+		{
+			"player": "Raphael Diaz",
+			"team": "NYR",
+			"position": "D",
+			"FENPCT": 2.8618852,
+			"EFEN60": 6.23167471082606,
+			"toi": 899.729531028299
+		},
+		{
+			"player": "Kris Russell",
+			"team": "CGY",
+			"position": "D",
+			"FENPCT": 2.8938226,
+			"EFEN60": 6.23055612524065,
+			"toi": 1259.17475387581
+		},
+		{
+			"player": "Steven Kampfer",
+			"team": "NYR",
+			"position": "D",
+			"FENPCT": 7.57511146,
+			"EFEN60": 6.21496204143627,
+			"toi": 396.413349090869
+		},
+		{
+			"player": "Aaron Volpatti",
+			"team": "WSH",
+			"position": "LW",
+			"FENPCT": 6.22912698,
+			"EFEN60": 6.21414179850171,
+			"toi": 324.500216904241
+		},
+		{
+			"player": "Brenden Morrow",
+			"team": "TBL",
+			"position": "LW",
+			"FENPCT": 14.27218639,
+			"EFEN60": 6.20007581747287,
+			"toi": 1021.04700713685
+		},
+		{
+			"player": "Stephane Robidas",
+			"team": "TOR",
+			"position": "D",
+			"FENPCT": 4.13619586,
+			"EFEN60": 6.18438557220877,
+			"toi": 1082.93239502083
+		},
+		{
+			"player": "Jack Johnson",
+			"team": "CBJ",
+			"position": "D",
+			"FENPCT": 1.62191594,
+			"EFEN60": 6.17608911838728,
+			"toi": 2314.63388706285
+		},
+		{
+			"player": "Paul Byron",
+			"team": "CGY",
+			"position": "C",
+			"FENPCT": 7.02788394,
+			"EFEN60": 6.16901367150202,
+			"toi": 454.760757053699
+		},
+		{
+			"player": "Ryan Stanton",
+			"team": "VAN",
+			"position": "D",
+			"FENPCT": 1.08108384,
+			"EFEN60": 6.16837081431791,
+			"toi": 694.7877604698
+		},
+		{
+			"player": "Joe Colborne",
+			"team": "CGY",
+			"position": "C",
+			"FENPCT": 9.15919514,
+			"EFEN60": 6.16428710198928,
+			"toi": 672.436889518585
+		},
+		{
+			"player": "Sami Salo",
+			"team": "TBL",
+			"position": "D",
+			"FENPCT": 3.73544376,
+			"EFEN60": 6.15160061964657,
+			"toi": 1106.65821094511
+		},
+		{
+			"player": "Dainius Zubrus",
+			"team": "NJD",
+			"position": "C",
+			"FENPCT": 8.7598692,
+			"EFEN60": 6.14015501851971,
+			"toi": 1152.22792228506
+		},
+		{
+			"player": "Kyle Quincey",
+			"team": "DET",
+			"position": "D",
+			"FENPCT": 2.74539134,
+			"EFEN60": 6.1398573262603,
+			"toi": 1604.87364404903
+		},
+		{
+			"player": "Ian Cole",
+			"team": "STL",
+			"position": "D",
+			"FENPCT": 3.62325418,
+			"EFEN60": 6.11247953127153,
+			"toi": 500.550502788335
+		},
+		{
+			"player": "Patrick Bordeleau",
+			"team": "COL",
+			"position": "LW",
+			"FENPCT": 10.90555651,
+			"EFEN60": 6.09844627781975,
+			"toi": 477.436679339842
+		},
+		{
+			"player": "Cam Fowler",
+			"team": "ANA",
+			"position": "D",
+			"FENPCT": 1.59774502,
+			"EFEN60": 6.09678486122923,
+			"toi": 1716.47083854026
+		},
+		{
+			"player": "Seth Jones",
+			"team": "NSH",
+			"position": "D",
+			"FENPCT": 3.64,
+			"EFEN60": 6.08825935695896,
+			"toi": 1632.45251640115
+		},
+		{
+			"player": "Rich Clune",
+			"team": "NSH",
+			"position": "LW",
+			"FENPCT": 7.49400312,
+			"EFEN60": 6.07252321780898,
+			"toi": 494.207976200252
+		},
+		{
+			"player": "Sheldon Brookbank",
+			"team": "CHI",
+			"position": "D",
+			"FENPCT": 2.67248219,
+			"EFEN60": 6.0713822651488,
+			"toi": 600.277761939855
+		},
+		{
+			"player": "Martin Erat",
+			"team": "PHX",
+			"position": "RW",
+			"FENPCT": 5.91573119,
+			"EFEN60": 6.07019688026369,
+			"toi": 1105.26654902285
+		},
+		{
+			"player": "Paul Ranger",
+			"team": "TOR",
+			"position": "D",
+			"FENPCT": 6.02866782,
+			"EFEN60": 6.05250167842199,
+			"toi": 779.720815834685
+		},
+		{
+			"player": "Jack Hillen",
+			"team": "WSH",
+			"position": "D",
+			"FENPCT": 3.0914757,
+			"EFEN60": 6.04740387481873,
+			"toi": 365.514494671562
+		},
+		{
+			"player": "James Wright",
+			"team": "WPG",
+			"position": "C",
+			"FENPCT": 1.60754559,
+			"EFEN60": 6.04729458569567,
+			"toi": 772.924318585608
+		},
+		{
+			"player": "Nick Spaling",
+			"team": "PIT",
+			"position": "LW",
+			"FENPCT": 9.26765288,
+			"EFEN60": 6.04664955228847,
+			"toi": 903.425359663276
+		},
+		{
+			"player": "Anton Belov",
+			"team": "EDM",
+			"position": "D",
+			"FENPCT": 1.75,
+			"EFEN60": 5.98007486475493,
+			"toi": 813.087451573085
+		},
+		{
+			"player": "Andrew Greene",
+			"team": "NJD",
+			"position": "D",
+			"FENPCT": 2.65229516,
+			"EFEN60": 5.92555557682598,
+			"toi": 2445.41422269829
+		},
+		{
+			"player": "Boyd Gordon",
+			"team": "EDM",
+			"position": "C",
+			"FENPCT": 5.79192164,
+			"EFEN60": 5.92315954719572,
+			"toi": 1176.89656136163
+		},
+		{
+			"player": "Jared Boll",
+			"team": "CBJ",
+			"position": "RW",
+			"FENPCT": 6.16019624,
+			"EFEN60": 5.90574835154607,
+			"toi": 412.736042366793
+		},
+		{
+			"player": "Francois Beauchemin",
+			"team": "ANA",
+			"position": "D",
+			"FENPCT": 3.67788581,
+			"EFEN60": 5.88988052999207,
+			"toi": 1838.15356226268
+		},
+		{
+			"player": "Henrik Sedin",
+			"team": "VAN",
+			"position": "C",
+			"FENPCT": 8.05342867,
+			"EFEN60": 5.85791254394074,
+			"toi": 1364.50169469544
+		},
+		{
+			"player": "Thomas Hickey",
+			"team": "NYI",
+			"position": "D",
+			"FENPCT": 2.66927782,
+			"EFEN60": 5.84295998854888,
+			"toi": 1637.78280121084
+		},
+		{
+			"player": "Simon Despres",
+			"team": "PIT",
+			"position": "D",
+			"FENPCT": 1.58886387,
+			"EFEN60": 5.8416844743663,
+			"toi": 718.895175313076
+		},
+		{
+			"player": "Marcus Johansson",
+			"team": "WSH",
+			"position": "C",
+			"FENPCT": 4.28573657,
+			"EFEN60": 5.83683729711312,
+			"toi": 1225.23176813231
+		},
+		{
+			"player": "Davis Drewiske",
+			"team": "MTL",
+			"position": "D",
+			"FENPCT": 3.00891234,
+			"EFEN60": 5.83504373201633,
+			"toi": 527.044319785834
+		},
+		{
+			"player": "Jonathon Blum",
+			"team": "MIN",
+			"position": "D",
+			"FENPCT": 4.30509485,
+			"EFEN60": 5.83456801382725,
+			"toi": 460.430800537601
+		},
+		{
+			"player": "Roman Josi",
+			"team": "NSH",
+			"position": "C",
+			"FENPCT": 6.07667025,
+			"EFEN60": 5.82793275960288,
+			"toi": 1822.73086749304
+		},
+		{
+			"player": "Matt Greene",
+			"team": "LAK",
+			"position": "D",
+			"FENPCT": 3.03573615,
+			"EFEN60": 5.82117505299553,
+			"toi": 629.664952018743
+		},
+		{
+			"player": "Alex Tanguay",
+			"team": "COL",
+			"position": "LW",
+			"FENPCT": 15.35939367,
+			"EFEN60": 5.81288558397554,
+			"toi": 647.205301580317
+		},
+		{
+			"player": "Chris Phillips",
+			"team": "OTT",
+			"position": "D",
+			"FENPCT": 1.21179599,
+			"EFEN60": 5.77950128776362,
+			"toi": 1498.83867832437
+		},
+		{
+			"player": "Stephen Weiss",
+			"team": "DET",
+			"position": "C",
+			"FENPCT": 7.76259602,
+			"EFEN60": 5.76524173190268,
+			"toi": 528.270324981473
+		},
+		{
+			"player": "Matt Carle",
+			"team": "TBL",
+			"position": "D",
+			"FENPCT": 1.61393775,
+			"EFEN60": 5.73848492342525,
+			"toi": 1465.1708608466
+		},
+		{
+			"player": "Chris Thorburn",
+			"team": "WPG",
+			"position": "C",
+			"FENPCT": 5.69434335,
+			"EFEN60": 5.72082641408391,
+			"toi": 611.11731529777
+		},
+		{
+			"player": "David Desharnais",
+			"team": "MTL",
+			"position": "C",
+			"FENPCT": 12.80263986,
+			"EFEN60": 5.71175657691295,
+			"toi": 1337.59362586677
+		},
+		{
+			"player": "Corey Tropp",
+			"team": "CBJ",
+			"position": "RW",
+			"FENPCT": 5.13313689,
+			"EFEN60": 5.70618653758873,
+			"toi": 532.730649467025
+		},
+		{
+			"player": "Kevin Porter",
+			"team": "DET",
+			"position": "C",
+			"FENPCT": 5.93891385,
+			"EFEN60": 5.70303289868505,
+			"toi": 329.679409454608
+		},
+		{
+			"player": "Danny Dekeyser",
+			"team": "DET",
+			"position": "D",
+			"FENPCT": 2.03488372,
+			"EFEN60": 5.7015118334217,
+			"toi": 1147.66113828814
+		},
+		{
+			"player": "Marcus Kruger",
+			"team": "CHI",
+			"position": "C",
+			"FENPCT": 7.33756027,
+			"EFEN60": 5.68302405362115,
+			"toi": 1212.36754169483
+		},
+		{
+			"player": "Ryan Reaves",
+			"team": "STL",
+			"position": "RW",
+			"FENPCT": 6.55465463,
+			"EFEN60": 5.63279398625408,
+			"toi": 464.238595747609
+		},
+		{
+			"player": "Peter Harrold",
+			"team": "NJD",
+			"position": "D",
+			"FENPCT": 0.71625578,
+			"EFEN60": 5.63242972702709,
+			"toi": 696.503102581881
+		},
+		{
+			"player": "Robert Bortuzzo",
+			"team": "PIT",
+			"position": "D",
+			"FENPCT": 1.12189014,
+			"EFEN60": 5.62953907349317,
+			"toi": 720.728330757863
+		},
+		{
+			"player": "Andrei Markov",
+			"team": "MTL",
+			"position": "D",
+			"FENPCT": 4.3095002,
+			"EFEN60": 5.61765424716099,
+			"toi": 1657.30000269145
+		},
+		{
+			"player": "Ryan Suter",
+			"team": "MIN",
+			"position": "D",
+			"FENPCT": 3.35070876,
+			"EFEN60": 5.60631287671551,
+			"toi": 2820.0488265907
+		},
+		{
+			"player": "Brandon Prust",
+			"team": "MTL",
+			"position": "LW",
+			"FENPCT": 10.23851986,
+			"EFEN60": 5.59408334200406,
+			"toi": 869.444364491805
+		},
+		{
+			"player": "Roman Polak",
+			"team": "TOR",
+			"position": "D",
+			"FENPCT": 2.62847356,
+			"EFEN60": 5.5431268914148,
+			"toi": 1171.09828223855
+		},
+		{
+			"player": "Dmitry Orlov",
+			"team": "WSH",
+			"position": "D",
+			"FENPCT": 3.63006537,
+			"EFEN60": 5.52509590661733,
+			"toi": 616.373612785946
+		},
+		{
+			"player": "Ed Jovanovski",
+			"team": "FLA",
+			"position": "D",
+			"FENPCT": 2.81306655,
+			"EFEN60": 5.51646822120317,
+			"toi": 620.315889470649
+		},
+		{
+			"player": "Craig Adams",
+			"team": "PIT",
+			"position": "RW",
+			"FENPCT": 5.12407983,
+			"EFEN60": 5.51072095460128,
+			"toi": 1015.92940946401
+		},
+		{
+			"player": "Shawn Horcoff",
+			"team": "DAL",
+			"position": "C",
+			"FENPCT": 4.71800854,
+			"EFEN60": 5.502251082501,
+			"toi": 1008.34960226198
+		},
+		{
+			"player": "Tyler Bozak",
+			"team": "TOR",
+			"position": "C",
+			"FENPCT": 15.70079204,
+			"EFEN60": 5.50046487529323,
+			"toi": 1458.13560785221
+		},
+		{
+			"player": "Deryk Engelland",
+			"team": "CGY",
+			"position": "D",
+			"FENPCT": 5.91396217,
+			"EFEN60": 5.49917786574219,
+			"toi": 765.508857561539
+		},
+		{
+			"player": "Mark Fayne",
+			"team": "EDM",
+			"position": "D",
+			"FENPCT": 2.50072121,
+			"EFEN60": 5.47899030461984,
+			"toi": 1038.5031045645
+		},
+		{
+			"player": "Corey Potter",
+			"team": "CGY",
+			"position": "D",
+			"FENPCT": 3.18598092,
+			"EFEN60": 5.47503874619667,
+			"toi": 497.122829552939
+		},
+		{
+			"player": "Luca Sbisa",
+			"team": "VAN",
+			"position": "D",
+			"FENPCT": 2.49903737,
+			"EFEN60": 5.46203524534633,
+			"toi": 921.514006414279
+		},
+		{
+			"player": "Luke Schenn",
+			"team": "PHI",
+			"position": "D",
+			"FENPCT": 3.50370468,
+			"EFEN60": 5.45824691911879,
+			"toi": 977.821191672862
+		},
+		{
+			"player": "Tanner Glass",
+			"team": "NYR",
+			"position": "LW",
+			"FENPCT": 4.75167836,
+			"EFEN60": 5.44125097426899,
+			"toi": 899.834927847161
+		},
+		{
+			"player": "Kyle Chipchura",
+			"team": "PHX",
+			"position": "C",
+			"FENPCT": 8.16776645,
+			"EFEN60": 5.43792860174451,
+			"toi": 698.312799518601
+		},
+		{
+			"player": "Marc Staal",
+			"team": "NYR",
+			"position": "D",
+			"FENPCT": 1.88672853,
+			"EFEN60": 5.43725306402084,
+			"toi": 1079.02786348032
+		},
+		{
+			"player": "Eric Gryba",
+			"team": "OTT",
+			"position": "D",
+			"FENPCT": 2.60792453,
+			"EFEN60": 5.41514056083119,
+			"toi": 1032.0246727738
+		},
+		{
+			"player": "Michal Handzus",
+			"team": "CHI",
+			"position": "C",
+			"FENPCT": 5.75218826,
+			"EFEN60": 5.38311338791616,
+			"toi": 933.354078618811
+		},
+		{
+			"player": "Matt Stajan",
+			"team": "CGY",
+			"position": "C",
+			"FENPCT": 12.49092028,
+			"EFEN60": 5.38088968977191,
+			"toi": 1278.6328384916
+		},
+		{
+			"player": "Fedor Tyutin",
+			"team": "CBJ",
+			"position": "D",
+			"FENPCT": 4.96443881,
+			"EFEN60": 5.37046025092797,
+			"toi": 1881.52933394979
+		},
+		{
+			"player": "Tom Sestito",
+			"team": "VAN",
+			"position": "LW",
+			"FENPCT": 10.9466906,
+			"EFEN60": 5.36547421193329,
+			"toi": 351.060892202484
+		},
+		{
+			"player": "Connor Carrick",
+			"team": "WSH",
+			"position": "D",
+			"FENPCT": 2.94,
+			"EFEN60": 5.35393138743338,
+			"toi": 420.452758498298
+		},
+		{
+			"player": "Jeff Petry",
+			"team": "EDM",
+			"position": "D",
+			"FENPCT": 3.7748303,
+			"EFEN60": 5.35197444457,
+			"toi": 1475.9897946381
+		},
+		{
+			"player": "Carlo Colaiacovo",
+			"team": "STL",
+			"position": "D",
+			"FENPCT": 3.62650446,
+			"EFEN60": 5.33424457333993,
+			"toi": 403.052854719862
+		},
+		{
+			"player": "Rostislav Klesla",
+			"team": "BUF",
+			"position": "D",
+			"FENPCT": 3.42224252,
+			"EFEN60": 5.32731080498616,
+			"toi": 531.361763491625
+		},
+		{
+			"player": "Eric Brewer",
+			"team": "TBL",
+			"position": "D",
+			"FENPCT": 3.28940208,
+			"EFEN60": 5.30647046119784,
+			"toi": 1153.36933638094
+		},
+		{
+			"player": "Luke Glendening",
+			"team": "DET",
+			"position": "C",
+			"FENPCT": 1.75,
+			"EFEN60": 5.30644715515914,
+			"toi": 769.391840379907
+		},
+		{
+			"player": "Marc Methot",
+			"team": "OTT",
+			"position": "D",
+			"FENPCT": 3.78871102,
+			"EFEN60": 5.27386800695314,
+			"toi": 1572.11854266232
+		},
+		{
+			"player": "Brenden Dillon",
+			"team": "DAL",
+			"position": "D",
+			"FENPCT": 3.01364726,
+			"EFEN60": 5.26342752896279,
+			"toi": 1628.33014145626
+		},
+		{
+			"player": "Tom Gilbert",
+			"team": "MTL",
+			"position": "D",
+			"FENPCT": 1.74508546,
+			"EFEN60": 5.25895122951513,
+			"toi": 1393.61090249934
+		},
+		{
+			"player": "Erik Gustafsson",
+			"team": "PHI",
+			"position": "D",
+			"FENPCT": 5.06457847,
+			"EFEN60": 5.23215725337432,
+			"toi": 423.022498458832
+		},
+		{
+			"player": "Anton Lander",
+			"team": "EDM",
+			"position": "C",
+			"FENPCT": 0.31303948,
+			"EFEN60": 5.22770778738922,
+			"toi": 345.623299106212
+		},
+		{
+			"player": "Daniel Girardi",
+			"team": "NYR",
+			"position": "D",
+			"FENPCT": 3.33258934,
+			"EFEN60": 5.21456887574059,
+			"toi": 1665.71674464166
+		},
+		{
+			"player": "T.J. Brodie",
+			"team": "CGY",
+			"position": "D",
+			"FENPCT": 2.58927192,
+			"EFEN60": 5.13263170795652,
+			"toi": 1607.84330698078
+		},
+		{
+			"player": "Manny Malhotra",
+			"team": "MTL",
+			"position": "C",
+			"FENPCT": 10.37744617,
+			"EFEN60": 5.06706160541581,
+			"toi": 766.654370480962
+		},
+		{
+			"player": "Marco Scandella",
+			"team": "MIN",
+			"position": "D",
+			"FENPCT": 2.73869239,
+			"EFEN60": 5.05194584373498,
+			"toi": 1202.32086211683
+		},
+		{
+			"player": "Keith Ballard",
+			"team": "MIN",
+			"position": "D",
+			"FENPCT": 3.64735864,
+			"EFEN60": 5.03337107136571,
+			"toi": 839.097928736074
+		},
+		{
+			"player": "Andrew Ference",
+			"team": "EDM",
+			"position": "D",
+			"FENPCT": 3.32993042,
+			"EFEN60": 5.03218696667036,
+			"toi": 1255.23846617867
+		},
+		{
+			"player": "Alexander Sulzer",
+			"team": "BUF",
+			"position": "D",
+			"FENPCT": 3.81180217,
+			"EFEN60": 5.02537858604913,
+			"toi": 355.719996812396
+		},
+		{
+			"player": "John Erskine",
+			"team": "WSH",
+			"position": "D",
+			"FENPCT": 3.49640674,
+			"EFEN60": 5.02257915524262,
+			"toi": 530.172910467564
+		},
+		{
+			"player": "Zbynek Michalek",
+			"team": "PHX",
+			"position": "D",
+			"FENPCT": 1.64956616,
+			"EFEN60": 5.00641303848334,
+			"toi": 1336.76996755036
+		},
+		{
+			"player": "Dalton Prout",
+			"team": "CBJ",
+			"position": "D",
+			"FENPCT": 2.90841143,
+			"EFEN60": 5.00188373962083,
+			"toi": 875.450153543844
+		},
+		{
+			"player": "Ryan Wilson",
+			"team": "COL",
+			"position": "D",
+			"FENPCT": 0.69220214,
+			"EFEN60": 4.97234103977641,
+			"toi": 522.980275795214
+		},
+		{
+			"player": "Brian Campbell",
+			"team": "FLA",
+			"position": "D",
+			"FENPCT": 4.24958046,
+			"EFEN60": 4.96534061936825,
+			"toi": 2455.13820519349
+		},
+		{
+			"player": "Paul Gaustad",
+			"team": "NSH",
+			"position": "C",
+			"FENPCT": 10.41650663,
+			"EFEN60": 4.95296185769487,
+			"toi": 1095.75590172301
+		},
+		{
+			"player": "Jeff Halpern",
+			"team": "PHX",
+			"position": "C",
+			"FENPCT": 7.88646406,
+			"EFEN60": 4.92015035792761,
+			"toi": 794.563935538538
+		},
+		{
+			"player": "Jonathan Ericsson",
+			"team": "DET",
+			"position": "D",
+			"FENPCT": 2.32232853,
+			"EFEN60": 4.91626104511671,
+			"toi": 1273.96697478268
+		},
+		{
+			"player": "Tobias Enstrom",
+			"team": "WPG",
+			"position": "D",
+			"FENPCT": 6.53595395,
+			"EFEN60": 4.88551191690409,
+			"toi": 1560.87707512185
+		},
+		{
+			"player": "Alexei Emelin",
+			"team": "MTL",
+			"position": "D",
+			"FENPCT": 3.00958093,
+			"EFEN60": 4.8133931971276,
+			"toi": 1056.37565745522
+		},
+		{
+			"player": "Mark Stuart",
+			"team": "WPG",
+			"position": "D",
+			"FENPCT": 2.29701267,
+			"EFEN60": 4.79016589311844,
+			"toi": 1181.27101095526
+		},
+		{
+			"player": "Niklas Hjalmarsson",
+			"team": "CHI",
+			"position": "D",
+			"FENPCT": 2.31180524,
+			"EFEN60": 4.78635998010862,
+			"toi": 1593.53020059903
+		},
+		{
+			"player": "Paul Martin",
+			"team": "PIT",
+			"position": "D",
+			"FENPCT": 4.51923504,
+			"EFEN60": 4.76433025618665,
+			"toi": 1463.09275012993
+		},
+		{
+			"player": "Anton Volchenkov",
+			"team": "NSH",
+			"position": "D",
+			"FENPCT": 0.74399379,
+			"EFEN60": 4.76055314777508,
+			"toi": 1121.3043882321
+		},
+		{
+			"player": "Nicklas Grossmann",
+			"team": "PHI",
+			"position": "D",
+			"FENPCT": 1.03129122,
+			"EFEN60": 4.74487775547682,
+			"toi": 897.930459897251
+		},
+		{
+			"player": "Colton Orr",
+			"team": "TOR",
+			"position": "RW",
+			"FENPCT": 2.40097195,
+			"EFEN60": 4.72800209471004,
+			"toi": 308.501025087793
+		},
+		{
+			"player": "Kevin Klein",
+			"team": "NYR",
+			"position": "D",
+			"FENPCT": 2.51999803,
+			"EFEN60": 4.72017121726262,
+			"toi": 1183.05696996574
+		},
+		{
+			"player": "Barret Jackman",
+			"team": "STL",
+			"position": "D",
+			"FENPCT": 3.02794468,
+			"EFEN60": 4.70564829282887,
+			"toi": 1244.66904905756
+		},
+		{
+			"player": "Andrej Sustr",
+			"team": "TBL",
+			"position": "D",
+			"FENPCT": 1.93122349,
+			"EFEN60": 4.70428473161662,
+			"toi": 356.168349433377
+		},
+		{
+			"player": "Steve Oleksy",
+			"team": "WSH",
+			"position": "D",
+			"FENPCT": 4.74822007,
+			"EFEN60": 4.70272136584588,
+			"toi": 468.123348480589
+		},
+		{
+			"player": "Matt Hunwick",
+			"team": "NYR",
+			"position": "D",
+			"FENPCT": 1.38849507,
+			"EFEN60": 4.68482333342909,
+			"toi": 474.666033534411
+		},
+		{
+			"player": "Colby Robak",
+			"team": "FLA",
+			"position": "D",
+			"FENPCT": 0,
+			"EFEN60": 4.67269791476039,
+			"toi": 328.698104172165
+		},
+		{
+			"player": "Bryan Allen",
+			"team": "ANA",
+			"position": "D",
+			"FENPCT": 0.42999157,
+			"EFEN60": 4.66846268498326,
+			"toi": 1250.00874812633
+		},
+		{
+			"player": "Jay McClement",
+			"team": "CAR",
+			"position": "C",
+			"FENPCT": 6.89071639,
+			"EFEN60": 4.65546911325253,
+			"toi": 1424.03286147569
+		},
+		{
+			"player": "Chris Butler",
+			"team": "STL",
+			"position": "D",
+			"FENPCT": 1.66211033,
+			"EFEN60": 4.65529262892638,
+			"toi": 1287.82256771163
+		},
+		{
+			"player": "Brian Gibbons",
+			"team": "CBJ",
+			"position": "C",
+			"FENPCT": 11.43,
+			"EFEN60": 4.65450030723784,
+			"toi": 584.444515051956
+		},
+		{
+			"player": "Willie Mitchell",
+			"team": "FLA",
+			"position": "D",
+			"FENPCT": 1.53011647,
+			"EFEN60": 4.6453559638603,
+			"toi": 1701.01396852041
+		},
+		{
+			"player": "Andrew MacDonald",
+			"team": "PHI",
+			"position": "D",
+			"FENPCT": 3.10009459,
+			"EFEN60": 4.64252955932398,
+			"toi": 1370.61577513051
+		},
+		{
+			"player": "Brad Stuart",
+			"team": "COL",
+			"position": "D",
+			"FENPCT": 2.52501227,
+			"EFEN60": 4.63198321141027,
+			"toi": 1406.27103719794
+		},
+		{
+			"player": "Karl Alzner",
+			"team": "WSH",
+			"position": "D",
+			"FENPCT": 1.46528859,
+			"EFEN60": 4.61177112700132,
+			"toi": 1332.29727912924
+		},
+		{
+			"player": "Adam Pardy",
+			"team": "WPG",
+			"position": "D",
+			"FENPCT": 0.14858653,
+			"EFEN60": 4.56205364532149,
+			"toi": 651.498706085615
+		},
+		{
+			"player": "Kevan Miller",
+			"team": "BOS",
+			"position": "D",
+			"FENPCT": 1.72,
+			"EFEN60": 4.5517103416452,
+			"toi": 826.487638838124
+		},
+		{
+			"player": "Mattias Ekholm",
+			"team": "NSH",
+			"position": "D",
+			"FENPCT": 1.38480697,
+			"EFEN60": 4.54216534761962,
+			"toi": 697.876962905093
+		},
+		{
+			"player": "Adam McQuaid",
+			"team": "BOS",
+			"position": "D",
+			"FENPCT": 3.14208801,
+			"EFEN60": 4.51118980375027,
+			"toi": 628.36796004073
+		},
+		{
+			"player": "Connor Murphy",
+			"team": "PHX",
+			"position": "D",
+			"FENPCT": 2.5,
+			"EFEN60": 4.50975377926302,
+			"toi": 556.521231402047
+		},
+		{
+			"player": "Clayton Stoner",
+			"team": "ANA",
+			"position": "D",
+			"FENPCT": 1.25025139,
+			"EFEN60": 4.48218042797066,
+			"toi": 970.8401571336
+		},
+		{
+			"player": "Jon Merrill",
+			"team": "NJD",
+			"position": "D",
+			"FENPCT": 3.39,
+			"EFEN60": 4.44351925536651,
+			"toi": 1199.80996320259
+		},
+		{
+			"player": "Zenon Konopka",
+			"team": "BUF",
+			"position": "C",
+			"FENPCT": 2.78440785,
+			"EFEN60": 4.43001299217181,
+			"toi": 486.856361856577
+		},
+		{
+			"player": "Cory Sarich",
+			"team": "COL",
+			"position": "D",
+			"FENPCT": 1.4334779,
+			"EFEN60": 4.40646426487094,
+			"toi": 888.395832546276
+		},
+		{
+			"player": "Shane O'Brien",
+			"team": "CGY",
+			"position": "D",
+			"FENPCT": 0.65574761,
+			"EFEN60": 4.4038878905147,
+			"toi": 632.690747098803
+		},
+		{
+			"player": "Tyson Strachan",
+			"team": "BUF",
+			"position": "D",
+			"FENPCT": 0.21208525,
+			"EFEN60": 4.39686592705402,
+			"toi": 407.032241567982
+		},
+		{
+			"player": "Keith Aulie",
+			"team": "EDM",
+			"position": "D",
+			"FENPCT": 2.41132547,
+			"EFEN60": 4.38807393462113,
+			"toi": 338.616924329777
+		},
+		{
+			"player": "Johnny Oduya",
+			"team": "CHI",
+			"position": "D",
+			"FENPCT": 2.91967313,
+			"EFEN60": 4.34791623803279,
+			"toi": 1510.79448624726
+		},
+		{
+			"player": "Ryan Whitney",
+			"team": "FLA",
+			"position": "D",
+			"FENPCT": 7.82923647,
+			"EFEN60": 4.3067271153884,
+			"toi": 579.142196862924
+		},
+		{
+			"player": "Keaton Ellerby",
+			"team": "WPG",
+			"position": "D",
+			"FENPCT": 1.60856593,
+			"EFEN60": 4.2527418377414,
+			"toi": 720.395010104638
+		},
+		{
+			"player": "Mike Komisarek",
+			"team": "CAR",
+			"position": "D",
+			"FENPCT": 0.53630391,
+			"EFEN60": 4.22141753960426,
+			"toi": 336.396790663074
+		},
+		{
+			"player": "Aaron Rome",
+			"team": "DAL",
+			"position": "D",
+			"FENPCT": 0.87038781,
+			"EFEN60": 4.19039283181254,
+			"toi": 495.816732483415
+		},
+		{
+			"player": "Justin Falk",
+			"team": "MIN",
+			"position": "D",
+			"FENPCT": 0,
+			"EFEN60": 4.17290204902042,
+			"toi": 527.098181729578
+		},
+		{
+			"player": "Mike Weber",
+			"team": "BUF",
+			"position": "D",
+			"FENPCT": 3.1876763,
+			"EFEN60": 4.17045110454824,
+			"toi": 926.967462413752
+		},
+		{
+			"player": "Tim Erixon",
+			"team": "CBJ",
+			"position": "D",
+			"FENPCT": 0,
+			"EFEN60": 4.15884176315918,
+			"toi": 304.829459955953
+		},
+		{
+			"player": "Ryan Murray",
+			"team": "CBJ",
+			"position": "D",
+			"FENPCT": 1.92,
+			"EFEN60": 4.11732340840269,
+			"toi": 1468.00213151034
+		},
+		{
+			"player": "Michal Rozsival",
+			"team": "CHI",
+			"position": "D",
+			"FENPCT": 2.01314677,
+			"EFEN60": 4.11697063415065,
+			"toi": 752.437246696858
+		},
+		{
+			"player": "David Savard",
+			"team": "CBJ",
+			"position": "D",
+			"FENPCT": 5.15686275,
+			"EFEN60": 4.11508674565885,
+			"toi": 991.706502000678
+		},
+		{
+			"player": "Andrew Alberts",
+			"team": "VAN",
+			"position": "D",
+			"FENPCT": 2.31512006,
+			"EFEN60": 4.06022501866878,
+			"toi": 331.67042069077
+		},
+		{
+			"player": "John Scott",
+			"team": "SJS",
+			"position": "D",
+			"FENPCT": 4.27492041,
+			"EFEN60": 4.05952272376855,
+			"toi": 445.78715056589
+		},
+		{
+			"player": "Brett Bellemore",
+			"team": "CAR",
+			"position": "D",
+			"FENPCT": 2.77771994,
+			"EFEN60": 4.02835735564296,
+			"toi": 750.951517094018
+		},
+		{
+			"player": "Jan Hejda",
+			"team": "COL",
+			"position": "D",
+			"FENPCT": 4.86372387,
+			"EFEN60": 4.00044070794089,
+			"toi": 1721.86041105019
+		},
+		{
+			"player": "Ron Hainsey",
+			"team": "CAR",
+			"position": "D",
+			"FENPCT": 3.03704375,
+			"EFEN60": 3.98131800437855,
+			"toi": 1616.83622093787
+		},
+		{
+			"player": "Brian Strait",
+			"team": "NYI",
+			"position": "D",
+			"FENPCT": 4.50203228,
+			"EFEN60": 3.960439781861,
+			"toi": 795.771722776103
+		},
+		{
+			"player": "Robyn Regehr",
+			"team": "LAK",
+			"position": "D",
+			"FENPCT": 2.17248943,
+			"EFEN60": 3.95354883245859,
+			"toi": 1578.82459727055
+		},
+		{
+			"player": "Scott Hannan",
+			"team": "SJS",
+			"position": "D",
+			"FENPCT": 2.89258932,
+			"EFEN60": 3.94781440293018,
+			"toi": 1545.67449974641
+		},
+		{
+			"player": "Jared Cowen",
+			"team": "OTT",
+			"position": "D",
+			"FENPCT": 6.7212432,
+			"EFEN60": 3.92610083461098,
+			"toi": 1075.56789591718
+		},
+		{
+			"player": "Christopher Tanev",
+			"team": "VAN",
+			"position": "D",
+			"FENPCT": 5.61477156,
+			"EFEN60": 3.92310221479955,
+			"toi": 1263.64699155103
+		},
+		{
+			"player": "Douglas Murray",
+			"team": "MTL",
+			"position": "D",
+			"FENPCT": 0.63792483,
+			"EFEN60": 3.88520024514064,
+			"toi": 884.900190532239
+		},
+		{
+			"player": "Adam Larsson",
+			"team": "NJD",
+			"position": "D",
+			"FENPCT": 2.10623269,
+			"EFEN60": 3.84787336489396,
+			"toi": 885.63212990567
+		},
+		{
+			"player": "Nate Prosser",
+			"team": "STL",
+			"position": "D",
+			"FENPCT": 3.50139697,
+			"EFEN60": 3.80211588507183,
+			"toi": 540.733927926836
+		},
+		{
+			"player": "Brian Lashoff",
+			"team": "DET",
+			"position": "D",
+			"FENPCT": 1.86533358,
+			"EFEN60": 3.76826570710264,
+			"toi": 1067.35340073501
+		},
+		{
+			"player": "Francis Bouillon",
+			"team": "MTL",
+			"position": "D",
+			"FENPCT": 4.64421369,
+			"EFEN60": 3.70144457849564,
+			"toi": 973.481233142651
+		},
+		{
+			"player": "Jonas Brodin",
+			"team": "MIN",
+			"position": "D",
+			"FENPCT": 4.92131896,
+			"EFEN60": 3.70053338417314,
+			"toi": 2164.72179380029
+		},
+		{
+			"player": "Mark Fistric",
+			"team": "ANA",
+			"position": "D",
+			"FENPCT": 0.31140187,
+			"EFEN60": 3.65503164577996,
+			"toi": 611.748950717321
+		},
+		{
+			"player": "Nathan Guenin",
+			"team": "COL",
+			"position": "D",
+			"FENPCT": 2.17604201,
+			"EFEN60": 3.65113808166879,
+			"toi": 994.960315842286
+		},
+		{
+			"player": "Tim Gleason",
+			"team": "CAR",
+			"position": "D",
+			"FENPCT": 1.53187907,
+			"EFEN60": 3.62095002362294,
+			"toi": 1095.15961787156
+		},
+		{
+			"player": "Mike Weaver",
+			"team": "MTL",
+			"position": "D",
+			"FENPCT": 1.43456647,
+			"EFEN60": 3.54419905429286,
+			"toi": 1153.330340097
+		},
+		{
+			"player": "Martin Marincin",
+			"team": "EDM",
+			"position": "D",
+			"FENPCT": 0,
+			"EFEN60": 3.34223692689527,
+			"toi": 708.364083787492
+		},
+		{
+			"player": "Jerred Smithson",
+			"team": "TOR",
+			"position": "RW",
+			"FENPCT": 4.55714361,
+			"EFEN60": 3.32198189964768,
+			"toi": 587.082077198158
+		},
+		{
+			"player": "Josh Gorges",
+			"team": "BUF",
+			"position": "D",
+			"FENPCT": 1.2189194,
+			"EFEN60": 3.30964446685356,
+			"toi": 1189.40448772422
+		},
+		{
+			"player": "Henrik Tallinder",
+			"team": "BUF",
+			"position": "D",
+			"FENPCT": 3.32112486,
+			"EFEN60": 3.22935377652209,
+			"toi": 832.229965297062
+		},
+		{
+			"player": "Carl Gunnarsson",
+			"team": "TOR",
+			"position": "D",
+			"FENPCT": 4.43959673,
+			"EFEN60": 3.18258495079702,
+			"toi": 1321.80788775671
+		},
+		{
+			"player": "Brooks Orpik",
+			"team": "WSH",
+			"position": "D",
+			"FENPCT": 2.14396593,
+			"EFEN60": 3.01330596671168,
+			"toi": 1250.05298976992
+		},
+		{
+			"player": "Nick Schultz",
+			"team": "PHI",
+			"position": "D",
+			"FENPCT": 0.66441968,
+			"EFEN60": 3.00592080523457,
+			"toi": 878.791163230777
+		},
+		{
+			"player": "Victor Bartley",
+			"team": "NSH",
+			"position": "D",
+			"FENPCT": 2.52817425,
+			"EFEN60": 2.84520630656151,
+			"toi": 818.621498039271
+		},
+		{
+			"player": "Mark Fraser",
+			"team": "EDM",
+			"position": "D",
+			"FENPCT": 2.85690379,
+			"EFEN60": 2.77289128237597,
+			"toi": 625.80806380633
+		},
+		{
+			"player": "Bryce Salvador",
+			"team": "NJD",
+			"position": "D",
+			"FENPCT": 1.60048119,
+			"EFEN60": 2.61600610052074,
+			"toi": 1406.8925210659
+		},
+		{
+			"player": "Ladislav Smid",
+			"team": "CGY",
+			"position": "D",
+			"FENPCT": 3.47196179,
+			"EFEN60": 2.5805482556433,
+			"toi": 1392.93744529509
+		},
+		{
+			"player": "Jeff Schultz",
+			"team": "LAK",
+			"position": "D",
+			"FENPCT": 1.8783608,
+			"EFEN60": 2.45419609871844,
+			"toi": 825.089112640329
+		},
+		{
+			"player": "Rob Scuderi",
+			"team": "PIT",
+			"position": "D",
+			"FENPCT": 0.85779911,
+			"EFEN60": 2.40368651770161,
+			"toi": 1576.20165708214
+		}
+	]
